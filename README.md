@@ -44,7 +44,9 @@ chmod +x install.sh
 
 Add `-g`/`--gtk` to also apply the optional GTK extras (see below), `-d DIR`
 to install somewhere other than `~/.local/share`, and `-r`/`--remove` to
-uninstall. `./install.sh --help` for the full list.
+uninstall (switches back to stock Breeze/Breeze Dark first if Plasma
+Groovbx is the active Global Theme). `./install.sh --help` for the full
+list.
 
 Then apply from System Settings → Appearance → Global Themes → **Plasma
 Groovbx Dark** or **Plasma Groovbx Light**.

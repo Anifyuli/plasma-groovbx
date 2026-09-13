@@ -22,7 +22,9 @@ Plasma Groovbx installer
 Usage: $(basename "$0") [options]
 
   -d, --dest DIR   Install destination base (default: $DEST)
-  -r, --remove     Uninstall instead of install
+  -r, --remove     Uninstall instead of install. If Plasma Groovbx (or its
+                   Yakuake skin) is currently active, switches back to
+                   stock Breeze/Breeze Dark first.
   -g, --gtk        Also apply the optional GTK window-button-icon workaround
                    and close-hover snippet, to ~/.config/gtk-3.0 and gtk-4.0
   -h, --help       Show this help
@@ -80,7 +82,47 @@ do_install() {
   fi
 }
 
+reset_to_breeze() {
+  local current
+  current="$(kreadconfig6 --file kdeglobals --group KDE --key LookAndFeelPackage 2>/dev/null)"
+  case "$current" in
+    com.anifyuli.plasmagroovbxdark.desktop)
+      log "Currently active — switching back to Breeze Dark"
+      plasma-apply-lookandfeel -a org.kde.breezedark.desktop 2>/dev/null \
+        || warn "plasma-apply-lookandfeel failed; switch manually from System Settings > Global Themes"
+      ;;
+    com.anifyuli.plasmagroovbxlight.desktop)
+      log "Currently active — switching back to Breeze"
+      plasma-apply-lookandfeel -a org.kde.breeze.desktop 2>/dev/null \
+        || warn "plasma-apply-lookandfeel failed; switch manually from System Settings > Global Themes"
+      ;;
+    *) return ;;
+  esac
+  # AccentColor isn't touched by the stock Breeze look-and-feel's own
+  # defaults, so it would otherwise linger — drop it so Plasma goes back to
+  # its own default (auto/from wallpaper) behavior.
+  kwriteconfig6 --file kdeglobals --group General --key AccentColor --delete
+  kwriteconfig6 --file kdeglobals --group General --key AccentColorFromWallpaper --delete
+}
+
 do_remove() {
+  reset_to_breeze
+
+  if [ "$(kreadconfig6 --file yakuakerc --group Appearance --key Skin 2>/dev/null)" = "Groovbx" ]; then
+    log "Yakuake skin was Groovbx — switching back to the default skin"
+    kwriteconfig6 --file yakuakerc --group Appearance --key Skin "default"
+  fi
+
+  for v in gtk-3.0 gtk-4.0; do
+    css="$HOME/.config/$v/gtk.css"
+    asset="$HOME/.config/$v/assets/gruvbox-close-hover-symbolic.svg"
+    [ -f "$asset" ] && { log "Removing $v/assets/gruvbox-close-hover-symbolic.svg"; rm -f "$asset"; }
+    if grep -q "Plasma Groovbx" "$css" 2>/dev/null; then
+      log "Removing the Plasma Groovbx snippet from $v/gtk.css"
+      sed -i '/Plasma Groovbx: brighten the close-button hover state/,/^}$/d' "$css"
+    fi
+  done
+
   for pair in "${COMPONENTS[@]}"; do
     src="${pair%%:*}"
     dst="${pair##*:}"
