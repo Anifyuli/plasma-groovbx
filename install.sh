@@ -50,6 +50,7 @@ COMPONENTS=(
   "plasma/look-and-feel:plasma/look-and-feel"
   "icons:icons"
   "wallpaper:wallpapers"
+  "yakuake/skins:yakuake/skins"
 )
 
 do_install() {

@@ -24,6 +24,7 @@ Wallpaper — *Circularities*, by Anifyuli:
 | Plasma style | `plasma/desktoptheme/` | `~/.local/share/plasma/desktoptheme/` |
 | Global Theme (Dark/Light) | `plasma/look-and-feel/` | `~/.local/share/plasma/look-and-feel/` |
 | Icons (Dark/Light) | `icons/` | `~/.local/share/icons/` |
+| Yakuake skin | `yakuake/skins/` | `~/.local/share/yakuake/skins/` |
 | Wallpaper | `wallpaper/` | `~/.local/share/wallpapers/` |
 
 Each piece works on its own — the color schemes work with the default Breeze
@@ -50,6 +51,9 @@ Groovbx Dark** or **Plasma Groovbx Light**.
 
 Prefer to do it by hand instead? Each component under `Components` above is
 just a folder to copy to the matching path in `~/.local/share/`.
+
+Yakuake doesn't pick up its skin automatically — open Yakuake, go to
+Configure Yakuake → Appearance, and pick **Groovbx** from the Skin list.
 
 ## Icons
 
