@@ -1,0 +1,10 @@
+/* Plasma Groovbx: brighten the close-button hover state (stock Breeze GTK
+   uses a 50%-opacity red overlay that reads as washed-out pink; this
+   swaps it for a solid Gruvbox red).
+   Append to ~/.config/gtk-3.0/gtk.css and ~/.config/gtk-4.0/gtk.css
+   (each with its own copy of assets/gruvbox-close-hover-symbolic.svg
+   alongside it), after kde-gtk-config's `@import 'colors.css';` line. */
+headerbar button.titlebutton.close:hover,
+.titlebar button.titlebutton.close:hover {
+  background-image: -gtk-recolor(url("assets/gruvbox-close-hover-symbolic.svg"));
+}

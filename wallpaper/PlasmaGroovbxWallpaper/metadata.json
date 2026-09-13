@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "anifyuli"
+            }
+        ],
+        "Id": "PlasmaGroovbxWallpaper",
+        "License": "GPL-3.0-or-later",
+        "Name": "Plasma Groovbx",
+        "Version": "0.1"
+    }
+}

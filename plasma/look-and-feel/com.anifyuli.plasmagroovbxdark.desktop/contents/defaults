@@ -1,0 +1,12 @@
+[kdeglobals][General]
+ColorScheme=PlasmaGroovbxDark
+
+[kdeglobals][Icons]
+Theme=PlasmaGroovbx
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.breeze
+theme=BreezeDark
+
+[plasmarc][Theme]
+name=PlasmaGroovbx

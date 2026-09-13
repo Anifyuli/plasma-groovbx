@@ -1,0 +1,17 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "",
+        "Name": "anifyuli"
+      }
+    ],
+    "Category": "Plasma",
+    "Description": "Breeze look with Gruvbox palette and a more transparent panel",
+    "Id": "com.anifyuli.plasmagroovbxlight.desktop",
+    "License": "GPL-3.0-or-later",
+    "Name": "Plasma Groovbx Light",
+    "Version": "0.1"
+  }
+}
