@@ -134,7 +134,7 @@ ForegroundPositive=184,187,38
 ForegroundVisited=211,134,155
 
 [General]
-AccentColor=125,174,163
+AccentColor=69,133,136
 AccentColorFromWallpaper=false
 ColorScheme=PlasmaGroovbxLight
 Name=Plasma Groovbx Light
