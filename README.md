@@ -79,5 +79,6 @@ the installed theme, not applied unless you pass `-g`/`--gtk` to
 
 ## License
 
-GPL-3.0-or-later, except the Plasma style (`plasma/desktoptheme/`), inherited
-as LGPL from Breeze.
+[GPL-3.0-or-later](LICENSE), except the Plasma style
+(`plasma/desktoptheme/`), inherited as [LGPL](plasma/desktoptheme/LICENSE)
+from Breeze.
