@@ -35,6 +35,9 @@ Breeze/Breeze Dark).
 ## Install
 
 ```sh
+git clone https://github.com/Anifyuli/plasma-groovbx.git
+cd plasma-groovbx
+chmod +x install.sh
 ./install.sh
 ```
 
