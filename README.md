@@ -34,19 +34,19 @@ Breeze/Breeze Dark).
 
 ## Install
 
-Copy each folder under its component to the matching path in
-`~/.local/share/`, e.g.:
-
 ```sh
-cp -r color-schemes/* ~/.local/share/color-schemes/
-cp -r plasma/desktoptheme/* ~/.local/share/plasma/desktoptheme/
-cp -r plasma/look-and-feel/* ~/.local/share/plasma/look-and-feel/
-cp -r icons/* ~/.local/share/icons/
-cp -r wallpaper/* ~/.local/share/wallpapers/
+./install.sh
 ```
+
+Add `-g`/`--gtk` to also apply the optional GTK extras (see below), `-d DIR`
+to install somewhere other than `~/.local/share`, and `-r`/`--remove` to
+uninstall. `./install.sh --help` for the full list.
 
 Then apply from System Settings → Appearance → Global Themes → **Plasma
 Groovbx Dark** or **Plasma Groovbx Light**.
+
+Prefer to do it by hand instead? Each component under `Components` above is
+just a folder to copy to the matching path in `~/.local/share/`.
 
 ## Icons
 
@@ -64,7 +64,8 @@ The icon theme is Breeze plus:
 GTK3/4 apps are themed automatically by Plasma's own GTK Config integration
 (same as with any KDE color scheme) — nothing in this repo is required for
 that. `gtk/` in this repo is a couple of extra, optional files (not part of
-the installed theme, not referenced by any of the components above):
+the installed theme, not applied unless you pass `-g`/`--gtk` to
+`install.sh` or copy them yourself):
 
 - `gtk/gtk.css.append` — a small snippet some people may want to brighten the
   GTK titlebar close-button hover color; append it to your own
