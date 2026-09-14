@@ -68,6 +68,22 @@ The icon theme is Breeze plus:
 - Folder and generic UI icons follow the accent color automatically (Breeze's
   own `ColorScheme-Accent` mechanism), no separate icon work needed there.
 
+## Known issue: AccentColor after switching Dark ↔ Light
+
+Neither `plasma-apply-colorscheme` nor `plasma-apply-lookandfeel` reliably
+apply the AccentColor declared in a color scheme or Global Theme's
+`defaults` — it's a single global value, and switching between Plasma
+Groovbx Dark and Light from System Settings can leave the *other*
+variant's AccentColor in place. Since Plasma derives the Selection text
+color (and a few other things, like the Pager's active-desktop indicator)
+from AccentColor at apply time, this can leave selected text unreadable.
+
+If that happens, run:
+
+```sh
+./fix-accent-color.sh
+```
+
 ## GTK apps
 
 GTK3/4 apps are themed automatically by Plasma's own GTK Config integration

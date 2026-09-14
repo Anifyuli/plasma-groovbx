@@ -1,5 +1,7 @@
 [kdeglobals][General]
 ColorScheme=PlasmaGroovbxLight
+AccentColor=50,180,186
+AccentColorFromWallpaper=false
 
 [kdeglobals][Icons]
 Theme=PlasmaGroovbxLight
