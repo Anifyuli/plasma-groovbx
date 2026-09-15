@@ -72,6 +72,10 @@ a future Breeze icon this repo doesn't have yet — still resolves), plus:
 - The network status icons (connected/disconnected/signal strength, wired
   and wireless) completed to match current Breeze, following the active
   color scheme automatically.
+- A Gruvbox-tinted `fedora-logo-icon` (the Kickoff/menu icon on Fedora
+  spins, whose default already resolves to that name — nothing in this repo
+  forces it) alongside the existing tinted `start-here-kde`/
+  `start-here-kde-plasma` for KDE's own generic menu mark on other distros.
 - Folder and generic UI icons follow the accent color automatically (Breeze's
   own `ColorScheme-Accent` mechanism), no separate icon work needed there.
 
