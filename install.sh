@@ -66,6 +66,16 @@ do_install() {
       cp -r "$item" "$DEST/$dst/"
     done
   done
+
+  # The layout script needs a real resolved path for the wallpaper image
+  # (org.kde.image doesn't accept a bare package id there), so point the
+  # placeholder at wherever this install actually put the wallpaper package.
+  wallpaper_path="file://$DEST/wallpapers/PlasmaGroovbxWallpaper/"
+  for layout in "$DEST"/plasma/look-and-feel/com.anifyuli.plasmagroovbx*.desktop/contents/layouts/org.kde.plasma.desktop-layout.js; do
+    [ -e "$layout" ] || continue
+    sed -i "s|__PLASMA_GROOVBX_WALLPAPER_PATH__|$wallpaper_path|" "$layout"
+  done
+
   log "Done. Apply from System Settings > Appearance > Global Themes > Plasma Groovbx Dark/Light."
 
   if [ "$WITH_GTK" = true ]; then
