@@ -59,12 +59,19 @@ Configure Yakuake → Appearance, and pick **Groovbx** from the Skin list.
 
 ## Icons
 
-The icon theme is Breeze plus:
-- The third-party app icons (LibreOffice, and others) that upstream Breeze
-  [removed](https://invent.kde.org/frameworks/breeze-icons/-/merge_requests/477),
-  restored at their original branding.
-- KDE's own app icons and the relevant System Settings icons re-tinted to
-  the Gruvbox palette.
+The icon theme is a full local copy of current Breeze (`Inherits=breeze,
+breeze-dark,hicolor` is still declared, so anything that ever falls through —
+a future Breeze icon this repo doesn't have yet — still resolves), plus:
+- The third-party app icons that upstream Breeze
+  [removed](https://invent.kde.org/frameworks/breeze-icons/-/merge_requests/477)
+  are restored, and every app icon this project carries (LibreOffice, System
+  Settings, Yakuake, Dolphin, and the rest of the restored third-party set)
+  is re-tinted to the Gruvbox palette by hue-mapping its accent colors —
+  neutral/near-black/near-white shading is left alone so icons stay
+  recognizable.
+- The network status icons (connected/disconnected/signal strength, wired
+  and wireless) completed to match current Breeze, following the active
+  color scheme automatically.
 - Folder and generic UI icons follow the accent color automatically (Breeze's
   own `ColorScheme-Accent` mechanism), no separate icon work needed there.
 
