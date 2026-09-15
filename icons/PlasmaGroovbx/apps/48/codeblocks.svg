@@ -6,23 +6,23 @@
    <stop style="stop-color:#000000;stop-opacity:0;" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4454">
-   <stop style="stop-color:#d21e1e;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#e05e4c;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#d2251e;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#e54d47;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4454" id="linearGradient4213" x1="403.421" y1="544.092" x2="391.89" y2="525.725" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57001,-499.79999)"/>
   <linearGradient id="linearGradient4472">
-   <stop style="stop-color:#ffa92d;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#ffc169;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#e3af49;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#ebc67d;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4472" id="linearGradient4235" x1="401.296" y1="523.203" x2="391.154" y2="505.319" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57001,-499.79999)"/>
   <linearGradient id="linearGradient4422-8">
-   <stop style="stop-color:#377d50;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#54d883;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#476d48;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#80ac81;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4422-8" id="linearGradient4257" x1="424.602" y1="523.798" x2="413.779" y2="503.798" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57001,-499.79999)"/>
   <linearGradient id="linearGradient4438">
-   <stop style="stop-color:#375a7d;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#54a3d8;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#3d7577;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#74b5b8;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4438" id="linearGradient4279" x1="420.884" y1="543.488" x2="412.118" y2="525.748" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57001,-499.79999)"/>
   <linearGradient xlink:href="#linearGradient4214" id="linearGradient4220" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.00142264,-0.00198746)"/>

@@ -1,16 +1,16 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48">
  <defs>
   <linearGradient id="a" y1="4" x1="24" y2="44" x2="4" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#197cf1"/>
-   <stop offset="1" stop-color="#20bcfa"/>
+   <stop stop-color="#5da9ad"/>
+   <stop offset="1" stop-color="#68afb2"/>
   </linearGradient>
   <linearGradient id="b" y1="44" x1="44" y2="4" x2="24" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#c61423"/>
-   <stop offset="1" stop-color="#dc2b41"/>
+   <stop stop-color="#bf221b"/>
+   <stop offset="1" stop-color="#e02e27"/>
   </linearGradient>
   <linearGradient id="c" x1="44" x2="4" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#42a603"/>
-   <stop offset="1" stop-color="#78da06"/>
+   <stop stop-color="#436644"/>
+   <stop offset="1" stop-color="#bfbe21"/>
   </linearGradient>
   <linearGradient id="d" y1="522.8" y2="538.8" x1="400.57" gradientUnits="userSpaceOnUse" x2="416.57">
    <stop stop-color="#292c2f"/>

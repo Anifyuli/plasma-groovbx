@@ -1,12 +1,12 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="37.23" x1="-3.139" y2="22.625" x2="-19.1" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#42a603"/>
-   <stop offset="1" stop-color="#78da06"/>
+   <stop stop-color="#436644"/>
+   <stop offset="1" stop-color="#bfbe21"/>
   </linearGradient>
   <linearGradient id="b" y1="37.956" x1="-2.994" y2="-.883" x2="-41.26" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-1.022)">
-   <stop stop-color="#34495e"/>
-   <stop offset="1" stop-color="#1c7865"/>
+   <stop stop-color="#315f61"/>
+   <stop offset="1" stop-color="#326062"/>
   </linearGradient>
   <linearGradient id="c" y1="9.178" x1="-14.65" y2="17.522" x2="-6.43" gradientUnits="userSpaceOnUse" gradientTransform="translate(1.01-1.022)">
    <stop/>
@@ -14,8 +14,8 @@
   </linearGradient>
   <linearGradient xlink:href="#c" id="d" y1="9.268" x1="-28.756" y2="27.436" x2="-10.858" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-1.022)"/>
   <linearGradient id="e" y1="-.883" x1="-41.26" y2="37.956" x2="-2.994" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.01-1.022)">
-   <stop stop-color="#66b036"/>
-   <stop offset="1" stop-color="#239161"/>
+   <stop stop-color="#5b8b5c"/>
+   <stop offset="1" stop-color="#3d7577"/>
   </linearGradient>
  </defs>
  <g transform="matrix(.99317 0 0 .97839 45.973 4.864)">
@@ -30,6 +30,6 @@
   </g>
   <path fill="#ffffff" fill-rule="evenodd" stroke-width="1.014" d="m-15.08 7.293h3.02v4.088h2.01v2.044h-2.01v11.243c0 2.044 2.01.511 2.01.511v2.044c0 0-6.04 3.577-6.04-2.555v-11.243h-1.01v-2.044h1.01z"/>
   <path fill="url(#a)" d="m-17.09 21.602v13.287h4.03v5.11l6.04-5.11h9.06v-13.287z"/>
-  <path color-interpolation-filters="linearRGB" color="#4d4d4d" image-rendering="auto" color-rendering="auto" d="m-17.09 33.867v1.022h4.03v-1.022zm9.697 0l-.283.25v-.002l-5.386 4.555v1.33l6.04-5.11h9.06v-1.022z" color-interpolation="sRGB" text-rendering="auto" fill="#368902" shape-rendering="auto"/>
+  <path color-interpolation-filters="linearRGB" color="#4d4d4d" image-rendering="auto" color-rendering="auto" d="m-17.09 33.867v1.022h4.03v-1.022zm9.697 0l-.283.25v-.002l-5.386 4.555v1.33l6.04-5.11h9.06v-1.022z" color-interpolation="sRGB" text-rendering="auto" fill="#375438" shape-rendering="auto"/>
  </g>
 </svg>

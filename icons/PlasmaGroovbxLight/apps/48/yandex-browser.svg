@@ -10,8 +10,8 @@
    <stop style="stop-color:#000000;stop-opacity:0;" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4167">
-   <stop style="stop-color:#d01c2d;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#e05e4c;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#cf241d;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#e54d47;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient gradientUnits="userSpaceOnUse" y2="525.911" x2="395.707" y1="546.927" x1="400.556" id="linearGradient4288-9" xlink:href="#linearGradient4197" gradientTransform="matrix(1.9405564,0,0,1.9418216,-359.25227,-518.38224)"/>
   <linearGradient xlink:href="#linearGradient4167" id="linearGradient4173" x1="414.727" y1="539.763" x2="399.489" y2="508.239" gradientUnits="userSpaceOnUse"/>

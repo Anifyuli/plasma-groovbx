@@ -23,8 +23,8 @@
   <linearGradient xlink:href="#linearGradient4472" id="linearGradient4478" x1="432.571" y1="547.798" x2="421.024" y2="527.798" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#linearGradient4903" id="linearGradient4486" x1="25" y1="44" x2="25" y2="20" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="linearGradient4303">
-   <stop offset="0" style="stop-color:#197cf1;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#21c9fb;stop-opacity:1"/>
+   <stop offset="0" style="stop-color:#5da9ad;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#69b0b3;stop-opacity:1"/>
   </linearGradient>
   <linearGradient id="linearGradient4227">
    <stop style="stop-color:#292c2f;stop-opacity:1" offset="0"/>

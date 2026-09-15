@@ -1,12 +1,12 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="512.95" x1="392.22" y2="538.87" x2="430.91" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.05579 0 0 1.04628-22.795-24.685)">
-   <stop stop-color="#303a44"/>
+   <stop stop-color="#274b4d"/>
    <stop offset="1" stop-color="#525c68"/>
   </linearGradient>
   <linearGradient spreadMethod="reflect" id="b" y1="12.636" x1="11.08" y2="40.843" x2="39.28" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.07864 0 0 1.06893-2.178-1.825)">
-   <stop stop-color="#f19519"/>
-   <stop offset="1" stop-color="#fcdc4d"/>
+   <stop stop-color="#dfa22b"/>
+   <stop offset="1" stop-color="#e7ba62"/>
   </linearGradient>
   <linearGradient id="c" y1="509.4" x1="393.87" y2="513.11" x2="398.44" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.05579 0 0 1.04628-4.098-6.327)">
    <stop stop-color="#292c2f"/>
@@ -17,8 +17,8 @@
    <stop offset="1" stop-color="#808c9b"/>
   </linearGradient>
   <linearGradient spreadMethod="reflect" id="e" y1="12.636" x1="11.08" y2="40.843" gradientUnits="userSpaceOnUse" x2="39.28" gradientTransform="matrix(-1.07864 0 0 1.06893 50.18-1.825)">
-   <stop stop-color="#f19b19"/>
-   <stop offset="1" stop-color="#ffd92e"/>
+   <stop stop-color="#dfa22b"/>
+   <stop offset="1" stop-color="#e3af4a"/>
   </linearGradient>
   <linearGradient id="f" x1="389.57" gradientUnits="userSpaceOnUse" x2="427.57" gradientTransform="matrix(.70711.70711-.70711.70711 490.07-135.58)">
    <stop stop-color="#fcfcfc"/>
@@ -29,7 +29,7 @@
    <stop offset="1" stop-color="#dcdee0"/>
   </linearGradient>
   <linearGradient id="h" y1="513.71" x1="392.47" y2="535.72" gradientUnits="userSpaceOnUse" x2="391.55" gradientTransform="matrix(-1.05579 0 0 1.04628 839.94-24.685)">
-   <stop stop-color="#1c242a"/>
+   <stop stop-color="#182d2e"/>
    <stop offset="1" stop-color="#2c3138"/>
   </linearGradient>
   <linearGradient xlink:href="#h" id="i" y1="513.71" x1="392.47" y2="535.72" gradientUnits="userSpaceOnUse" x2="391.55" gradientTransform="matrix(-1.05579 0 0 1.04628 813.94-24.685)"/>

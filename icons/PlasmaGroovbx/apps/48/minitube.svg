@@ -7,8 +7,8 @@
   </linearGradient>
   <linearGradient xlink:href="#4" id="3" y1="534.798" x2="0" y2="505.798" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,1.0344837,-384.57144,-516.23986)"/>
   <linearGradient id="4">
-   <stop stop-color="#c52828"/>
-   <stop offset="1" stop-color="#ff5454"/>
+   <stop stop-color="#d0251d"/>
+   <stop offset="1" stop-color="#ea6e69"/>
   </linearGradient>
   <linearGradient gradientTransform="translate(-384.57144,-498.798)" xlink:href="#6" id="5" y1="536.798" x2="0" y2="503.798" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="6">

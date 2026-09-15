@@ -5,14 +5,14 @@
    <stop offset="1" stop-color="#bdc3c7"/>
   </linearGradient>
   <linearGradient id="b" y1="517.52" x1="411.37" y2="502.8" x2="408.57" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2f3943"/>
+   <stop stop-color="#264a4c"/>
    <stop offset="1" stop-color="#808c9b"/>
   </linearGradient>
   <linearGradient xlink:href="#b" id="c" y1="518.55" x1="389.07" y2="534.91" x2="428.57" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#b" id="d" y1="546.05" x1="408.86" y2="528.99" x2="406.83" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 1)"/>
   <linearGradient id="e" x1="-1.875" x2="39" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#197cf1"/>
-   <stop offset="1" stop-color="#21c9fb"/>
+   <stop stop-color="#5da9ad"/>
+   <stop offset="1" stop-color="#69b0b3"/>
   </linearGradient>
   <linearGradient spreadMethod="reflect" xlink:href="#e" id="f" y1="512.45" x1="395.1" y2="541.27" x2="423.91" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#e" id="g" x1="50" x2="9" gradientUnits="userSpaceOnUse" gradientTransform="translate(384.57 500.8)"/>
@@ -22,7 +22,7 @@
    <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="j" y1="42" x1="36" y2="11.45" x2="12.558" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#18222a"/>
+   <stop stop-color="#162b2c"/>
    <stop offset="1" stop-color="#566069"/>
   </linearGradient>
  </defs>

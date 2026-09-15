@@ -10,12 +10,12 @@
   </linearGradient>
   <linearGradient xlink:href="#b" id="c" y1="9.268" x1="-28.756" y2="27.436" x2="-10.858" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-1.022)"/>
   <linearGradient id="d" y1="-.883" x1="-41.26" y2="37.956" x2="-2.994" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.01-1.022)">
-   <stop stop-color="#66b036"/>
-   <stop offset="1" stop-color="#239161"/>
+   <stop stop-color="#5b8b5c"/>
+   <stop offset="1" stop-color="#3d7577"/>
   </linearGradient>
   <linearGradient id="e" y1="37.956" x1="-2.994" y2="-.883" x2="-41.26" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-1.022)">
-   <stop stop-color="#34495e"/>
-   <stop offset="1" stop-color="#1c7865"/>
+   <stop stop-color="#315f61"/>
+   <stop offset="1" stop-color="#326062"/>
   </linearGradient>
  </defs>
  <g transform="matrix(.99317 0 0 .97839 45.973 4.864)">

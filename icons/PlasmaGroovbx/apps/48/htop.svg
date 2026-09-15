@@ -19,33 +19,33 @@
   <g stroke-width=".1">
    <rect width="40" x="388.57" y="503.8" fill="#566069" height="5"/>
    <rect width="3" x="424.57" y="504.8" fill="#eff0f1" rx="1.5" height="3"/>
-   <rect width="40" x="388.57" y="508.8" fill="#3daee9" rx="0" height="1"/>
+   <rect width="40" x="388.57" y="508.8" fill="#70b3b6" rx="0" height="1"/>
    <rect width="38" x="389.57" y="510.8" fill="url(#b)" height="31"/>
    <rect width="1" x="398.57" y="515.8" fill="#999999" height="8"/>
-   <g fill="#84dd84">
+   <g fill="#a0c1a1">
     <rect width="1" x="400.57" y="515.8" height="8"/>
     <rect width="1" x="402.57" y="515.8" height="8"/>
    </g>
    <g transform="scale(-1 1)">
     <rect width="1" x="-418.57" y="515.8" fill="#999999" height="8"/>
-    <g fill="#84dd84">
+    <g fill="#a0c1a1">
      <rect width="1" x="-416.57" y="515.8" height="8"/>
      <rect width="1" x="-414.57" y="515.8" height="8"/>
     </g>
    </g>
    <rect width="1" x="398.57" y="527.8" fill="#999999" height="8"/>
-   <g fill="#84dd84">
+   <g fill="#a0c1a1">
     <rect width="1" x="400.57" y="527.8" height="8"/>
     <rect width="1" x="402.57" y="527.8" height="8"/>
    </g>
    <g transform="scale(-1 1)">
     <rect width="1" x="-418.57" y="527.8" fill="#999999" height="8"/>
-    <g fill="#84dd84">
+    <g fill="#a0c1a1">
      <rect width="1" x="-416.57" y="527.8" height="8"/>
      <rect width="1" x="-414.57" y="527.8" height="8"/>
     </g>
    </g>
-   <g fill="#84dd84">
+   <g fill="#a0c1a1">
     <rect width="1" x="404.57" y="523.8" height="4"/>
     <rect width="1" x="408.57" y="523.8" height="4"/>
     <rect width="1" x="412.57" y="523.8" height="4"/>

@@ -28,11 +28,11 @@
        id="linearGradient4235">
       <stop
          offset="0"
-         style="stop-color:#f85b79;stop-opacity:1;"
+         style="stop-color:#ea6e69;stop-opacity:1;"
          id="stop4237" />
       <stop
          offset="1"
-         style="stop-color:#f85b79;stop-opacity:1;"
+         style="stop-color:#ea6e69;stop-opacity:1;"
          id="stop4243" />
     </linearGradient>
     <linearGradient
@@ -62,7 +62,7 @@
        gradientTransform="translate(85,55)">
       <stop
          id="stop27"
-         stop-color="#383e51" />
+         stop-color="#2e595b" />
       <stop
          id="stop29"
          stop-opacity="0"

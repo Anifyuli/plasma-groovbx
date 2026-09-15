@@ -7,12 +7,12 @@
   </linearGradient>
   <linearGradient id="linearGradient4165">
    <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0"/>
-   <stop style="stop-color:#7cafec;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#9bcacd;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient gradientTransform="translate(-384.57146,-499.798)" xlink:href="#1" id="0" x1="417.634" y1="540.799" x2="399.646" y2="500.893" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="1">
-   <stop stop-color="#105be2" style="stop-color:#2579b0;stop-opacity:1"/>
-   <stop offset="1" stop-color="#26dbfc" style="stop-color:#7cbfec;stop-opacity:1"/>
+   <stop stop-color="#519da1" style="stop-color:#488a8d;stop-opacity:1"/>
+   <stop offset="1" stop-color="#6db2b5" style="stop-color:#9bcacd;stop-opacity:1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4165" id="linearGradient4171" x1="19" y1="12" x2="29" y2="36" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#linearGradient4179" id="linearGradient4185" x1="20" y1="16" x2="36" y2="32" gradientUnits="userSpaceOnUse"/>

@@ -1,12 +1,12 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="38" y2="13" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0069 0 0 1.02209-37.23 5.249)">
-   <stop stop-color="#8e44ad"/>
-   <stop offset="1" stop-color="#9b59b6"/>
+   <stop stop-color="#a15075"/>
+   <stop offset="1" stop-color="#b05f84"/>
   </linearGradient>
   <linearGradient id="b" y1="37.956" x1="-2.994" y2="-.883" x2="-41.26" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-1.022)">
-   <stop stop-color="#34495e"/>
-   <stop offset="1" stop-color="#1c7865"/>
+   <stop stop-color="#315f61"/>
+   <stop offset="1" stop-color="#326062"/>
   </linearGradient>
   <linearGradient id="c" y1="9.178" x1="-14.65" y2="17.522" x2="-6.43" gradientUnits="userSpaceOnUse" gradientTransform="translate(1.01-1.022)">
    <stop/>
@@ -14,8 +14,8 @@
   </linearGradient>
   <linearGradient xlink:href="#c" id="d" y1="9.268" x1="-28.756" y2="27.436" x2="-10.858" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-1.022)"/>
   <linearGradient id="e" y1="-.883" x1="-41.26" y2="37.956" x2="-2.994" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.01-1.022)">
-   <stop stop-color="#66b036"/>
-   <stop offset="1" stop-color="#239161"/>
+   <stop stop-color="#5b8b5c"/>
+   <stop offset="1" stop-color="#3d7577"/>
   </linearGradient>
  </defs>
  <g transform="matrix(.99317 0 0 .97839 45.973 4.864)">
@@ -30,7 +30,7 @@
   </g>
   <path fill="#ffffff" fill-rule="evenodd" stroke-width="1.014" d="m-15.08 7.293h3.02v4.088h2.01v2.044h-2.01v11.243c0 2.044 2.01.511 2.01.511v2.044c0 0-6.04 3.577-6.04-2.555v-11.243h-1.01v-2.044h1.01z"/>
   <path fill="url(#a)" stroke-linejoin="round" stroke-width="2" d="m-6.01 18.536c-1.958 0-3.786.697-5.074 2-1.288 1.307-1.974 3.163-1.974 5.15h4.03c0-1.079.32-1.778.794-2.26.474-.481 1.163-.806 2.226-.806 1.063 0 1.752.325 2.226.806.474.481.794 1.181.794 2.26 0 .937-.182 1.336-.425 1.689-.243.353-.641.687-1.233 1.108-.592.421-1.379.906-2.106 1.767-.727.861-1.27 2.165-1.27 3.613v1.022h4.03v-1.022c0-.596.084-.697.301-.954.217-.257.691-.603 1.357-1.076.666-.473 1.527-1.098 2.228-2.118.701-1.02 1.148-2.41 1.148-4.03 0-1.987-.687-3.843-1.974-5.15-1.288-1.307-3.116-2-5.074-2m-2.01 18.398v4.088h4.03v-4.088z"/>
-  <g fill="#713e88" color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB">
+  <g fill="#844260" color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB">
    <g color="#4d4d4d">
     <rect width="1.01" x="-5.01" y="36.93" height="4.088"/>
     <rect width="1.01" x="-5.01" y="33.87" height="1.022"/>

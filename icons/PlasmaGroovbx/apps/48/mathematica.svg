@@ -48,13 +48,13 @@
       <stop
          id="stop976"
          offset="0"
-         stop-color="#f39c1f"
-         style="stop-color:#d81c1b;stop-opacity:1" />
+         stop-color="#e0a532"
+         style="stop-color:#d5261e;stop-opacity:1" />
       <stop
          id="stop978"
          offset="1"
-         stop-color="#f67400"
-         style="stop-color:#ad0909;stop-opacity:1" />
+         stop-color="#e7640f"
+         style="stop-color:#9f1c17;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -77,7 +77,7 @@
       <stop
          id="stop4201"
          stop-color="#292c2f"
-         style="stop-color:#00267a;stop-opacity:1" />
+         style="stop-color:#294f51;stop-opacity:1" />
       <stop
          id="stop4203"
          stop-opacity="0"
@@ -118,7 +118,7 @@
      id="rect4194-3"
      style="opacity:1;fill:url(#linearGradient4217);fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     style="opacity:0.50400002;fill:#1f3c64;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73929958"
+     style="opacity:0.50400002;fill:#2c5557;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.73929958"
      id="rect4175"
      width="40"
      height="1.0558066"

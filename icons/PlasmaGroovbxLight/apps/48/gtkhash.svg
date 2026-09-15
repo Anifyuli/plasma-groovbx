@@ -10,7 +10,7 @@
   </linearGradient>
   <linearGradient xlink:href="#b" id="c" y1="542.79" y2="530.79" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="d" y1="29" x1="25" y2="44" x2="40" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#383e51"/>
+   <stop stop-color="#2e595b"/>
    <stop offset="1" stop-color="#655c6f" stop-opacity="0"/>
   </linearGradient>
  </defs>

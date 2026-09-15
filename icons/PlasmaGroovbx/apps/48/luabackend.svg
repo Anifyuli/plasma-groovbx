@@ -46,26 +46,26 @@
        id="b-6">
       <stop
          id="stop856"
-         stop-color="#0d4687" />
+         stop-color="#326062" />
       <stop
          id="stop858"
-         stop-color="#0b60c2"
+         stop-color="#458588"
          offset=".051" />
       <stop
          id="stop860"
-         stop-color="#1b88f4"
+         stop-color="#60abaf"
          offset=".275" />
       <stop
          id="stop862"
-         stop-color="#1b90f4"
+         stop-color="#60abaf"
          offset=".725" />
       <stop
          id="stop864"
-         stop-color="#0d6ad6"
+         stop-color="#4c9397"
          offset=".962" />
       <stop
          id="stop866"
-         stop-color="#115fbc"
+         stop-color="#458588"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -77,10 +77,10 @@
        id="c">
       <stop
          id="stop869"
-         stop-color="#440d7f" />
+         stop-color="#5e2e44" />
       <stop
          id="stop871"
-         stop-color="#500e9a"
+         stop-color="#703851"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -92,26 +92,26 @@
        id="d">
       <stop
          id="stop874"
-         stop-color="#1a7c69" />
+         stop-color="#326164" />
       <stop
          id="stop876"
-         stop-color="#218b7b"
+         stop-color="#3a7072"
          offset=".05" />
       <stop
          id="stop878"
-         stop-color="#208c7a"
+         stop-color="#3a7072"
          offset=".157" />
       <stop
          id="stop880"
-         stop-color="#124a45"
+         stop-color="#1f3c3d"
          offset=".312" />
       <stop
          id="stop882"
-         stop-color="#1bcaa3"
+         stop-color="#4d9598"
          offset=".952" />
       <stop
          id="stop884"
-         stop-color="#20a386"
+         stop-color="#427f81"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -197,14 +197,14 @@
        xlink:href="#a-3">
       <stop
          offset="0"
-         stop-color="#73ba25"
+         stop-color="#bebd21"
          id="stop2-6"
-         style="stop-color:#e6f1fd;stop-opacity:1" />
+         style="stop-color:#edf6f6;stop-opacity:1" />
       <stop
          offset="1"
-         stop-color="#35b9ab"
+         stop-color="#509a9e"
          id="stop4-2"
-         style="stop-color:#d2e8fd;stop-opacity:1" />
+         style="stop-color:#e0eeef;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="a-35-7"
@@ -217,14 +217,14 @@
        xlink:href="#a-3">
       <stop
          offset="0"
-         stop-color="#73ba25"
+         stop-color="#bebd21"
          id="stop2-6-0"
-         style="stop-color:#e6f1fd;stop-opacity:1" />
+         style="stop-color:#edf6f6;stop-opacity:1" />
       <stop
          offset="1"
-         stop-color="#35b9ab"
+         stop-color="#509a9e"
          id="stop4-2-9"
-         style="stop-color:#d2e8fd;stop-opacity:1" />
+         style="stop-color:#e0eeef;stop-opacity:1" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -262,14 +262,14 @@
      xlink:href="#a-3">
     <stop
        offset="0"
-       stop-color="#73ba25"
+       stop-color="#bebd21"
        id="stop2"
-       style="stop-color:#e6f1fd;stop-opacity:1" />
+       style="stop-color:#edf6f6;stop-opacity:1" />
     <stop
        offset="1"
-       stop-color="#35b9ab"
+       stop-color="#509a9e"
        id="stop4"
-       style="stop-color:#d2e8fd;stop-opacity:1" />
+       style="stop-color:#e0eeef;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="b"

@@ -52,11 +52,11 @@
      id="a">
     <stop
        offset="0"
-       stop-color="#cea476"
+       stop-color="#f49150"
        id="stop2" />
     <stop
        offset="1"
-       stop-color="#dab58b"
+       stop-color="#ebc47a"
        id="stop4" />
   </linearGradient>
   <linearGradient
@@ -102,11 +102,11 @@
      y2="503.801">
     <stop
        offset="0"
-       stop-color="#ebc69a"
+       stop-color="#efd196"
        id="stop11" />
     <stop
        offset="1"
-       stop-color="#f4e0c8"
+       stop-color="#f6e6c6"
        stop-opacity="0"
        id="stop13" />
   </linearGradient>
@@ -143,11 +143,11 @@
      y2="512.8">
     <stop
        offset="0"
-       stop-color="#73ba25"
+       stop-color="#bebd21"
        id="stop22" />
     <stop
        offset="1"
-       stop-color="#81c13b"
+       stop-color="#d7d625"
        stop-opacity=".85"
        id="stop24" />
   </linearGradient>
@@ -185,11 +185,11 @@
      y2="504.698">
     <stop
        offset="0"
-       stop-color="#ebc69a"
+       stop-color="#efd196"
        id="stop33" />
     <stop
        offset="1"
-       stop-color="#73ba25"
+       stop-color="#bebd21"
        stop-opacity="0"
        id="stop35" />
   </linearGradient>
@@ -212,7 +212,7 @@
      id="path44" />
   <path
      d="M21 4v14l1-1 1 1 1-1 1 1 1-1 1 1V4z"
-     fill="#f4e0c8"
+     fill="#f6e6c6"
      id="path46" />
   <path
      d="M21 4h6v9h-6z"
@@ -224,7 +224,7 @@
      id="path50" />
   <path
      d="M4 43h40v1H4z"
-     fill="#9f8569"
+     fill="#f06d18"
      id="path52" />
   <path
      d="M36 24l8 8v12H30l-4-4 1-2 1 1h6l-1-1 2-3-5-5v-6z"
@@ -239,6 +239,6 @@
      d="m 5,35 v 8 h 8 v -8 z m 3,1 v 2 h 2 v -2 h 2 v 4 h -2 v 2 H 8 V 40 H 6 v -4 z"
      id="path58"
      inkscape:connector-curvature="0"
-     style="fill:#5c4c3e"
+     style="fill:#913f09"
      sodipodi:nodetypes="cccccccccccccccccc" />
 </svg>

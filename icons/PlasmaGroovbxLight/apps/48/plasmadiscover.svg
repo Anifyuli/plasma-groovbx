@@ -1,8 +1,8 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="543.8" y2="513.8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.125 0 0 1-51.07 0)">
-   <stop stop-color="#1fc7d6"/>
-   <stop offset="1" stop-color="#24d0e0"/>
+   <stop stop-color="#529fa3"/>
+   <stop offset="1" stop-color="#59a7ab"/>
   </linearGradient>
   <linearGradient xlink:href="#a" id="b" y1="44" y2="11" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="c" y1="10" y2="14" x2="0" gradientUnits="userSpaceOnUse">
@@ -17,7 +17,7 @@
   </linearGradient>
   <linearGradient xlink:href="#f" id="g" y1="517.8" y2="514.8" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="h" y1="19" y2="3" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-2)">
-   <stop stop-color="#6ce0ea"/>
+   <stop stop-color="#90c4c6"/>
    <stop offset="1" stop-color="#f4fcff"/>
   </linearGradient>
   <linearGradient id="i" y1="23" x1="16" y2="39" x2="32" gradientUnits="userSpaceOnUse">
@@ -29,7 +29,7 @@
   <path fill="url(#b)" fill-rule="evenodd" d="m9 11v2l1-1zm30 0l-1 1 1 1z" transform="translate(384.57 499.8)"/>
   <rect width="36" x="390.57" y="513.8" fill="url(#a)" rx="0" height="30"/>
   <path opacity=".2" fill="url(#i)" d="m20.707 23.293l-1.414 1.414 8 8-.293.293 11 11h4v-6l-10-10-3.293 3.293zm-2.146 6.146l-2.121 2.121 5.5 5.5-1.354 1.354 5.586 5.586h6.951z" transform="translate(384.57 499.8)"/>
-  <rect width="36" x="390.57" y="542.8" fill="#25828a" height="1"/>
+  <rect width="36" x="390.57" y="542.8" fill="#3b7274" height="1"/>
   <path fill-rule="evenodd" fill="url(#d)" d="m10 10l-1 1 1 1-4 2h36l-4-2 1-1-1-1h-14z" transform="translate(384.57 499.8)"/>
   <path fill-rule="evenodd" d="m10 10l-1 1 1 1-4 2h36l-4-2 1-1-1-1h-14z" opacity=".6" fill="url(#c)" transform="translate(384.57 499.8)"/>
   <path opacity=".2" d="m10 10l-1 1h30l-1-1h-14z" transform="translate(384.57 499.8)"/>

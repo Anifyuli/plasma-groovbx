@@ -1,16 +1,16 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48">
  <defs>
   <linearGradient id="a" y1="542.8" y2="503.8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57 504.56)">
-   <stop stop-color="#f39c12"/>
-   <stop offset="1" stop-color="#f5ab35"/>
+   <stop stop-color="#dea027"/>
+   <stop offset="1" stop-color="#e3ae47"/>
   </linearGradient>
   <linearGradient id="b" y1="505.8" y2="541.8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57 504.56)">
-   <stop stop-color="#fffcde"/>
-   <stop offset="1" stop-color="#fafac5"/>
+   <stop stop-color="#fafae3"/>
+   <stop offset="1" stop-color="#f6f5c9"/>
   </linearGradient>
   <radialGradient cx="24" cy="1028.36" id="c" r="16" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.23105.00334-.00334 1.23128-2.11-237.92)">
-   <stop stop-color="#f47750"/>
-   <stop offset="1" stop-color="#fdbc4b"/>
+   <stop stop-color="#f49150"/>
+   <stop offset="1" stop-color="#e7b961"/>
   </radialGradient>
   <linearGradient id="d" y1="23.23" x1="23.701" y2="37.955" x2="37.996" gradientUnits="userSpaceOnUse">
    <stop/>
@@ -20,7 +20,7 @@
  <g stroke-linejoin="round" transform="translate(0-1004.36)">
   <g stroke-width=".5">
    <circle fill="url(#a)" cx="24" cy="1028.36" r="20"/>
-   <path fill="#b97d1b" d="m43.978506 1027.7802a20.00001 20.00001 0 0 1 -19.978516 19.582 20.00001 20.00001 0 0 1 -19.978516 -19.418 20.00001 20.00001 0 0 0 -.021484 .418 20.00001 20.00001 0 0 0 20 20 20.00001 20.00001 0 0 0 20 -20 20.00001 20.00001 0 0 0 -.02148 -.582"/>
+   <path fill="#b8831c" d="m43.978506 1027.7802a20.00001 20.00001 0 0 1 -19.978516 19.582 20.00001 20.00001 0 0 1 -19.978516 -19.418 20.00001 20.00001 0 0 0 -.021484 .418 20.00001 20.00001 0 0 0 20 20 20.00001 20.00001 0 0 0 20 -20 20.00001 20.00001 0 0 0 -.02148 -.582"/>
   </g>
   <g stroke-width="2">
    <path opacity=".2" fill="url(#d)" d="m36.541 11.08c-10.01 6.974-25.22 25.691-25.22 25.691l6.08 6.08a20.00001 20.00001 0 0 0 6.601562 1.144531 20.00001 20.00001 0 0 0 20 -20 20.00001 20.00001 0 0 0 -1.144531 -6.601562z" transform="translate(0 1004.36)"/>

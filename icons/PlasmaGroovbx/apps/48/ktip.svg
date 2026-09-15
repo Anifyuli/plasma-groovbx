@@ -5,12 +5,12 @@
    <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="b" y1="44" y2="4" x2="0" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#6ce0ea"/>
+   <stop stop-color="#90c4c6"/>
    <stop offset="1" stop-color="#f4fcff"/>
   </linearGradient>
   <linearGradient id="c" y1="39" y2="9" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.02857 0 0 1.2-5.314-4.8)">
-   <stop stop-color="#1fc7d6"/>
-   <stop offset="1" stop-color="#24d0e0"/>
+   <stop stop-color="#529fa3"/>
+   <stop offset="1" stop-color="#59a7ab"/>
   </linearGradient>
  </defs>
  <g fill-rule="evenodd" transform="translate(0-1004.36)">

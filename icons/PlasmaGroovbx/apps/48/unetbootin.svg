@@ -9,7 +9,7 @@
    <stop offset="1" stop-color="#e0e5e7"/>
   </linearGradient>
   <linearGradient id="c" y1="14" x1="5" y2="36" x2="27" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#383e51"/>
+   <stop stop-color="#2e595b"/>
    <stop offset="1" stop-color="#655c6f" stop-opacity="0"/>
   </linearGradient>
   <linearGradient xlink:href="#a" id="d" y1="543.8" y2="515.8" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1.16129 0 0 1-65.38 0)"/>
@@ -26,7 +26,7 @@
     <rect width="7" x="399.57" y="510.8" height="7"/>
     <rect width="7" x="410.57" y="510.8" height="7"/>
    </g>
-   <g fill="#fdbc4a">
+   <g fill="#e7b960">
     <rect width="3" x="401.57" y="510.8" height="7"/>
     <rect width="3" x="412.57" y="510.8" height="7"/>
    </g>

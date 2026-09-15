@@ -1,19 +1,19 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient spreadMethod="reflect" id="a" x1="425.57" x2="409.57" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1 1)">
-   <stop stop-color="#304042"/>
+   <stop stop-color="#264a4c"/>
    <stop offset="1" stop-color="#808c9b"/>
   </linearGradient>
   <linearGradient spreadMethod="reflect" id="b" x1="41" x2="25" gradientUnits="userSpaceOnUse" gradientTransform="translate(383.57 500.8)">
-   <stop stop-color="#1fc7d6"/>
-   <stop offset="1" stop-color="#25d0e0"/>
+   <stop stop-color="#529fa3"/>
+   <stop offset="1" stop-color="#5aa8ab"/>
   </linearGradient>
   <linearGradient xlink:href="#a" id="c" y1="528.8" y2="502.8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57-499.8)"/>
   <linearGradient xlink:href="#a" id="d" y1="528.8" y2="502.8" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#a" id="e" y1="512.8" y2="501.8" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#b" id="f" y1="514.1" x1="416.83" y2="503.8" x2="416.57" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="g" y1="518.74" x1="406.82" y2="523.67" x2="411.76" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#192729"/>
+   <stop stop-color="#162b2c"/>
    <stop offset="1" stop-color="#566069"/>
   </linearGradient>
   <linearGradient id="h" y1="31" x1="19" y2="37" x2="25" gradientUnits="userSpaceOnUse" gradientTransform="translate(384.57 499.8)">
@@ -22,8 +22,8 @@
   </linearGradient>
   <linearGradient xlink:href="#h" id="i" y1="9" x1="23" y2="15" x2="27" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="j" y1="506.8" x1="421.57" y2="516.8" x2="414.57" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#192729"/>
-   <stop offset="1" stop-color="#192729" stop-opacity="0"/>
+   <stop stop-color="#162b2c"/>
+   <stop offset="1" stop-color="#162b2c" stop-opacity="0"/>
   </linearGradient>
   <linearGradient xlink:href="#g" id="k" y1="519.3" x1="400.07" y2="524.45" x2="405.23" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#j" id="l" y1="509.61" x1="420.95" y2="513.52" x2="424.85" gradientUnits="userSpaceOnUse"/>
@@ -37,7 +37,7 @@
    <path fill="url(#g)" d="m410.57 511.8c0 0 .188 3.5-2.813 5.5-3 2-10.721 3.239-14.5 5.313-2.766 1.517-4.688 4.188-4.688 4.188 0 0 4-2 6-2 2 0 5 1 5 1 0 0 2-2 5-2 3 0 6 1 6 1l1-11z"/>
    <path fill="url(#c)" d="m23 5.625c-1 .125-1 1.375-1 1.375l3 6c2 4 1 13-6 17 0 0 .477.234 1.236.525-3.079 2.523-7.654 5.475-12.236 5.475h17.734c1.264-1.318 2.348-2.795 3.295-4.258.057-.404.252-1.305.971-2.742 1-2 2-6 2-6 0 0 1 0 2 1 .835.835-3.036 5.638-4.393 7.27.839-.278 1.651-.676 2.393-1.27 5-4 2.254-14.214-2-19-4-4.5-6-5.5-7-5.375" transform="translate(384.57 499.8)"/>
    <path opacity=".2" fill="url(#i)" d="m24 6l-1.5 2 2.5 5c.459.917.751 2.105.857 3.428l5.143-3.428z" transform="translate(384.57 499.8)"/>
-   <path fill="#34a4ae" d="m409.34 528.14c-1.945 2.427-1.842 2.708-4.572 4.755-.015.011-.032.022-.047.033l2.783 2.74c10.03-8.376 1.835-7.528 1.835-7.528m-5.443 5.382c-1.132.803-2.384 1.593-3.729 2.273h6.04z"/>
+   <path fill="#4c9396" d="m409.34 528.14c-1.945 2.427-1.842 2.708-4.572 4.755-.015.011-.032.022-.047.033l2.783 2.74c10.03-8.376 1.835-7.528 1.835-7.528m-5.443 5.382c-1.132.803-2.384 1.593-3.729 2.273h6.04z"/>
    <path opacity=".2" fill="url(#h)" d="m404.81 530.32c-3.079 2.523-7.654 5.475-12.236 5.475h17.734c1.367-1.426 2.532-3.039 3.531-4.617.961-.277-9.789-1.149-9.03-.857"/>
   </g>
   <g stroke-linejoin="round" color="#000000" stroke-width="3">

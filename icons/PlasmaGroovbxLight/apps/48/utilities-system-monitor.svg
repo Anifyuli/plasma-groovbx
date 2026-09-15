@@ -76,11 +76,11 @@
        gradientUnits="userSpaceOnUse"
        x1="0">
       <stop
-         stop-color="#62a96a"
+         stop-color="#6c9f6e"
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#539ca3"
+         stop-color="#53a0a3"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -90,11 +90,11 @@
        x2="0"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#a6cbcf"
+         stop-color="#a4cfd1"
          id="stop17" />
       <stop
          offset="1"
-         stop-color="#b0d3d6"
+         stop-color="#afd5d7"
          id="stop19" />
     </linearGradient>
     <linearGradient
@@ -231,7 +231,7 @@
      id="path59"
      d="m 10,15 0,2 1,0 0,-1 1,0 0,-1 z m 4,0 0,1 1,0 0,1 1,0 0,-2 z m -4,4 0,2 2,0 0,-1 -1,0 0,-1 z m 5,0 0,1 -1,0 0,1 2,0 0,-2 z" />
   <rect
-     style="fill:#4d8854"
+     style="fill:#548156"
      id="rect61"
      height="1"
      y="43"

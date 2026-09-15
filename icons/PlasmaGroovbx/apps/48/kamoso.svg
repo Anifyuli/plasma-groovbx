@@ -1,19 +1,19 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="514.63" x1="402.41" y2="527.8" x2="415.57" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#357c82"/>
-   <stop offset="1" stop-color="#1fcbda"/>
+   <stop stop-color="#3e7779"/>
+   <stop offset="1" stop-color="#54a2a5"/>
   </linearGradient>
   <linearGradient xlink:href="#a" id="b" y1="511.72" x1="399.7" y2="526.2" gradientUnits="userSpaceOnUse" x2="414.17"/>
   <linearGradient xlink:href="#a" id="c" y1="506.89" x1="395.06" y2="524.6" gradientUnits="userSpaceOnUse" x2="412.77"/>
   <linearGradient id="d" y1="508.8" x1="398.57" y2="528.8" x2="418.57" gradientUnits="userSpaceOnUse" gradientTransform="translate(-817.14-1039.6)">
-   <stop stop-color="#304042"/>
+   <stop stop-color="#264a4c"/>
    <stop offset="1" stop-color="#4f5f60"/>
   </linearGradient>
   <linearGradient xlink:href="#d" id="e" y1="28" y2="12" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(386.57 499.8)"/>
   <linearGradient xlink:href="#d" id="f" y1="28" y2="12" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1 0 0 1 430.57 499.8)"/>
   <linearGradient id="g" y1="534.8" x1="405.57" y2="538.8" x2="411.57" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 .60001 0 213.91)">
-   <stop stop-color="#192729"/>
+   <stop stop-color="#162b2c"/>
    <stop offset="1" stop-color="#566069"/>
   </linearGradient>
   <linearGradient xlink:href="#g" id="h" y1="511.73" x1="400.5" y2="528.6" x2="417.37" gradientUnits="userSpaceOnUse"/>
@@ -54,13 +54,13 @@
     <circle fill="url(#a)" cx="408.57" cy="519.8" r="10"/>
     <circle fill="url(#b)" cx="408.57" cy="519.8" r="8"/>
     <circle fill="url(#c)" cx="408.57" cy="519.8" r="6"/>
-    <circle fill="#2f4b4d" cx="408.57" cy="519.8" r="4"/>
+    <circle fill="#2a5052" cx="408.57" cy="519.8" r="4"/>
    </g>
    <path fill="url(#e)" d="m386.57 511.8v16h2c1.108 0 2-.892 2-2v-12c0-1.108-.892-2-2-2z"/>
    <path fill="url(#f)" d="m430.57 511.8v16h-2c-1.108 0-2-.892-2-2v-12c0-1.108.892-2 2-2z"/>
    <g stroke-linecap="round">
-    <circle fill="#1fc332" cx="428.57" cy="515.8" r="1"/>
-    <g fill="#77e2ec">
+    <circle fill="#59895b" cx="428.57" cy="515.8" r="1"/>
+    <g fill="#98c9cb">
      <circle cx="405.57" cy="516.8" r="1"/>
      <ellipse cx="403.57" cy="514.8" rx="1.5" ry="1.5"/>
     </g>

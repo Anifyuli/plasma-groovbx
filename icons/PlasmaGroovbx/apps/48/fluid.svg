@@ -2,8 +2,8 @@
  <defs>
   <linearGradient xlink:href="#1" id="0" y1="15.024" x2="0" y2="8.6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.4263583,0,0,1.4263583,374.44681,487.64015)"/>
   <linearGradient id="1">
-   <stop stop-color="#1482cf"/>
-   <stop offset="1" stop-color="#74bef2"/>
+   <stop stop-color="#4c9397"/>
+   <stop offset="1" stop-color="#9acacc"/>
   </linearGradient>
   <linearGradient xlink:href="#1" id="2" y1="536.752" x2="0" y2="526.916" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.4263583,0,0,1.4263583,-174.08983,-225.25085)"/>
  </defs>

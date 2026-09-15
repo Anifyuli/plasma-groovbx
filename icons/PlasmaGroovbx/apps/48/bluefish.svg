@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1" width="48" height="48">
  <defs>
   <linearGradient id="linearGradient4192">
-   <stop style="stop-color:#44a3c8;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#8dcdda;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#5eaaae;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#9bcacc;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4413">
    <stop style="stop-color:#000000;stop-opacity:1;" offset="0"/>
@@ -22,8 +22,8 @@
    <stop style="stop-color:#ffffff;stop-opacity:0;" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient564">
-   <stop style="stop-color:#5e98d7;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#3363ac;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#7ab8bb;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#4b9194;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient x1="27.72" y1="14.786" x2="27.72" y2="24.357" id="linearGradient3432" xlink:href="#linearGradient4321" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.94072063,0,0,1.253843,-12.076923,-5.54014)" spreadMethod="pad"/>
   <linearGradient xlink:href="#linearGradient564" id="linearGradient4309" x1="7.623" y1="16.497" x2="46" y2="40" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,-2.0004844)"/>

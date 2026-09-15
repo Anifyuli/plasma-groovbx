@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" version="1.1">
  <defs>
   <linearGradient id="linearGradient4191">
-   <stop style="stop-color:#ffa92d;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#ffdaa5;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#e3af49;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#f3ddb1;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="0">
    <stop offset="0" stop-color="#ffffff"/>
@@ -11,13 +11,13 @@
   </linearGradient>
   <linearGradient xlink:href="#2" id="1" y1="543.798" x2="0" y2="503.798" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1250015,0,0,1,-435.6434,-499.798)"/>
   <linearGradient id="2">
-   <stop stop-color="#426467"/>
+   <stop stop-color="#396e70"/>
    <stop offset="1" stop-color="#525b58"/>
   </linearGradient>
   <linearGradient xlink:href="#0" id="5" y1="527.798" x2="0" y2="504.798" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57143,-499.798)"/>
   <linearGradient id="6" y1="-.883" x1="-41.26" y2="37.956" x2="-2.994" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.01,-1.022)">
-   <stop stop-color="#21c9fb"/>
-   <stop offset="1" stop-color="#1a86f2"/>
+   <stop stop-color="#69b0b3"/>
+   <stop offset="1" stop-color="#5eaaae"/>
   </linearGradient>
   <linearGradient xlink:href="#6" id="7" x1="45" y1="36" x2="14" y2="12" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#linearGradient4191" id="linearGradient4197" x1="13.813" y1="20.942" x2="13.813" y2="4.102" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2,0)"/>

@@ -19,7 +19,7 @@
   <linearGradient xlink:href="#a" id="k" y1="523.8" y2="520.8" gradientUnits="userSpaceOnUse" x2="0"/>
   <linearGradient xlink:href="#a" id="l" y1="33" y2="25" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="m" y1="7" x1="10" y2="32" x2="35" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#3a4d4f"/>
+   <stop stop-color="#2e595b"/>
    <stop offset="1" stop-color="#655c6f" stop-opacity="0"/>
   </linearGradient>
  </defs>

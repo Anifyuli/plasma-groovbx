@@ -4,13 +4,13 @@
     <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="44" x2="4" y1="44" y2="4">
-    <stop offset="0" stop-color="#172525"/>
+    <stop offset="0" stop-color="#142728"/>
     <stop offset="1" stop-color="#536161"/>
   </linearGradient>
   <linearGradient id="c" gradientTransform="matrix(2.0428665 -6.8308524 5.7819337 2.3633129 25.219113 34.652812)" gradientUnits="userSpaceOnUse" x1="24" x2="24" y1="35" y2="13">
-    <stop offset="0" stop-color="#23a2cd"/>
-    <stop offset=".53" stop-color="#00b8f5"/>
-    <stop offset="1" stop-color="#2ecbff"/>
+    <stop offset="0" stop-color="#519c9f"/>
+    <stop offset=".53" stop-color="#529fa3"/>
+    <stop offset="1" stop-color="#74b6b9"/>
   </linearGradient>
   <rect fill="url(#b)" height="40" ry="1" width="40" x="4" y="4"/>
   <path d="M 17.3,33.060252 27.239748,43 H 44 V 33.5 L 34.5,24 31.533,26.967 h -5.631256 z" fill="url(#a)" opacity=".4"/>

@@ -3,15 +3,15 @@
  <defs>
   <linearGradient id="linearGradient4144">
    <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0"/>
-   <stop style="stop-color:#eea9a9;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#f2a8a5;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4176">
    <stop style="stop-color:#000000;stop-opacity:1;" offset="0"/>
    <stop style="stop-color:#000000;stop-opacity:0;" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4159">
-   <stop style="stop-color:#cf2134;stop-opacity:1;" offset="0"/>
-   <stop style="stop-color:#e55a6a;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#d2251e;stop-opacity:1;" offset="0"/>
+   <stop style="stop-color:#e75e58;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4159" id="linearGradient4165" x1="36.771" y1="43.737" x2="22.872" y2="2.652" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#linearGradient4176" id="linearGradient4182" x1="15.422" y1="13.478" x2="35.019" y2="33.075" gradientUnits="userSpaceOnUse"/>

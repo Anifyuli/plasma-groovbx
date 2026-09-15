@@ -5,8 +5,8 @@
    <stop offset="1" stop-color="#85969e"/>
   </linearGradient>
   <linearGradient id="b" y1="36" y2="12" x2="0" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#158994"/>
-   <stop offset="1" stop-color="#2fb7c4"/>
+   <stop stop-color="#396e70"/>
+   <stop offset="1" stop-color="#529ea1"/>
   </linearGradient>
   <linearGradient id="c" y1="44" y2="4" x2="0" gradientUnits="userSpaceOnUse">
    <stop stop-color="#2a2c2f"/>

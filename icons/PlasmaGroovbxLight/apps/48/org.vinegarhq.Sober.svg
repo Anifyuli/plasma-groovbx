@@ -1,12 +1,12 @@
 <svg width="48" height="48" version="1.1" viewBox="0 0 48.000001 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <linearGradient id="linearGradient4" x1="82.569939" x2="77.908051" y1="53.226517" y2="6.5204186" gradientTransform="matrix(.76324167 0 0 .76324167 -31.649997 3.6572882)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#518630" offset="0"/>
-            <stop stop-color="#b6db3f" offset="1"/>
+            <stop stop-color="#486e49" offset="0"/>
+            <stop stop-color="#dedc3c" offset="1"/>
         </linearGradient>
         <linearGradient id="linearGradient6" x1="26.111343" x2="22.092859" y1="44.899395" y2="4.6393743" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#386123" offset="0"/>
-            <stop stop-color="#b6db3f" offset="1"/>
+            <stop stop-color="#345035" offset="0"/>
+            <stop stop-color="#dedc3c" offset="1"/>
         </linearGradient>
     </defs>
     <g transform="translate(0 -.49962115)" stroke-width=".763241">

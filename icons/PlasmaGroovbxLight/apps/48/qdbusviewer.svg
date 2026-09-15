@@ -6,20 +6,20 @@
   </linearGradient>
   <linearGradient xlink:href="#a" id="b" y1="9.268" x1="-28.756" y2="27.436" x2="-10.858" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-1.022)"/>
   <linearGradient id="c" y1="-.883" x1="-41.26" y2="37.956" x2="-2.994" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.01-1.022)">
-   <stop stop-color="#66b036"/>
-   <stop offset="1" stop-color="#239161"/>
+   <stop stop-color="#5b8b5c"/>
+   <stop offset="1" stop-color="#3d7577"/>
   </linearGradient>
   <linearGradient id="d" y1="37.956" x1="-2.994" y2="-.883" x2="-41.26" gradientUnits="userSpaceOnUse" gradientTransform="translate(0-1.022)">
-   <stop stop-color="#34495e"/>
-   <stop offset="1" stop-color="#1c7865"/>
+   <stop stop-color="#315f61"/>
+   <stop offset="1" stop-color="#326062"/>
   </linearGradient>
   <linearGradient id="e" x1="548.57" x2="562.57" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#faae2a"/>
-   <stop offset="1" stop-color="#ffc35a"/>
+   <stop stop-color="#e2ab42"/>
+   <stop offset="1" stop-color="#e9c070"/>
   </linearGradient>
   <linearGradient id="f" x1="548.57" x2="562.57" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#c61423"/>
-   <stop offset="1" stop-color="#dc2b41"/>
+   <stop stop-color="#bf221b"/>
+   <stop offset="1" stop-color="#e02e27"/>
   </linearGradient>
   <path id="g" d="m11 3.286l-7 6.857h4.2l2.8 13.714 2.8-13.714h4.2z"/>
  </defs>
@@ -37,8 +37,8 @@
   <use fill="url(#e)" xlink:href="#g" transform="matrix(0 .73006-.88102 0 4.935 19.704)"/>
   <use fill="url(#f)" xlink:href="#g" transform="matrix(0 .73006.88102 0-20.992 26.859)"/>
   <g color-rendering="auto" shape-rendering="auto" color-interpolation-filters="linearRGB" image-rendering="auto" fill-rule="evenodd" text-rendering="auto" color-interpolation="sRGB" color="#000000">
-   <path fill="#aa111e" d="m28.779 38.35l-.779.65 6 5v-1.301zm14.201.146l-8.98 1.498v1.01l12-2z" transform="matrix(1.0069 0 0 1.02209-46.29-4.972)"/>
-   <path fill="#e59305" d="m1.256 27.07l.785.665-6.04 5.11v-1.33zm-14.299.15l9.04 1.531v1.028l-12.08-2.044z"/>
+   <path fill="#a41d17" d="m28.779 38.35l-.779.65 6 5v-1.301zm14.201.146l-8.98 1.498v1.01l12-2z" transform="matrix(1.0069 0 0 1.02209-46.29-4.972)"/>
+   <path fill="#cb901f" d="m1.256 27.07l.785.665-6.04 5.11v-1.33zm-14.299.15l9.04 1.531v1.028l-12.08-2.044z"/>
   </g>
  </g>
 </svg>

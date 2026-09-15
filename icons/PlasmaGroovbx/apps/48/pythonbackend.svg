@@ -62,22 +62,22 @@
        gradientTransform="matrix(1.25,0,0,1.26667,-92.14,-151.08)">
       <stop
          id="stop1063"
-         stop-color="#ffc35a"
-         style="stop-color:#faae2a;stop-opacity:1" />
+         stop-color="#e9c070"
+         style="stop-color:#e2ab42;stop-opacity:1" />
       <stop
          id="stop1065"
          offset="1"
-         stop-color="#faae2a"
-         style="stop-color:#fcd187;stop-opacity:1" />
+         stop-color="#e2ab42"
+         style="stop-color:#efd094;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4301">
       <stop
-         style="stop-color:#f10000;stop-opacity:1"
+         style="stop-color:#d3251e;stop-opacity:1"
          offset="0"
          id="stop4303" />
       <stop
-         style="stop-color:#b20000;stop-opacity:1"
+         style="stop-color:#9c1c16;stop-opacity:1"
          offset="1"
          id="stop4305" />
     </linearGradient>
@@ -101,14 +101,14 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-.99376-.00423.00423.98887 47.823 2.34)">
       <stop
-         stop-color="#3fc380"
+         stop-color="#669c68"
          id="stop4430"
-         style="stop-color:#3cc6ae;stop-opacity:1" />
+         style="stop-color:#58a6aa;stop-opacity:1" />
       <stop
          offset="1"
-         stop-color="#3f8ed3"
+         stop-color="#62acb0"
          id="stop4432"
-         style="stop-color:#3f7ad3;stop-opacity:1" />
+         style="stop-color:#62acb0;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="a"
@@ -217,10 +217,10 @@
        id="a-35">
       <stop
          id="stop4339"
-         stop-color="#3fc380" />
+         stop-color="#669c68" />
       <stop
          id="stop4341"
-         stop-color="#3f8ed3"
+         stop-color="#62acb0"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -251,10 +251,10 @@
        id="d-1">
       <stop
          id="stop4346"
-         stop-color="#148e76" />
+         stop-color="#37696b" />
       <stop
          id="stop4348"
-         stop-color="#218059"
+         stop-color="#36686b"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -377,11 +377,11 @@
       <stop
          id="stop4631"
          stop-opacity=".742"
-         stop-color="#dcedfe" />
+         stop-color="#e7f2f3" />
       <stop
          id="stop4633"
          stop-opacity="0"
-         stop-color="#dcedfe"
+         stop-color="#e7f2f3"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -433,10 +433,10 @@
        id="e-3">
       <stop
          id="stop4647"
-         stop-color="#c58c00" />
+         stop-color="#ab7a1a" />
       <stop
          id="stop4649"
-         stop-color="#ffc318"
+         stop-color="#e0a737"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -449,10 +449,10 @@
        id="f-6">
       <stop
          id="stop4652"
-         stop-color="#70431c" />
+         stop-color="#833909" />
       <stop
          id="stop4654"
-         stop-color="#be8c5a"
+         stop-color="#f17727"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -473,13 +473,13 @@
        gradientTransform="translate(-122.5135,-45.5035)">
       <stop
          id="stop4658"
-         stop-color="#22a7f0"
-         style="stop-color:#085077;stop-opacity:1" />
+         stop-color="#62acb0"
+         style="stop-color:#2b5254;stop-opacity:1" />
       <stop
          id="stop4660"
-         stop-color="#19b5fe"
+         stop-color="#66aeb1"
          offset="1"
-         style="stop-color:#0db1fe;stop-opacity:1" />
+         style="stop-color:#5eaaad;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -489,10 +489,10 @@
        id="i">
       <stop
          id="stop4663"
-         stop-color="#c8e3fe" />
+         stop-color="#daebec" />
       <stop
          id="stop4665"
-         stop-color="#e4f1fe"
+         stop-color="#ecf5f6"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -504,7 +504,7 @@
        id="j">
       <stop
          id="stop4668"
-         stop-color="#383e51" />
+         stop-color="#2e595b" />
       <stop
          id="stop4670"
          stop-opacity="0"
@@ -734,11 +734,11 @@
        x2="0"
        gradientTransform="matrix(1,0,0,1.0091,-110.9855,-40.7775)">
       <stop
-         stop-color="#c58c00"
+         stop-color="#ab7a1a"
          id="stop4647-2" />
       <stop
          offset="1"
-         stop-color="#ffc318"
+         stop-color="#e0a737"
          id="stop4649-0" />
     </linearGradient>
     <linearGradient
@@ -758,11 +758,11 @@
        x2="0"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#22a7f0"
+         stop-color="#62acb0"
          id="stop4658-5" />
       <stop
          offset="1"
-         stop-color="#19b5fe"
+         stop-color="#66aeb1"
          id="stop4660-4" />
     </linearGradient>
     <linearGradient
@@ -772,11 +772,11 @@
        x2="0"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#c8e3fe"
+         stop-color="#daebec"
          id="stop4663-6" />
       <stop
          offset="1"
-         stop-color="#e4f1fe"
+         stop-color="#ecf5f6"
          id="stop4665-5" />
     </linearGradient>
     <radialGradient
@@ -863,10 +863,10 @@
        y1="537.59998"
        id="d-6">
       <stop
-         stop-color="#ffc35a"
+         stop-color="#e9c070"
          id="stop3" />
       <stop
-         stop-color="#faae2a"
+         stop-color="#e2ab42"
          offset="1"
          id="stop5" />
     </linearGradient>
@@ -885,11 +885,11 @@
       <stop
          id="stop1069"
          offset="0"
-         style="stop-color:#f11c1c;stop-opacity:1" />
+         style="stop-color:#e1332c;stop-opacity:1" />
       <stop
          id="stop1071"
          offset="1"
-         style="stop-color:#e05e4c;stop-opacity:1" />
+         style="stop-color:#e54d47;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4173"
@@ -967,13 +967,13 @@
        gradientTransform="translate(-122.5135,-45.5035)">
       <stop
          id="stop4658-9"
-         stop-color="#22a7f0"
-         style="stop-color:#085077;stop-opacity:1" />
+         stop-color="#62acb0"
+         style="stop-color:#2b5254;stop-opacity:1" />
       <stop
          id="stop4660-1"
-         stop-color="#19b5fe"
+         stop-color="#66aeb1"
          offset="1"
-         style="stop-color:#0db1fe;stop-opacity:1" />
+         style="stop-color:#5eaaad;stop-opacity:1" />
     </linearGradient>
   </defs>
   <path

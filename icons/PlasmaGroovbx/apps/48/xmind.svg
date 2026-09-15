@@ -7,11 +7,11 @@
   </linearGradient>
   <linearGradient id="linearGradient4168">
    <stop style="stop-color:#fcfcfc;stop-opacity:1;" offset="0"/>
-   <stop style="stop-color:#fbc2bb;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#f6c2c0;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4160">
-   <stop style="stop-color:#c61423;stop-opacity:1;" offset="0"/>
-   <stop style="stop-color:#f58273;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#bf221b;stop-opacity:1;" offset="0"/>
+   <stop style="stop-color:#ec807c;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4160" id="linearGradient4166" x1="32.249" y1="42.037" x2="16.546" y2="4.902" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#linearGradient4168" id="linearGradient4162" x1="17.197" y1="11.627" x2="27.308" y2="31.453" gradientUnits="userSpaceOnUse"/>

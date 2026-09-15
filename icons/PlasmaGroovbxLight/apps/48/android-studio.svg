@@ -14,8 +14,8 @@
    <stop style="stop-color:#cbcbcb;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4144">
-   <stop style="stop-color:#3b962d;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#93d169;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#4d764e;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#88b28a;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4144" id="linearGradient4150" x1="25" y1="1046.362" x2="25" y2="1010.362" gradientUnits="userSpaceOnUse"/>
   <radialGradient xlink:href="#linearGradient4185" id="radialGradient4191" cx="24" cy="1025.362" fx="24" fy="1025.362" r="2" gradientTransform="matrix(1,0,0,0.9998745,0,0.12868292)" gradientUnits="userSpaceOnUse"/>

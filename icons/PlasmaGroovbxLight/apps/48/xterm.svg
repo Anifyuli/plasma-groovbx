@@ -5,16 +5,16 @@
    <stop offset="1" stop-color="#dadedb"/>
   </linearGradient>
   <linearGradient id="b" y1="34" y2="14" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(379.57 499.8)">
-   <stop stop-color="#b40000"/>
-   <stop offset="1" stop-color="#b40000"/>
+   <stop stop-color="#9e1c16"/>
+   <stop offset="1" stop-color="#9e1c16"/>
   </linearGradient>
   <linearGradient id="c" y1="523.8" x1="403.57" y2="536.8" x2="416.57" gradientUnits="userSpaceOnUse">
    <stop stop-color="#292c2f"/>
    <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="d" y1="34" y2="14" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="translate(379.57 499.8)">
-   <stop stop-color="#ec0000"/>
-   <stop offset="1" stop-color="#ff2020"/>
+   <stop stop-color="#cf241d"/>
+   <stop offset="1" stop-color="#e3423c"/>
   </linearGradient>
  </defs>
  <g transform="translate(-384.57-499.8)">
