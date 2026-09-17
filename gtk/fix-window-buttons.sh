@@ -20,8 +20,22 @@
 # This script re-populates the empty SVGs from the real Breeze GTK theme
 # assets. Re-run it after switching color scheme / reapplying any Plasma
 # theme, since kde-gtk-config regenerates (and re-breaks) them each time.
+#
+# The stock Breeze assets draw the glyphs in white (#ffffff), meant to sit
+# on a dark titlebar. On Plasma Groovbx Light that titlebar is light, so
+# white glyphs render invisible. Rather than guess from the active color
+# scheme's name (unreliable with Plasma 6's automatic light/dark switching
+# - kdeglobals may have no static ColorScheme= key at all), read the
+# titlebar's own actual resolved foreground color from [WM] and use that -
+# correct for either variant, and for any color scheme, automatically.
 set -e
 SRC=/usr/share/themes/Breeze/assets
+
+GLYPH_COLOR="#ffffff"
+wm_fg="$(grep -A20 '^\[WM\]' "$HOME/.config/kdeglobals" 2>/dev/null | grep '^activeForeground=' | head -1 | cut -d= -f2)"
+if [[ "$wm_fg" =~ ^[0-9]+,[0-9]+,[0-9]+$ ]]; then
+  GLYPH_COLOR="$(printf '#%02x%02x%02x' ${wm_fg//,/ })"
+fi
 
 populate() {
   local dir="$1"
@@ -54,8 +68,16 @@ populate() {
   cp "$SRC/breeze-maximized-symbolic.svg" "$dir/maximized-backdrop-normal.svg"
   cp "$SRC/breeze-maximized-active-symbolic.svg" "$dir/maximized-backdrop-active.svg"
   cp "$SRC/breeze-maximized-hover-symbolic.svg" "$dir/maximized-backdrop-hover.svg"
+
+  if [ "$GLYPH_COLOR" != "#ffffff" ]; then
+    # Every glyph except close's hover states (those are intentionally red).
+    sed -i "s/#ffffff/$GLYPH_COLOR/g" "$dir"/{close,maximize,minimize,maximized}-{normal,active}.svg \
+      "$dir"/{close,maximize,minimize,maximized}-backdrop-{normal,active}.svg \
+      "$dir"/{maximize,minimize,maximized}-hover.svg \
+      "$dir"/{maximize,minimize,maximized}-backdrop-hover.svg
+  fi
 }
 
 populate "$HOME/.config/gtk-3.0/assets"
 [ -d "$HOME/.config/gtk-4.0/assets" ] && populate "$HOME/.config/gtk-4.0/assets"
-echo "GTK window button icons restored."
+echo "GTK window button icons restored (glyph color: $GLYPH_COLOR)."

@@ -109,6 +109,9 @@ the installed theme, not applied unless you pass `-g`/`--gtk` to
 - `gtk/fix-window-buttons.sh` — a workaround for a `kde-gtk-config` bug
   (reproduces with 100% stock Breeze, unrelated to this theme) where GTK
   window buttons render blank. Only needed if you hit that specific bug.
+  Glyph color is read from the active scheme's own `[WM] activeForeground`
+  at run time, so it looks right on both Dark and Light (and re-running it
+  after switching Dark ↔ Light picks up the new color).
 
 ## License
 
