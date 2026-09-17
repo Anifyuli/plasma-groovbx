@@ -7,7 +7,7 @@ AccentColorFromWallpaper=false
 Theme=PlasmaGroovbx
 
 [kwinrc][org.kde.kdecoration2]
-library=org.kde.kwin.breeze
+library=org.kde.breeze
 theme=BreezeDark
 
 [plasmarc][Theme]

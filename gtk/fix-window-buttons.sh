@@ -4,18 +4,17 @@
 # the theme from KDE Store or otherwise - this is a personal, local workaround
 # script, kept in-repo only for convenience.
 #
-# Root cause (confirmed independent of this theme and of any prior ~/.config
-# state, via a clean ~/.config/gtk-3.0 test): kde-gtk-config's
-# window-decorations-gtk-module asks KWin to paint the current window
-# decoration's close/maximize/minimize buttons offscreen and export each
-# state to an SVG under ~/.config/gtk-3.0/assets/ (and gtk-4.0). On this
-# machine (Fedora 44, kde-gtk-config 6.7.5, Plasma 6 Wayland) that export
-# comes back empty on every regeneration - reproduces with 100% stock
-# "Breeze Dark", no custom color scheme or theme involved. It's a
-# system-component bug, not something a theme package can fix or ship a
-# persistent fix for. Matches a known class of Plasma 6 + Wayland GTK CSD
-# button reports; worth filing against kde-gtk-config upstream if not
-# already tracked.
+# This used to be attributed to a plain kde-gtk-config/Wayland upstream bug
+# (reproduced empty on one machine even with stock Breeze Dark). Turned out
+# on at least some machines/Plasma versions the real cause was on our side:
+# both `defaults` files had `library=org.kde.kwin.breeze` under
+# [kwinrc][org.kde.kdecoration2] - not a real decoration plugin (the actual
+# one, matching stock Breeze's own defaults, is `org.kde.breeze`). That
+# bogus value could make KWin fail to load the decoration kde-gtk-config
+# tries to export for GTK, coming back empty. Fixed in the `defaults` files;
+# re-applying the theme fresh should write the correct library going
+# forward. Kept this script around regardless as a manual fallback/repair
+# tool in case the export still comes back empty for you.
 #
 # This script re-populates the empty SVGs from the real Breeze GTK theme
 # assets. Re-run it after switching color scheme / reapplying any Plasma
