@@ -71,7 +71,8 @@ populate() {
 
   if [ "$GLYPH_COLOR" != "#ffffff" ]; then
     # Every glyph except close's hover states (those are intentionally red).
-    sed -i "s/#ffffff/$GLYPH_COLOR/g" "$dir"/{close,maximize,minimize,maximized}-{normal,active}.svg \
+    # breeze-minimize-symbolic.svg alone uses #fefefe, not #ffffff - match both.
+    sed -i "s/#ffffff/$GLYPH_COLOR/g; s/#fefefe/$GLYPH_COLOR/g" "$dir"/{close,maximize,minimize,maximized}-{normal,active}.svg \
       "$dir"/{close,maximize,minimize,maximized}-backdrop-{normal,active}.svg \
       "$dir"/{maximize,minimize,maximized}-hover.svg \
       "$dir"/{maximize,minimize,maximized}-backdrop-hover.svg
