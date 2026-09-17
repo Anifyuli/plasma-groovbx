@@ -51,6 +51,14 @@ list.
 Then apply from System Settings → Appearance → Global Themes → **Plasma
 Groovbx Dark** or **Plasma Groovbx Light**.
 
+Already had the theme installed and just pulled an update? `install.sh`
+only copies files to `~/.local/share` — it doesn't re-apply the Global
+Theme. Some fixes (wallpaper, window decoration, panel layout) only take
+effect once the theme is actually re-applied, since that's what pushes
+`defaults` into your live config (`~/.config/kdedefaults/`). Re-apply from
+System Settings (or `plasma-apply-lookandfeel -a
+com.anifyuli.plasmagroovbxdark.desktop`) after updating.
+
 Prefer to do it by hand instead? Each component under `Components` above is
 just a folder to copy to the matching path in `~/.local/share/`.
 
