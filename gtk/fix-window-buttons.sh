@@ -27,6 +27,16 @@
 # - kdeglobals may have no static ColorScheme= key at all), read the
 # titlebar's own actual resolved foreground color from [WM] and use that -
 # correct for either variant, and for any color scheme, automatically.
+#
+# There's a second failure mode this script also has to cover: after
+# populate() has run, the kde-gtk-config kded can export KWin's button
+# states over these very files, and the export flattens each state's
+# composited pixels into solid scheme-derived colors. Hover/active glyphs
+# end up as e.g. #3c3836 (light-on-dark alpha-composited = muddy near-black)
+# and render invisible on the dark titlebar - which is why the maximize
+# button looked "black" right after clicking it (cursor parked on it puts
+# it in hover). populate()+recolor_generated() force every state's glyph to
+# the active titlebar foreground, so no state can go dark again.
 set -e
 SRC=/usr/share/themes/Breeze/assets
 
@@ -69,12 +79,41 @@ populate() {
   cp "$SRC/breeze-maximized-hover-symbolic.svg" "$dir/maximized-backdrop-hover.svg"
 
   if [ "$GLYPH_COLOR" != "#ffffff" ]; then
-    # Every glyph except close's hover states (those are intentionally red).
-    # breeze-minimize-symbolic.svg alone uses #fefefe, not #ffffff - match both.
-    sed -i "s/#ffffff/$GLYPH_COLOR/g; s/#fefefe/$GLYPH_COLOR/g" "$dir"/{close,maximize,minimize,maximized}-{normal,active}.svg \
-      "$dir"/{close,maximize,minimize,maximized}-backdrop-{normal,active}.svg \
-      "$dir"/{maximize,minimize,maximized}-hover.svg \
-      "$dir"/{maximize,minimize,maximized}-backdrop-hover.svg
+    # Recolor the glyph of every state to the active titlebar foreground.
+    # The glyph is the only group with stroke-linecap="round" (scaffolding
+    # uses "square", the hover/active discs are fills); leave #000000 and
+    # the close-hover red family alone here (close hover is set to red
+    # below). Covers both fresh stock copies (#ffffff/#fefefe glyphs) and
+    # kde-gtk-config's scheme-colored re-exports (e.g. #3c3836) so no
+    # state can render dark on the titlebar.
+    GLYPH_COLOR="$GLYPH_COLOR" perl -pi -e '
+      if (/stroke-linecap="round"/) {
+        if (/\bstroke="#([0-9a-fA-F]{6})"/) {
+          my $c = lc $1;
+          if ($c ne "000000" && $c !~ /^(ff0404|fb4934|ffb7ae|7d241a|da4453|ff4747)$/) {
+            s/\bstroke="#\Q$c\E"/stroke="$ENV{GLYPH_COLOR}"/i;
+          }
+        }
+      }
+    ' "$dir"/*.svg
+    # Fresh stock copies are single-path files with fill="#ffffff" (no
+    # stroke groups at all) - recolor their only fill to the same glyph
+    # color, keeping the stock close-hover red and any #000000 scaffolding.
+    stock=($(grep -rL 'stroke-linecap="round"' "$dir"/*.svg 2>/dev/null || true))
+    if [ "${#stock[@]}" -gt 0 ]; then
+      GLYPH_COLOR="$GLYPH_COLOR" perl -0777 -pi -e '
+        my $G = $ENV{GLYPH_COLOR};
+        s{\bfill="#([0-9a-fA-F]{6})"}{lc($1) =~ /^(000000|ff0404|fb4934|ffb7ae|da4453|ff4747|7d241a)$/ ? qq(fill="#$1") : qq(fill="$G")}egi;
+      ' "${stock[@]}"
+    fi
+    # Close hover is deliberately red (matches the tooltip pill assets).
+    perl -pi -e '
+      if (/stroke-linecap="round"/) {
+        if (/\bstroke="#([0-9a-fA-F]{6})"/) {
+          s/\bstroke="#\Q$1\E"/stroke="#fb4934"/i;
+        }
+      }
+    ' "$dir"/close-hover.svg "$dir"/close-backdrop-hover.svg
   fi
 }
 
