@@ -2,9 +2,7 @@
     <style
         type="text/css"
         id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#232629;
-        }
+        .ColorScheme-Text { color: #f9f5d7; }
     </style>
     <rect fill="#7f8c8d" height="22" rx="2" width="22"/>
     <path d="M4.414 3L3 4.414 9.586 11 3 17.586 4.414 19 11 12.414 17.586 19 19 17.586 12.414 11 19 4.414 17.586 3 11 9.586z" fill="#fff"/>

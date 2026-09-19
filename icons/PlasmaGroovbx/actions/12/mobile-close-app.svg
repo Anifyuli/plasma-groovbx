@@ -33,9 +33,7 @@
      inkscape:current-layer="svg6" />
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Text {
-            color:#232629;
-        }</style>
+     id="current-color-scheme">.ColorScheme-Text { color: #f9f5d7; }</style>
   <g
      id="mobile-close-app"
      transform="matrix(3.7734101,0,0,3.7734101,-17.945193,-1.9902193)"

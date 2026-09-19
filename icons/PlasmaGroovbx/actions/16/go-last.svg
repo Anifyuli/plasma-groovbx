@@ -2,9 +2,7 @@
     <style
         type="text/css"
         id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#232629;
-        }
+        .ColorScheme-Text { color: #f9f5d7; }
     </style>
     <g class="ColorScheme-Text" fill="currentColor">
         <path d="M8.707 8l-6 6L2 13.293 7.293 8 2 2.707 2.707 2z"/>

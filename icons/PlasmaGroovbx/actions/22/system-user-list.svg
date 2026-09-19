@@ -34,9 +34,7 @@
   <style
      type="text/css"
      id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#232629;
-        }
+        .ColorScheme-Text { color: #f9f5d7; }
     </style>
   <g
      id="22-22-system-user-list"

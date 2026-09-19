@@ -33,9 +33,7 @@
      inkscape:current-layer="svg8" />
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Text {
-        color:#31363b;
-      }
+     id="current-color-scheme">.ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-Background {
         color:#eff0f1;
       }

@@ -33,9 +33,7 @@
      inkscape:current-layer="svg6" />
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Text {
-            color:#232629;
-        }</style>
+     id="current-color-scheme">.ColorScheme-Text { color: #f9f5d7; }</style>
   <g
      id="mobile-task-switcher"
      transform="matrix(3.7803186,0,0,3.7803186,-2.0051041,-2.0025493)"

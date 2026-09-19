@@ -18,9 +18,7 @@
       .ColorScheme-Accent {
         color:#3daee9;
       }
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-ButtonText {
         color:#31363b;
       }

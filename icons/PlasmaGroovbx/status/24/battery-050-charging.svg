@@ -1,9 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
   <defs id="defs1">
     <style type="text/css" id="current-color-scheme">
-            .ColorScheme-Text {
-                color:#232629;
-            }
+            .ColorScheme-Text { color: #f9f5d7; }
             .ColorScheme-PositiveText {
                 color:#27ae60;
             }

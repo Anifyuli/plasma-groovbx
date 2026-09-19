@@ -44,9 +44,7 @@
   <linearGradient id="linearGradient3480" x1="424.57" x2="408.57" y1="523.8" y2="507.8" gradientUnits="userSpaceOnUse" xlink:href="#2"/>
   <linearGradient id="linearGradient3484" x1="392.57" x2="408.57" y1="523.8" y2="539.8" gradientUnits="userSpaceOnUse" xlink:href="#1"/>
   <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text {
-    color:#232629;
-   }
+   .ColorScheme-Text { color: #f9f5d7; }
   </style>
  </defs>
  <g id="g3389" transform="matrix(.78152 0 0 .78147 -.59691 -806.8)">

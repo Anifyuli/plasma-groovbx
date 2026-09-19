@@ -3,9 +3,7 @@
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="22" height="22" id="svg4355" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="colors-luma.svg">
   <defs id="defs4357">
     <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-Background {
         color:#eff0f1;
       }

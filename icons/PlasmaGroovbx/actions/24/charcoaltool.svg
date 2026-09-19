@@ -14,9 +14,7 @@
       <stop style="stop-color:#ffffff;stop-opacity:0.05294118" offset="1" id="stop4157"/>
     </linearGradient>
     <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
       </style>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4153" id="linearGradient4159" x1="8.6864405" y1="9.2288132" x2="12.661017" y2="13.144068" gradientUnits="userSpaceOnUse"/>
   </defs>

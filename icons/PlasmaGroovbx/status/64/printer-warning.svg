@@ -75,9 +75,7 @@
     <style id="current-color-scheme" type="text/css">.ColorScheme-NeutralText {
             color:#f67400;
         }
-        .ColorScheme-Text {
-            color:#232629;
-        }</style>
+        .ColorScheme-Text { color: #f9f5d7; }</style>
     <g transform="translate(.0443862 -.65830905)">
         <path class="ColorScheme-NeutralText" d="m49.961932 42.658335a0.72728737 0.72727154 0 0 0-0.65674 0.402181l-7.272874 14.545431a0.72728737 0.72727154 0 0 0 0.650922 1.052362h14.545748a0.72728737 0.72727154 0 0 0 0.650922-1.052362l-7.272874-14.545431a0.72728737 0.72727154 0 0 0-0.645104-0.402181z" color="#f67400" fill="currentColor"/>
         <path d="m48.955614 47.658309v5h2v-5zm0 7v2h2v-2z" fill="#fff"/>

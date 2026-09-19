@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="32" height="32">
     <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
       </style>
     <g id="cantata" inkscape:label="#cantata" transform="translate(-22,0)">
     <path id="path13" class="ColorScheme-Text" d="M 38,3.9999997 A 12,12 0 0 0 26,16 12,12 0 0 0 38,28 12,12 0 0 0 50,16 12,12 0 0 0 38,3.9999997 Z m 0,1 A 11,11 0 0 1 49,16 11,11 0 0 1 38,27 11,11 0 0 1 27,16 11,11 0 0 1 38,4.9999997 Z" style="fill:currentColor;fill-opacity:0.6;stroke:none"/>

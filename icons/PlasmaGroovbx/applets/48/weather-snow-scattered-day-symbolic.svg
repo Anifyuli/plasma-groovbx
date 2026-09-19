@@ -1,7 +1,5 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" width="48" height="48">
- <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-    color:#232629;
-  }</style>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #f9f5d7; }</style>
  <g id="weather-snow-day-symbolic" class="ColorScheme-Text" stroke-linejoin="bevel">
   <path id="line12" d="m3 19h5" fill="none" stroke="currentColor" stroke-width="2"/>
   <use transform="rotate(36,19,19)" href="#line12"/>

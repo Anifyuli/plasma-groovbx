@@ -5,9 +5,7 @@ SPDX-License-Identifier: CC0-1.0
 -->
   <defs>
     <style type="text/css" id="current-color-scheme">
-    .ColorScheme-Text {
-      color:#232629;
-    }
+    .ColorScheme-Text { color: #f9f5d7; }
     </style>
   </defs>
   <g transform="translate(1,1)">

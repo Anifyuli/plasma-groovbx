@@ -1,8 +1,6 @@
 <svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
     <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#232629;
-        }
+        .ColorScheme-Text { color: #f9f5d7; }
     </style>
     <g class="ColorScheme-Text" fill="currentColor">
         <path d="M3.858 3L18 8l-.333.943-14.142-5z"/>

@@ -2,9 +2,7 @@
   <defs id="defs10"/>
   <sodipodi:namedview id="namedview8" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="35.136364" inkscape:cx="9.5058214" inkscape:cy="11" inkscape:window-width="3840" inkscape:window-height="2054" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="svg6"/>
   <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-Background {
         color:#eff0f1;
       }

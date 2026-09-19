@@ -2,9 +2,7 @@
     <style
         type="text/css"
         id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#232629;
-        }
+        .ColorScheme-Text { color: #f9f5d7; }
     </style>
     <path d="M16 16L2 26V6zm14 0L16 26V6z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>

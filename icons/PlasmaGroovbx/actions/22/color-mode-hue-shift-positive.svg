@@ -32,9 +32,7 @@
    <stop offset="1" stop-color="#e6320e"/>
   </linearGradient>
   <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text {
-    color:#232629;
-   }
+   .ColorScheme-Text { color: #f9f5d7; }
   </style>
  </defs>
  <g transform="matrix(1.093343,0,0,1.0933518,-1.0272637,-1128.5694)">

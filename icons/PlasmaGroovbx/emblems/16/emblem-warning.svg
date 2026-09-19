@@ -5,9 +5,7 @@
         .ColorScheme-NeutralText {
             color:#f67400;
         }
-        .ColorScheme-Text {
-            color:#232629;
-        }
+        .ColorScheme-Text { color: #f9f5d7; }
     </style>
     <path style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-NeutralText" d="M8.008 0a1 1 0 0 0-.903.553l-7 14A1 1 0 0 0 1 16h14a1 1 0 0 0 .895-1.447l-7-14A1 1 0 0 0 8.008 0z"/>
     <path style="fill:currentColor;fill-opacity:0.6;stroke:none" class="ColorScheme-Text" d="M8.008 0a1 1 0 0 0-.903.553l-7 14A1 1 0 0 0 1 16h14a1 1 0 0 0 .895-1.447l-7-14A1 1 0 0 0 8.008 0zM8 1l7 14H1z"/>

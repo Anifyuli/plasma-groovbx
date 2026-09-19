@@ -2,9 +2,7 @@
   xmlns="http://www.w3.org/2000/svg">
   <defs id="defs4157">
     <style id="current-color-scheme" type="text/css">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
     </style>
   </defs>
   <path class="ColorScheme-Text" d="M 3,19 19,3 v 16 z" style="opacity:0.35;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="path4330" />

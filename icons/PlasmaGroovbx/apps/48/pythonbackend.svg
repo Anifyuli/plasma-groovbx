@@ -345,7 +345,7 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#4d4d4d; }
+   .ColorScheme-Text { color:#f9f5d7; }
   </style>
     <linearGradient
        gradientTransform="translate(-404.99,-523.8)"
@@ -706,7 +706,7 @@
     <style
        id="current-color-scheme-8"
        type="text/css">
-   .ColorScheme-Text { color:#4d4d4d; }
+   .ColorScheme-Text { color:#f9f5d7; }
   </style>
     <linearGradient
        y2="42.318"

@@ -4,9 +4,7 @@
     <style
        type="text/css"
        id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
       </style>    
         <linearGradient
        id="linearGradient3778-2">

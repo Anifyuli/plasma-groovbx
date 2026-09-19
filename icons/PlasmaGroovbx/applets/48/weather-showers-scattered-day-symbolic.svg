@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
- <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-    color:#232629;
-  }</style>
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #f9f5d7; }</style>
  <g id="weather-showers-scattered-day-symbolic" class="ColorScheme-Text" stroke-linejoin="bevel">
   <path id="rainwsd" d="m16 42 5-7" stroke="currentColor" stroke-width="2"/>
   <use transform="translate(16)" href="#rainwsd"/>

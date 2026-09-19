@@ -115,9 +115,7 @@
     <style
        type="text/css"
        id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#4d4d4d;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
       </style>
     <linearGradient
        gradientTransform="translate(52.511351,-30)"

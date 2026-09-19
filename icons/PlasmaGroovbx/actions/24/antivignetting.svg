@@ -1,9 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 24 24" width="24" height="24">
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629;
-      }
+      .ColorScheme-Text { color: #f9f5d7; }
       </style>
     <radialGradient inkscape:collect="always" xlink:href="#linearGradient4469" id="radialGradient4475" cx="555.57141" cy="753.9336" fx="555.57141" fy="753.9336" r="8" gradientTransform="translate(0,-1.7975178e-4)" gradientUnits="userSpaceOnUse"/>
     <linearGradient inkscape:collect="always" id="linearGradient4469">

@@ -5,9 +5,7 @@
             .ColorScheme-Accent {
                 color:#3daee9;
             }
-            .ColorScheme-Text {
-                color:#232629;
-            }
+            .ColorScheme-Text { color: #f9f5d7; }
         </style>
     </defs>
     <path style="fill:currentColor; fill-opacity:1; stroke:none" d="M 11.7793 4.22266 L 11.0723 4.92969 C 12.9478 6.80519 14 9.34764 14 12 L 15 12 C 15 9.08281 13.8421 6.28542 11.7793 4.22266 Z" class="ColorScheme-Accent"/>
