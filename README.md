@@ -121,6 +121,17 @@ the installed theme, not applied unless you pass `-g`/`--gtk` to
   at run time, so it looks right on both Dark and Light (and re-running it
   after switching Dark ↔ Light picks up the new color).
 
+- `gtk/fix-gtk-sync.sh` — for when `kde-gtk-config` never finished syncing
+  GTK for the session at all: `~/.config/gtk-3.0/settings.ini` missing
+  `window-decorations-gtk-module` from `gtk-modules=`, and/or no
+  `gtk-theme-name=` set. Symptom: most GTK theming looks right, but
+  individual CSD buttons render in the wrong/unreadable color in some apps
+  (seen with Remmina's maximize/restore button) since they never got
+  Breeze's own titlebutton styling. Only patches what's missing/empty —
+  won't override a `gtk-theme-name` you've set deliberately. **Log out and
+  back in** afterward; restarting `kded6` alone isn't enough to re-init the
+  handshake with already-running apps.
+
 ## License
 
 [GPL-3.0-or-later](LICENSE), except the Plasma style
