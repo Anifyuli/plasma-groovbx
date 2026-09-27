@@ -100,11 +100,12 @@ exists — "Accent color from color scheme" is only shown when the active scheme
 declares the accent and no user override is present. The accent therefore has
 to come from the scheme rather than from a forced write.
 
-Each Global Theme's `contents/defaults` also embeds every `[Colors:*]`,
-`[ColorEffects:*]`, `[KDE]` and `[WM]` group, so the Gruvbox palette is applied
-by the theme itself even when its color scheme is not the active one.
+The palette itself also lives only in the `.colors` files: applying a Global
+Theme copies it from the scheme named by `ColorScheme=`, and ignores any
+`[Colors:*]` groups in `contents/defaults`.
 
-After an icon update, re-apply so Plasma drops its cached SVGs:
+If an older install left an `AccentColor` override in `kdeglobals`, or after
+an icon update (Plasma caches rendered SVGs), run:
 
 ```sh
 ./install.sh --reapply

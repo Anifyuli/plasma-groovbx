@@ -50,6 +50,11 @@ while [ $# -gt 0 ]; do
   esac
 done
 
+if [ "$ACTION" = remove ] && [ "$REAPPLY" = true ]; then
+  err "--reapply cannot be combined with --remove."
+  exit 1
+fi
+
 # source-dir:dest-subdir pairs — each source dir's *children* get installed
 # under $DEST/dest-subdir/, or removed from there.
 COMPONENTS=(
@@ -82,13 +87,6 @@ do_install() {
     sed -i "s|__PLASMA_GROOVBX_WALLPAPER_PATH__|$wallpaper_path|" "$layout"
   done
 
-  if [ "$REAPPLY" = true ]; then
-    do_reapply
-  else
-    log "Done. Apply from System Settings > Appearance > Global Themes > Plasma Groovbx Dark/Light."
-    log "After an icon update, re-apply that theme so Plasma drops its cached SVGs."
-  fi
-
   if [ "$WITH_GTK" = true ]; then
     log "Applying optional GTK extras..."
     bash "$REPO_DIR/gtk/fix-window-buttons.sh" || warn "GTK window-button workaround failed, see gtk/fix-window-buttons.sh"
@@ -100,6 +98,14 @@ do_install() {
       fi
     done
     warn "kde-gtk-config regenerates its own files on color scheme changes and may undo this; re-run with -g if it does."
+  fi
+
+  # Last, so a refused re-apply under set -e doesn't skip the GTK extras.
+  if [ "$REAPPLY" = true ]; then
+    do_reapply
+  else
+    log "Done. Apply from System Settings > Appearance > Global Themes > Plasma Groovbx Dark/Light."
+    log "After an icon update, re-apply that theme so Plasma drops its cached SVGs."
   fi
 }
 
@@ -114,6 +120,10 @@ do_reapply() {
       return 1
       ;;
   esac
+
+  # Drop any user-level override left by the old fix-accent-color.sh, or the
+  # KCM keeps reporting "Custom accent color" over the scheme's own accent.
+  kwriteconfig6 --file kdeglobals --group General --key AccentColor --delete
 
   log "Re-applying $current"
   if ! plasma-apply-lookandfeel -a "$current"; then
