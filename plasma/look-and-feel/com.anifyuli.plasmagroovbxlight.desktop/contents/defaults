@@ -6,6 +6,9 @@ AccentColorFromWallpaper=false
 [kdeglobals][Icons]
 Theme=PlasmaGroovbxLight
 
+[kcminputrc][Mouse]
+cursorTheme=PlasmaGroovbxLight
+
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.breeze
 theme=Breeze
