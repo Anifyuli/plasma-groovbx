@@ -84,6 +84,11 @@ a future Breeze icon this repo doesn't have yet — still resolves), plus:
   spins, whose default already resolves to that name — nothing in this repo
   forces it) alongside the existing tinted `start-here-kde`/
   `start-here-kde-plasma` for KDE's own generic menu mark on other distros.
+  The large logo in About This System (Info Center and System Settings)
+  shows it too. Fedora pins that logo to a fixed PNG through `LogoPath` in
+  `/etc/xdg/kcm-about-distrorc`, so `install.sh` adds `LogoPath[$d]` to
+  `~/.config/kcm-about-distrorc`. That leaves the `LOGO=` name from
+  os-release to resolve through the icon theme. `--remove` takes the line out.
 - Folder and generic UI icons follow the accent color automatically (Breeze's
   own `ColorScheme-Accent` mechanism), no separate icon work needed there.
 

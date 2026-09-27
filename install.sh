@@ -90,6 +90,20 @@ do_install() {
     sed -i "s|__PLASMA_GROOVBX_WALLPAPER_PATH__|$wallpaper_path|" "$layout"
   done
 
+  # Some distros (Fedora) point About This System at a fixed PNG via
+  # /etc/xdg/kcm-about-distrorc LogoPath. Drop that key for this user so the
+  # os-release LOGO name resolves through the icon theme and gets the tint.
+  distrorc="$HOME/.config/kcm-about-distrorc"
+  if [ -n "$(kreadconfig6 --file kcm-about-distrorc --group General --key LogoPath 2>/dev/null)" ] \
+     && ! grep -qF 'LogoPath[$d]' "$distrorc" 2>/dev/null; then
+    log "Letting About This System use the themed distro logo"
+    if grep -qx '\[General\]' "$distrorc" 2>/dev/null; then
+      sed -i '/^\[General\]$/a LogoPath[$d]' "$distrorc"
+    else
+      printf '[General]\nLogoPath[$d]\n' >> "$distrorc"
+    fi
+  fi
+
   if [ "$WITH_GTK" = true ]; then
     log "Applying optional GTK extras..."
     bash "$REPO_DIR/gtk/fix-window-buttons.sh" || warn "GTK window-button workaround failed, see gtk/fix-window-buttons.sh"
@@ -180,6 +194,11 @@ do_remove() {
   if [ "$(kreadconfig6 --file yakuakerc --group Appearance --key Skin 2>/dev/null)" = "Groovbx" ]; then
     log "Yakuake skin was Groovbx — switching back to the default skin"
     kwriteconfig6 --file yakuakerc --group Appearance --key Skin "default"
+  fi
+
+  if grep -qF 'LogoPath[$d]' "$HOME/.config/kcm-about-distrorc" 2>/dev/null; then
+    log "Restoring the distro's own About This System logo"
+    sed -i '/^LogoPath\[\$d\]$/d' "$HOME/.config/kcm-about-distrorc"
   fi
 
   for v in gtk-3.0 gtk-4.0; do
