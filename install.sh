@@ -74,6 +74,9 @@ do_install() {
     for item in "$REPO_DIR/$src"/*; do
       name="$(basename "$item")"
       log "Installing $dst/$name"
+      # Replace, don't merge: files dropped from the repo (e.g. the old
+      # devices/64/tv.svg alias) would otherwise survive every update.
+      rm -rf "$DEST/$dst/$name"
       cp -r "$item" "$DEST/$dst/"
     done
   done
