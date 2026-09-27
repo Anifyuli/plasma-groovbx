@@ -87,6 +87,26 @@ a future Breeze icon this repo doesn't have yet — still resolves), plus:
 - Folder and generic UI icons follow the accent color automatically (Breeze's
   own `ColorScheme-Accent` mechanism), no separate icon work needed there.
 
+### Tinting another app's icon
+
+`tools/tint.py` writes a Gruvbox-tinted copy into both variants. Run it from the
+repo root:
+
+```sh
+./tools/tint.py app spotify firefox                # installed app, by its Icon= name
+./tools/tint.py file path/to/icon.svg apps/48/icon.svg  # any SVG or PNG
+./tools/tint.py table                              # rebuild tools/colour-table.json
+```
+
+Check first that the tree has no Breeze-style design under another name
+(Telegram uses `telegram.svg` via a symlink). `app` picks the app's scalable SVG
+from hicolor or the Flatpak exports, or its largest PNG otherwise, and writes it
+to `apps/48`. A colour that appears in
+`tools/colour-table.json` maps exactly: the table records the Breeze → Gruvbox
+pairs taken from icons already tinted in this tree. Any other colour follows a
+smooth hue curve fitted to that table, which keeps its lightness and leaves
+greys alone. PNG sources need PySide6.
+
 ## Accent color
 
 Each variant's `color-schemes/PlasmaGroovbx{Dark,Light}.colors` carries its
