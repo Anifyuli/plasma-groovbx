@@ -80,23 +80,61 @@ a future Breeze icon this repo doesn't have yet — still resolves), plus:
 - The network status icons (connected/disconnected/signal strength, wired
   and wireless) completed to match current Breeze, following the active
   color scheme automatically.
-- A Gruvbox-tinted `fedora-logo-icon` (the Kickoff/menu icon on Fedora
-  spins, whose default already resolves to that name — nothing in this repo
-  forces it) alongside the existing tinted `start-here-kde`/
-  `start-here-kde-plasma` for KDE's own generic menu mark on other distros.
-  On any other distro, `install.sh` tints that distro's own logo into the
-  installed theme (never into the repo) when the tree has no icon under its
-  os-release `LOGO=` name. The logo is taken from hicolor or
-  `/usr/share/pixmaps` with `tools/tint.py`, so Arch, openSUSE, Ubuntu and the
-  rest get a Gruvbox logo without the repo shipping their trademarks.
-  The large logo in About This System (Info Center and System Settings)
-  uses the same icon. Some distros, Fedora among them, pin that logo to a
-  fixed PNG through `LogoPath` in `/etc/xdg/kcm-about-distrorc`, so
-  `install.sh` adds `LogoPath[$d]` to `~/.config/kcm-about-distrorc`. That
-  leaves the `LOGO=` name to resolve through the icon theme. `--remove`
-  takes the line out.
+- A Gruvbox-tinted distro logo for Kickoff and About This System: shipped
+  for Fedora, tinted at install time everywhere else. See
+  [Distro logo](#distro-logo).
 - Folder and generic UI icons follow the accent color automatically (Breeze's
   own `ColorScheme-Accent` mechanism), no separate icon work needed there.
+
+### Distro logo
+
+Plasma shows the distro logo in two places: the Kickoff button, and the large
+logo in About This System (Info Center and System Settings). Both look up the
+icon named by `LOGO=` in `/etc/os-release`, for example `fedora-logo-icon` on
+Fedora or `archlinux-logo` on Arch. Breeze has no distro logos, so without help
+that name falls through to the distro's own untinted logo.
+
+The repo ships a tinted `fedora-logo-icon`, plus `start-here-kde` and
+`start-here-kde-plasma`, which Plasma uses when `LOGO=` is unset. It carries
+no other distro's logo. Those are trademarks, and each distro already
+installs its own copy. `install.sh` tints that copy instead:
+
+1. Reads `LOGO=` from `/etc/os-release`.
+2. Skips the rest if the installed theme already has an icon by that name
+   (Fedora does).
+3. Otherwise runs `tools/tint.py app <LOGO>` against the installed theme in
+   `~/.local/share/icons`, never the repo. The source is the first match of:
+   a scalable SVG in hicolor, the largest hicolor PNG up to 512px, then
+   `/usr/share/pixmaps`.
+4. Writes the result to `apps/48/` in both variants, using the same Breeze →
+   Gruvbox colour table as every other app icon.
+
+About This System needs one more step on some distros. Fedora, for example,
+sets `LogoPath` in `/etc/xdg/kcm-about-distrorc` to a fixed PNG, which skips
+the icon theme altogether. `install.sh` adds this to
+`~/.config/kcm-about-distrorc`:
+
+```ini
+[General]
+LogoPath[$d]
+```
+
+`[$d]` removes the system-wide key for this user only. Info Center then goes
+back to the `LOGO=` name and finds the tinted icon through the theme.
+
+| Case | Result |
+|---|---|
+| Fedora | Uses the `fedora-logo-icon` shipped in the repo; nothing is tinted at install |
+| Logo is an SVG (e.g. Arch) | Tinted, e.g. Arch blue `#1793d1` becomes Gruvbox teal `#3a92ae` |
+| Logo is a PNG only | Tinted per pixel; needs PySide6 |
+| No logo found, or PNG without PySide6 | `install.sh` warns and finishes; the stock logo stays |
+| `LOGO=` unset | Plasma falls back to `start-here-kde`, already tinted in the repo |
+
+Colours that already sit close to the Gruvbox palette barely move. Ubuntu's
+orange, for instance, goes from `#e95420` to `#e25427`. The tinted logo lives
+only in that machine's installed theme, so run `./install.sh` again if a distro
+update changes its logo. `./install.sh --remove` deletes the theme, tinted logo
+included, and takes out the `LogoPath[$d]` line so the stock logo returns.
 
 ### Tinting another app's icon
 
