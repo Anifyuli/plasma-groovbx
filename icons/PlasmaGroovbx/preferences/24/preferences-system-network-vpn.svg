@@ -4,8 +4,8 @@
     <stop offset="1" stop-color="#f5f2f5"/>
   </linearGradient>
   <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="5" x2="5" y1="17" y2="5">
-    <stop offset="0" stop-color="#ffd42a"/>
-    <stop offset="1" stop-color="#ffdf62"/>
+    <stop offset="0" stop-color="#e3b945"/>
+    <stop offset="1" stop-color="#eacb76"/>
   </linearGradient>
   <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="7" x2="18" y1="7" y2="18">
     <stop offset="0" stop-color="#292c2f"/>

@@ -2,8 +2,8 @@
 <svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="linearGradient1515">
-   <stop stop-color="#f39c1f" offset="0"/>
-   <stop stop-color="#fff" offset="1"/>
+   <stop stop-color="#e09932" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1339">
    <stop offset="0"/>
@@ -14,8 +14,8 @@
    <stop stop-color="#bdc3c7" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1066" x1="23.064789" x2="23.064789" y1="2.9331775" y2="-9.4093714" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#da4453" offset="0"/>
-   <stop stop-color="#ed1515" offset="1"/>
+   <stop stop-color="#e02e27" offset="0"/>
+   <stop stop-color="#e12121" offset="1"/>
   </linearGradient>
   <radialGradient id="radialGradient1341" cx="2.6748774" cy="4.5400662" r="1.7617654" gradientTransform="matrix(.98103659 0 0 .91815864 .28626415 .85858219)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1339"/>
   <radialGradient id="radialGradient1345" cx="2.6748774" cy="4.5400662" r="1.7617654" gradientTransform="matrix(.98103659 0 0 .91815864 2.6715797 .85858219)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1339"/>
@@ -35,12 +35,12 @@
    <stop stop-color="#bdc3c7" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1501" x1="19.511889" x2="19.511889" y1="5.8208332" y2="2.3392355" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#16a085" offset="0"/>
-   <stop stop-color="#fff" offset="1"/>
+   <stop stop-color="#3d7679" offset="0"/>
+   <stop stop-color="#ffffff" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1505" x1="19.511889" x2="19.511889" y1="5.8208332" y2="3.0994468" gradientTransform="translate(4.7625,2.38125)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#16a085" offset="0"/>
-   <stop stop-color="#d9faf4" offset="1"/>
+   <stop stop-color="#3d7679" offset="0"/>
+   <stop stop-color="#e3f0ee" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient1509" x1="19.511889" x2="19.511889" y1="5.8208332" y2="3.0994468" gradientTransform="translate(2.3918707,4.7625003)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1515"/>
   <linearGradient id="linearGradient1525" x1="19.511889" x2="19.511889" y1="5.8208332" y2="3.0994468" gradientTransform="translate(7.143749 -.03049597)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1515"/>
@@ -54,7 +54,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <rect x="1.0583333" y="1.0583338" width="10.583333" height="10.318749" rx="1.5874996" ry="1.5874996" fill="#00f" style="paint-order:normal"/>
+ <rect x="1.0583333" y="1.0583338" width="10.583333" height="10.318749" rx="1.5874996" ry="1.5874996" fill="#5555aa" style="paint-order:normal"/>
  <rect x="1.0583333" y="1.0583333" width="10.583333" height="10.583333" rx="1.5875001" ry="1.5875001" fill="#99a3a5" stroke-width=".26458332" style="paint-order:markers fill stroke"/>
  <rect x="1.0583333" y="1.0583333" width="10.583333" height="10.318749" rx="1.5869061" ry="1.5869061" fill="url(#linearGradient3861)" stroke-width=".26458332" style="paint-order:markers fill stroke"/>
  <flowRoot fill="#000000" font-family="sans-serif" font-size="10.583334px" letter-spacing="0px" stroke-width=".26458335" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><flowRegion><rect x="-215.52615" y="-106.53525" width="190.08208" height="166.50893" stroke-width=".07000434"/></flowRegion><flowPara/></flowRoot>

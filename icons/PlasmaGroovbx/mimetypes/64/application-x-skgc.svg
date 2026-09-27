@@ -1,12 +1,12 @@
 <svg width="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" height="64">
  <defs>
   <linearGradient id="a" y1="3" y2="61" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0-1 0 64)">
-   <stop stop-color="#d29c1e"/>
-   <stop offset="1" stop-color="#dea520"/>
+   <stop stop-color="#d1a11f"/>
+   <stop offset="1" stop-color="#ddab21"/>
   </linearGradient>
   <linearGradient id="b" y1="61" y2="47" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0-1 0 64)">
-   <stop stop-color="#efd290"/>
-   <stop offset="1" stop-color="#f0d493"/>
+   <stop stop-color="#d2c8ac"/>
+   <stop offset="1" stop-color="#d4caae"/>
   </linearGradient>
   <linearGradient id="c" y1="17" x1="40" y2="31" x2="54" gradientUnits="userSpaceOnUse">
    <stop stop-color="#3a4d4f"/>
@@ -22,5 +22,5 @@
   <path fill="url(#b)" d="m54 17l-14-14v14z"/>
   <path opacity=".2" fill="url(#c)" d="m40 17l14 14v-14z"/>
  </g>
- <path fill="#efd290" color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000" d="m32 22c-2.77 0-5 2.23-5 5h1c0-2.216 1.784-4 4-4 2.216 0 4 1.784 4 4v6h-12v11h16v-11h-3v-6c0-2.77-2.23-5-5-5m-7 12h14v9h-14z"/>
+ <path fill="#d2c8ac" color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000" d="m32 22c-2.77 0-5 2.23-5 5h1c0-2.216 1.784-4 4-4 2.216 0 4 1.784 4 4v6h-12v11h16v-11h-3v-6c0-2.77-2.23-5-5-5m-7 12h14v9h-14z"/>
 </svg>

@@ -7,7 +7,7 @@
         </linearGradient>
         <linearGradient id="4-3" x2="0" y1="4" y2="44" gradientTransform="matrix(.5 0 0 .5 386.57 505.8)" gradientUnits="userSpaceOnUse">
             <stop id="stop7" stop-color="#6f8181" offset="0"/>
-            <stop id="stop9-0" stop-color="#334545" offset="1"/>
+            <stop id="stop9-0" stop-color="#344244" offset="1"/>
         </linearGradient>
         <linearGradient id="5-2" x2="0" y1="511.8" y2="535.8" gradientTransform="translate(-1,4)" gradientUnits="userSpaceOnUse">
             <stop id="stop2" stop-color="#eff1f1" offset="0"/>
@@ -27,7 +27,7 @@
     </g>
     <g id="layer2">
         <g id="g1012" stroke-width="0" style="">
-            <g id="g1002-3" transform="translate(1.002 .011774)" fill="#3daee9">
+            <g id="g1002-3" transform="translate(1.002 .011774)" fill="#60abae">
                 <rect id="rect870-6" x="18" y="34" width="22" height="2" ry="1" style="paint-order:normal"/>
                 <path id="path872-3-75" d="m40.029 28.006a4 4 0 0 0-1.5605 0.30469 4 4 0 0 0-2.4688 3.6953h2.0117a1.9892 1.9892 0 0 1 1.2266-1.8379 1.9892 1.9892 0 0 1 2.168 0.43164 1.9892 1.9892 0 0 1 0.43164 2.168 1.9892 1.9892 0 0 1-1.8379 1.2266v2.0117a4 4 0 0 0 3.6953-2.4688 4 4 0 0 0-0.86719-4.3594 4 4 0 0 0-2.7988-1.1719z" style="paint-order:normal"/>
                 <path id="path872-3-3-5" d="m35.999 41.018a4 4 0 0 0-0.30469-1.5605 4 4 0 0 0-3.6953-2.4688v2.0117a1.9892 1.9892 0 0 1 1.8379 1.2266 1.9892 1.9892 0 0 1-0.43164 2.168 1.9892 1.9892 0 0 1-2.168 0.43164 1.9892 1.9892 0 0 1-1.2266-1.8379h-2.0117a4 4 0 0 0 2.4688 3.6953 4 4 0 0 0 4.3594-0.86719 4 4 0 0 0 1.1719-2.7988z" style="paint-order:normal"/>

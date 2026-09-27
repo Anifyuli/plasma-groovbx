@@ -4,15 +4,15 @@
         <stop offset="1" stop-color="#eff1f1"/>
         </linearGradient>
     <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4" x2="4" y1="45" y2="3">
-        <stop offset="0" stop-color="#197cf1"/>
-        <stop offset="1" stop-color="#21c9fb"/>
+        <stop offset="0" stop-color="#529fa3"/>
+        <stop offset="1" stop-color="#5aa8ab"/>
         </linearGradient>
     <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="4" x2="4" y1="3" y2="45">
         <stop offset="0" stop-color="#292c2f"/>
         <stop offset="1" stop-opacity="0"/>
         </linearGradient>
     <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="4" x2="4" y1="45" y2="3">
-        <stop offset="0" stop-color="#7cbaf8"/>
+        <stop offset="0" stop-color="#90c4c6"/>
         <stop offset="1" stop-color="#f4fcff"/>
         </linearGradient>
   <path

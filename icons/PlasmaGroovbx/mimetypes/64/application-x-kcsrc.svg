@@ -62,11 +62,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0-1 0 64)">
       <stop
-         stop-color="#d29c1e"
+         stop-color="#d1a11f"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#dea520"
+         stop-color="#ddab21"
          id="stop9" />
     </linearGradient>
     <linearGradient
@@ -77,11 +77,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0-1 0 64)">
       <stop
-         stop-color="#efd290"
+         stop-color="#d2c8ac"
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#f0d493"
+         stop-color="#d4caae"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -174,7 +174,7 @@
   <use
      id="use4186"
      xlink:href="#c-7"
-     style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#e5b546;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;fill-opacity:1"
+     style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#e4ba48;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;fill-opacity:1"
      x="0"
      y="0"
      width="100%"

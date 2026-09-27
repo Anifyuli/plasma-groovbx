@@ -6,12 +6,12 @@
    <stop style="stop-color:#000000;stop-opacity:0;" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4161">
-   <stop style="stop-color:#334545;stop-opacity:1;" offset="0"/>
+   <stop style="stop-color:#344244;stop-opacity:1;" offset="0"/>
    <stop style="stop-color:#4d6868;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4266">
    <stop style="stop-color:#c6cdd1;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#e0e5e7;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#ccd5d6;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4266" id="linearGradient4272" x1="35" y1="44" x2="19" y2="3" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#linearGradient4161" id="linearGradient4167" x1="-16" y1="12" x2="-8.664" y2="9.744" gradientUnits="userSpaceOnUse"/>

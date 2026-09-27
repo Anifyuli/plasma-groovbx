@@ -4,12 +4,12 @@
         <stop offset="1" stop-color="#9d8062"/>
         </linearGradient>
     <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4" x2="4" y1="3" y2="45">
-        <stop offset="0" stop-color="#383e51"/>
+        <stop offset="0" stop-color="#3a4d4f"/>
         <stop offset="1" stop-opacity="0"/>
         </linearGradient>
     <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="4" x2="4" y1="3" y2="45">
-        <stop offset="0" stop-color="#21c9fb"/>
-        <stop offset="1" stop-color="#197cf1"/>
+        <stop offset="0" stop-color="#5aa8ab"/>
+        <stop offset="1" stop-color="#529fa3"/>
         </linearGradient>
   <path
      style="fill:url(#a)"
@@ -30,7 +30,7 @@
      d="M 14 14 L 14 34 L 34 34 L 34 14 L 14 14 z M 15 15 L 33 15 L 33 32 L 33 33 L 15 33 L 15 32 L 15 15 z M 15 32 L 19 32 L 22 29 L 20 27 L 15 32 z M 33 32 L 27 26 L 21 32 L 33 32 z M 18.5 16 C 17.115 16 16 17.115 16 18.5 C 16 19.885 17.115 21 18.5 21 C 19.885 21 21 19.885 21 18.5 C 21 17.115 19.885 16 18.5 16 z "
      style="fill:#ffffff" />
   <path
-     style="fill:#f8c94d"
+     style="fill:#e7c25d"
      d="M 30 11 L 28 13 L 35 20 L 37 18 L 30 11 z M 12 28 L 10 30 L 17 37 L 19 35 L 12 28 z "
      />
 </svg>

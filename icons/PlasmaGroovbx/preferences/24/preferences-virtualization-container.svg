@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" width="24" viewBox="0 0 24 24">
   <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="11" x2="11" xlink:href="#f" y1="20" y2="2"/>
   <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="32" x2="32" y1="18" y2="0">
-    <stop offset="0" stop-color="#54a3d8"/>
-    <stop offset="1" stop-color="#7cbcec"/>
+    <stop offset="0" stop-color="#64adb0"/>
+    <stop offset="1" stop-color="#88c0c3"/>
   </linearGradient>
   <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="32" x2="32" y1="16" y2="2">
     <stop offset="0" stop-color="#31363b"/>
@@ -14,8 +14,8 @@
     <stop offset="1" stop-color="#eff0f1"/>
   </linearGradient>
   <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="5" x2="5" y1="21" y2="11">
-    <stop offset="0" stop-color="#375a7d"/>
-    <stop offset="1" stop-color="#3b85b5"/>
+    <stop offset="0" stop-color="#3d7577"/>
+    <stop offset="1" stop-color="#519c9f"/>
   </linearGradient>
   <g transform="translate(1,1)">
     <rect fill="url(#a)" height="18" ry="1.5" stroke-width="2" width="18" x="2" y="2"/>

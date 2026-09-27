@@ -4,12 +4,12 @@
 <svg width="32" version="1.1" xmlns="http://www.w3.org/2000/svg" height="32" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <defs id="defs5455">
   <linearGradient inkscape:collect="always" id="linearGradient4143">
-   <stop style="stop-color:#197cf1" id="stop4145"/>
-   <stop offset="1" style="stop-color:#20bcfa" id="stop4147"/>
+   <stop style="stop-color:#529fa3" id="stop4145"/>
+   <stop offset="1" style="stop-color:#59a7ab" id="stop4147"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4143" id="linearGradient4149" y1="545.79797" y2="517.79797" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.92857108 0 0 0.92857057 28.612354 37.986142)"/>
   <linearGradient inkscape:collect="always" id="linearGradient4290">
-   <stop style="stop-color:#7cbaf8" id="stop4292"/>
+   <stop style="stop-color:#90c4c6" id="stop4292"/>
    <stop offset="1" style="stop-color:#f4fcff" id="stop4294"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4290" id="linearGradient4144" y1="29.999973" y2="2" x2="0" gradientUnits="userSpaceOnUse"/>

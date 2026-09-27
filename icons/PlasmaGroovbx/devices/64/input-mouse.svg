@@ -5,9 +5,9 @@
         <stop offset="1" stop-color="#f6f6f6"/>
     </linearGradient>
     <linearGradient id="b" gradientTransform="matrix(-1 0 0 1 -25 0)" gradientUnits="userSpaceOnUse" x1="-55" x2="-55" y1="12" y2="22">
-        <stop offset="0" stop-color="#54b5e8"/>
-        <stop offset=".333" stop-color="#8fd9ff"/>
-        <stop offset="1" stop-color="#369acf"/>
+        <stop offset="0" stop-color="#7eb8be"/>
+        <stop offset=".333" stop-color="#b6d4d8"/>
+        <stop offset="1" stop-color="#59a3ab"/>
     </linearGradient>
     <linearGradient id="c" gradientTransform="matrix(-1 0 0 1 -25 0)" gradientUnits="userSpaceOnUse" x1="-60" x2="-54" y1="22" y2="12">
         <stop offset="0" stop-color="#8e98a2"/>

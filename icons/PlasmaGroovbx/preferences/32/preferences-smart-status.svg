@@ -35,7 +35,7 @@
     </linearGradient>
     <path d="m3 2h24v28h-24z" fill="url(#k)"/>
     <path d="m6 27h18v3h-18z" fill="#292c2e"/>
-    <path d="m8 28h9v1h-9zm10 0h4v1h-4z" fill="#e4b545"/>
+    <path d="m8 28h9v1h-9zm10 0h4v1h-4z" fill="#e3b945"/>
     <path d="m23 27h4v3h-4zm-20 0h4v3h-4z" fill="#292c2f" opacity=".2"/>
     <path d="m3 27h4v3h-1zm20 0h4v3h-4z" fill="#292c2f" opacity=".2"/>
     <path d="m23.535 5.465 3.465 3.463v21.072h-14l-8-8z" fill="url(#l)" opacity=".2"/>

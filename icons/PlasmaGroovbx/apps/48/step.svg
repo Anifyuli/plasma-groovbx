@@ -1,8 +1,8 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="543.8" y2="503.8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.125 0 0 .925-51.07 38.785)">
-   <stop stop-color="#bd8d48"/>
-   <stop offset="1" stop-color="#e8b971"/>
+   <stop stop-color="#d09420"/>
+   <stop offset="1" stop-color="#e5b559"/>
   </linearGradient>
   <linearGradient id="b" y1="542.8" y2="504.8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 .92105-1 40.852)">
    <stop stop-color="#977a5c"/>
@@ -14,7 +14,7 @@
   </linearGradient>
   <linearGradient id="d" y1="535.8" x1="424.57" y2="506.8" x2="392.57" gradientUnits="userSpaceOnUse">
    <stop stop-color="#b6c2c7"/>
-   <stop offset="1" stop-color="#c9dbe1"/>
+   <stop offset="1" stop-color="#c8dbe2"/>
   </linearGradient>
   <linearGradient id="e" y1="532.8" x1="416.57" y2="526.8" gradientUnits="userSpaceOnUse" x2="409.57" gradientTransform="translate(37.658-25.948)">
    <stop stop-color="#afc0c6"/>
@@ -34,7 +34,7 @@
   <rect color-interpolation-filters="linearRGB" x="398.57" y="509.8" color="#000000" image-rendering="auto" color-rendering="auto" width="1" color-interpolation="sRGB" text-rendering="auto" fill="url(#j)" height="16" shape-rendering="auto"/>
   <rect width="36" x="390.57" y="534.8" fill="url(#a)" rx="0" height="7"/>
   <rect width="36" x="390.57" opacity=".5" y="535.8" fill="url(#b)" height="5"/>
-  <rect width="36" x="390.57" y="540.8" fill="#936e39" height="1"/>
+  <rect width="36" x="390.57" y="540.8" fill="#b1731b" height="1"/>
   <g color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000">
    <circle fill="url(#c)" cx="399.01" cy="527.8" r="3"/>
    <g fill="url(#j)">

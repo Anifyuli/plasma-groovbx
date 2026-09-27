@@ -4,9 +4,9 @@
   <linearGradient gradientTransform="translate(-1.755e-5,1.52e-6)" xlink:href="#linearGradient4177" id="linearGradient4205" x1="388.735" y1="503.991" x2="428.408" y2="543.932" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="linearGradient4177">
    <stop offset="0" style="stop-color:#3f3f3f;stop-opacity:1;"/>
-   <stop style="stop-color:#de7d9c;stop-opacity:1" offset=".11"/>
-   <stop offset=".449" style="stop-color:#cc3d8a;stop-opacity:1"/>
-   <stop style="stop-color:#5f2b76;stop-opacity:1" offset=".934"/>
+   <stop style="stop-color:#c893a4;stop-opacity:1" offset=".11"/>
+   <stop offset=".449" style="stop-color:#ad5c88;stop-opacity:1"/>
+   <stop style="stop-color:#5d3071;stop-opacity:1" offset=".934"/>
    <stop offset="1" style="stop-color:#3f3f3f;stop-opacity:0;"/>
   </linearGradient>
  </defs>

@@ -71,7 +71,7 @@
          id="stop4305" />
       <stop
          offset="1"
-         style="stop-color:#e0e5e7"
+         style="stop-color:#ccd5d6"
          id="stop4307" />
     </linearGradient>
   </defs>
@@ -125,7 +125,7 @@
        id="stop3" />
     <stop
        offset="1"
-       stop-color="#e0e5e7"
+       stop-color="#ccd5d6"
        id="stop4" />
   </linearGradient>
   <linearGradient

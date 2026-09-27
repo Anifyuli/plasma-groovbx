@@ -3,9 +3,9 @@
         type="text/css"
         id="current-color-scheme">
         .ColorScheme-PositiveText {
-            color:#27ae60;
+            color:#548156;
         }
     </style>
     <rect style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-PositiveText" height="8" rx="1" width="8"/>
-    <path d="M6 2L3 5 1.5 3.5l-1 1L3 7l4-4z" fill="#fff"/>
+    <path d="M6 2L3 5 1.5 3.5l-1 1L3 7l4-4z" fill="#ffffff"/>
 </svg>

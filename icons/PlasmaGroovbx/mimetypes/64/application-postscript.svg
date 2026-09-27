@@ -1,11 +1,11 @@
 <svg width="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" height="64">
  <defs>
   <linearGradient id="a" y1="3" y2="61" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0-1 0 64)">
-   <stop stop-color="#e0247b"/>
-   <stop offset="1" stop-color="#e23485"/>
+   <stop stop-color="#ab597f"/>
+   <stop offset="1" stop-color="#b16588"/>
   </linearGradient>
   <linearGradient id="b" y1="61" y2="47" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0-1 0 64)">
-   <stop stop-color="#f1b99b"/>
+   <stop stop-color="#d7c1b5"/>
    <stop offset="1" stop-color="#fffcf9"/>
   </linearGradient>
   <linearGradient id="c" y1="17" x1="40" y2="31" x2="54" gradientUnits="userSpaceOnUse">

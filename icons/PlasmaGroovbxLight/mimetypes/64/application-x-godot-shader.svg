@@ -72,12 +72,12 @@
        y2="336.36">
       <stop
          offset="0"
-         stop-color="#fff"
+         stop-color="#ffffff"
          stop-opacity="0"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#fff"
+         stop-color="#ffffff"
          stop-opacity=".2"
          id="stop9" />
     </linearGradient>
@@ -123,7 +123,7 @@
     <linearGradient
        id="linearGradient4351">
       <stop
-         style="stop-color:#f1b99b"
+         style="stop-color:#d7c1b5"
          id="stop4353" />
       <stop
          offset="1"
@@ -133,11 +133,11 @@
     <linearGradient
        id="linearGradient4300">
       <stop
-         style="stop-color:#e0247b"
+         style="stop-color:#ab597f"
          id="stop4302" />
       <stop
          offset="1"
-         style="stop-color:#e23485"
+         style="stop-color:#b16588"
          id="stop4304" />
     </linearGradient>
     <linearGradient
@@ -182,13 +182,13 @@
      width="100%"
      xlink:href="#c"
      id="use15"
-     style="fill:#30b03f;fill-opacity:1" />
+     style="fill:#4e9256;fill-opacity:1" />
   <g
      transform="matrix(1 0 0 -1 -238 -78.36)"
      id="g21">
     <path
        d="m248-82.360001h30v1h-30z"
-       fill="#fff"
+       fill="#ffffff"
        opacity=".5"
        id="path17" />
     <path

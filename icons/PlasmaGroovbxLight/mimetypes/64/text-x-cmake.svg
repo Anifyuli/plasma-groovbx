@@ -19,9 +19,9 @@
   <g fill-rule="evenodd">
    <path opacity=".6" d="m420 199.36l-14-14v14z"/>
    <path opacity=".2" fill="url(#a)" d="m406 199.36l14 14v-14z"/>
-   <path opacity=".529" fill="#d4211e" d="m398.01 204.36l1.614 18.313 9.376 3.687z"/>
-   <path opacity=".529" fill="#3ad5e3" d="m398.01 204.36l-10.99 22 11.976-10.817z"/>
-   <path opacity=".529" fill="#1bbc2e" d="m393.69 220.34l-6.665 6.02 21.977.002zm-6.648 5.982l-.04.036h.022z"/>
+   <path opacity=".529" fill="#d5201d" d="m398.01 204.36l1.614 18.313 9.376 3.687z"/>
+   <path opacity=".529" fill="#69adb4" d="m398.01 204.36l-10.99 22 11.976-10.817z"/>
+   <path opacity=".529" fill="#4b8c53" d="m393.69 220.34l-6.665 6.02 21.977.002zm-6.648 5.982l-.04.036h.022z"/>
   </g>
   <use fill="url(#b)" xlink:href="#c"/>
  </g>

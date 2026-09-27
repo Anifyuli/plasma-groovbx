@@ -5,8 +5,8 @@
             <stop stop-opacity="0" offset="1"/>
         </linearGradient>
         <linearGradient id="b" x2="0" y1="392.36" y2="336.36" gradientTransform="translate(190,-254)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#fff" stop-opacity="0" offset="0"/>
-            <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
+            <stop stop-color="#ffffff" stop-opacity="0" offset="0"/>
+            <stop stop-color="#ffffff" stop-opacity=".2" offset="1"/>
         </linearGradient>
         <path id="c" d="m248 139.36v-58h30l14 14v44h-14z"/>
     </defs>
@@ -18,7 +18,7 @@
        width="100%"
        y="0"
        x="0"
-       style="fill:#26becc"
+       style="fill:#5199a1"
        xlink:href="#c"
        id="use11" />
     <g

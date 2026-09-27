@@ -3,7 +3,7 @@
             color:#232629;
         }
         .ColorScheme-Accent {
-            color:#3daee9;
+            color:#60abae;
         }</style>
     <path id="path3" class="ColorScheme-Text" d="m2 8v6h5v-6h-1v3h-3v-3zm1 4h3v1h-3z" fill="currentColor"/>
     <path id="path5" class="ColorScheme-Accent" d="m10 13h3v1h-3z" fill="currentColor"/>

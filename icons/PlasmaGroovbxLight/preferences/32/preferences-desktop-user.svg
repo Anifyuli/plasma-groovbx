@@ -4,17 +4,17 @@
 <svg width="32" version="1.1" xmlns="http://www.w3.org/2000/svg" height="32" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <defs id="defs5455">
   <linearGradient inkscape:collect="always" id="linearGradient4143">
-   <stop style="stop-color:#197cf1" id="stop4145"/>
-   <stop offset="1" style="stop-color:#20bcfa" id="stop4147"/>
+   <stop style="stop-color:#529fa3" id="stop4145"/>
+   <stop offset="1" style="stop-color:#59a7ab" id="stop4147"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4143" id="linearGradient4149" y1="545.79797" y2="517.79797" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient inkscape:collect="always" id="linearGradient4290">
-   <stop style="stop-color:#7cbaf8" id="stop4292"/>
+   <stop style="stop-color:#90c4c6" id="stop4292"/>
    <stop offset="1" style="stop-color:#f4fcff" id="stop4294"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4290" id="linearGradient4321" y1="23" y2="9" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient inkscape:collect="always" id="linearGradient4410">
-   <stop style="stop-color:#383e51" id="stop4412"/>
+   <stop style="stop-color:#3a4d4f" id="stop4412"/>
    <stop offset="1" style="stop-color:#655c6f;stop-opacity:0" id="stop4414"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4410" id="linearGradient4490" y1="524.79797" x1="393.57144" y2="538.79797" x2="407.57144" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -384.57143 -515.798)"/>

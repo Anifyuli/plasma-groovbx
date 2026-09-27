@@ -42,7 +42,7 @@
             <rect x="392.57144" y="495.798" width="32" height="16" fill="url(#linearGradient4394)"/>
         </g>
         <g stroke-linecap="round">
-            <circle cx="432.57144" cy="515.79797" r="1" fill="#1fc332" stroke-linejoin="round" stroke-width="2"/>
+            <circle cx="432.57144" cy="515.79797" r="1" fill="#4f9354" stroke-linejoin="round" stroke-width="2"/>
             <rect x="382.57147" y="517.79797" width="52" height="1" fill="#99a1a7" stroke-linejoin="bevel" stroke-width="2.17422"/>
             <path d="m390.57147 511.79798v2c0 0.96892 1.00554 2 2 2h32c1.108 0 2-1.011 2-2v-2z" fill="url(#linearGradient4852)" stroke-linejoin="bevel" stroke-width="1.1547"/>
         </g>

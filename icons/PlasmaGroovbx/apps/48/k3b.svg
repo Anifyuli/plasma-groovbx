@@ -10,13 +10,13 @@
   </linearGradient>
   <linearGradient xlink:href="#a" id="c" y1="-366.47" x1="387.13" y2="-339.14" gradientUnits="userSpaceOnUse" x2="414.47"/>
   <linearGradient id="d" y1="525.26" x1="395.91" y2="513.95" x2="425.21" gradientUnits="userSpaceOnUse" gradientTransform="translate(-384.57-499.8)">
-   <stop stop-color="#da4453"/>
-   <stop offset="1" stop-color="#ff7336"/>
+   <stop stop-color="#e02e27"/>
+   <stop offset="1" stop-color="#f1792b"/>
   </linearGradient>
   <linearGradient xlink:href="#d" id="e" x1="389.96" x2="410.34" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.91926-.16589.15464.98614-48.43 74.963)"/>
   <linearGradient id="f" y1="44.09" x1="26.362" y2="33.75" x2="44" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#c0392b"/>
-   <stop offset="1" stop-color="#c0392b" stop-opacity="0"/>
+   <stop stop-color="#ce241d"/>
+   <stop offset="1" stop-color="#ce241d" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="g" y1="27.554" x1="9.42" y2="40.13" x2="22" gradientUnits="userSpaceOnUse">
    <stop/>
@@ -43,7 +43,7 @@
   <path stroke-opacity=".55" fill="url(#f)" stroke-width="8.587" d="m4.01 23.5c-.004.167-.012.332-.012.5 0 11.08 8.92 20 20 20 11.08 0 20-8.92 20-20 0-.168-.008-.333-.012-.5-.265 10.846-9.08 19.5-19.988 19.5-10.912 0-19.724-8.654-19.988-19.5" transform="translate(384.57 499.8)"/>
   <g stroke-linejoin="round" color="#000000" stroke-width="3">
    <path fill="url(#i)" d="m388.94 519.85c-.241 1.277-.373 2.594-.373 3.943 0 1.349.132 2.666.373 3.943l11.627-1.943c1.095-.168 2-.892 2-2 0-1.108-.905-1.832-2-2z"/>
-   <circle fill="#27ae60" cx="400.57" cy="523.8" r="1" stroke-linecap="round"/>
+   <circle fill="#548156" cx="400.57" cy="523.8" r="1" stroke-linecap="round"/>
   </g>
   <path opacity=".1" stroke-opacity=".55" stroke-width="8.587" d="m408.57 520.75c-1.659-.001-3 1.345-3 3-.001.173.014.345.043.516.237-1.452 1.49-2.518 2.961-2.52 1.46 0 2.709 1.05 2.959 2.488.027-.16.042-.322.043-.484.001-1.659-1.343-3-3-3"/>
   <path opacity=".2" fill="url(#h)" fill-rule="evenodd" d="m18.04 23.291c-.21 1.761.359 3.595 1.715 4.951 1.356 1.356 3.191 1.925 4.951 1.715l-.006-.006c-.233.03-6.685-6.422-6.656-6.656z" transform="translate(384.57 499.8)"/>

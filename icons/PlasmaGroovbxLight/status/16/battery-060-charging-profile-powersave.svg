@@ -6,7 +6,7 @@
             }
         
             .ColorScheme-PositiveText {
-                color:#27ae60;
+                color:#548156;
             }</style>
     </defs>
     <path class="ColorScheme-Text" d="m0 2v12h6v-1h-5v-10h13v2.0156l2 2.0293v-0.54492c0-0.277-0.223-0.5-0.5-0.5h-0.5v-4h-15zm2 2v8h4.0215c0.10422-2.4908 0.64982-3.2507 2.4336-4.3652l-0.45508-3.6348h-6z" fill="currentColor"/>

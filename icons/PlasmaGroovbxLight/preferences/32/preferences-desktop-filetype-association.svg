@@ -4,16 +4,16 @@
 <svg width="32" version="1.1" xmlns="http://www.w3.org/2000/svg" height="32" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <defs id="defs5455">
   <linearGradient inkscape:collect="always" id="linearGradient4298">
-   <stop style="stop-color:#159424" id="stop4300"/>
-   <stop offset="1" style="stop-color:#c1c41c" id="stop4302"/>
+   <stop style="stop-color:#33763b" id="stop4300"/>
+   <stop offset="1" style="stop-color:#bdc020" id="stop4302"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4290">
-   <stop style="stop-color:#6ce0ea" id="stop4292"/>
+   <stop style="stop-color:#8fc2c7" id="stop4292"/>
    <stop offset="1" style="stop-color:#f4fcff" id="stop4294"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4303">
-   <stop style="stop-color:#1fc7d6" id="stop4305"/>
-   <stop offset="1" style="stop-color:#25d0e0" id="stop4307"/>
+   <stop style="stop-color:#529ca3" id="stop4305"/>
+   <stop offset="1" style="stop-color:#59a5ac" id="stop4307"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4303" id="linearGradient4217" y1="543.79797" y2="503.798" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.70000012 0 0 0.70000031 114.57136 165.13922)"/>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4290" id="linearGradient4296" y1="22" y2="10.00004" x2="0" gradientUnits="userSpaceOnUse"/>

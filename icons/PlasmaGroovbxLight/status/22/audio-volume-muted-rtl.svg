@@ -3,7 +3,7 @@
             color:#232629;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
     <g class="ColorScheme-Text" transform="rotate(180,11,11)" fill="currentColor">
         <path d="m3 8v6h2v-6z"/>

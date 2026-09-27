@@ -6,13 +6,13 @@
       color:#eff0f1;
       }
       .ColorScheme-PositiveText {
-      color:#27ae60;
+      color:#548156;
       }
       .ColorScheme-NeutralText {
       color:#f67400;
       }
       .ColorScheme-NegativeText {
-      color:#da4453;
+      color:#e02e27;
       }</style>
  </defs>
  <g transform="matrix(.91667 0 0 .91667 .091957 .22505)">

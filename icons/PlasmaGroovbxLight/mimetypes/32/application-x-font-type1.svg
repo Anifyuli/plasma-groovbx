@@ -4,13 +4,13 @@
     <defs id="defs5455">
         <linearGradient gradientTransform="matrix(0.49999977,0,0,-0.48275841,384.57144,547.24623)" gradientUnits="userSpaceOnUse" x2="0" y2="3" y1="61" id="linearGradient4306-3" xlink:href="#linearGradient4300-8" inkscape:collect="always" />
         <linearGradient id="linearGradient4300-8" inkscape:collect="always">
-            <stop offset="0" style="stop-color:#e27a42" id="stop4304-7" />
-            <stop offset="1" style="stop-color:#e16d2f" id="stop4302-5" />
+            <stop offset="0" style="stop-color:#e7813d" id="stop4304-7" />
+            <stop offset="1" style="stop-color:#e5752b" id="stop4302-5" />
         </linearGradient>
         <linearGradient gradientTransform="matrix(0.48275841,0,0,-0.48275841,385.26109,547.48761)" gradientUnits="userSpaceOnUse" x2="0" y2="47" y1="61" id="linearGradient4357-7" xlink:href="#linearGradient4351-4" inkscape:collect="always" />
         <linearGradient id="linearGradient4351-4" inkscape:collect="always">
-            <stop offset="0" style="stop-color:#f2c0a5" id="stop4355-5" />
-            <stop offset="1" style="stop-color:#eb9f76" id="stop4353-8" />
+            <stop offset="0" style="stop-color:#dbc9bd" id="stop4355-5" />
+            <stop offset="1" style="stop-color:#eea472" id="stop4353-8" />
         </linearGradient>
         <linearGradient gradientTransform="matrix(0,-0.48275841,-0.48275841,0,419.53694,550.86696)" gradientUnits="userSpaceOnUse" x2="39.500008" y2="16.500048" x1="54" y1="31" id="linearGradient4427-3" xlink:href="#linearGradient4410" inkscape:collect="always" />
         <linearGradient id="linearGradient4410" inkscape:collect="always">
@@ -32,6 +32,6 @@
         <rect transform="scale(1,-1)" id="rect4236-1" style="fill:#2e3132;fill-opacity:0.29411765" height="1.00003" y="-545.79797" x="389.57144" width="21.999994" />
         <path d="m 411.57144,524.79797 -7.00001,-7 0,7 z" id="path4314-2" style="fill:url(#linearGradient4357-7);fill-opacity:1;fill-rule:evenodd" inkscape:connector-curvature="0" />
         <path d="m 411.5714,531.798 -6.99997,-7 7,0 z" id="path4320-7" style="opacity:0.2;fill:url(#linearGradient4427-3);fill-rule:evenodd" inkscape:connector-curvature="0" />
-        <path d="m 398.77079,538.35976 c -1.01918,0 -1.71407,-0.49427 -1.52877,-1.75267 0.23163,-1.57312 1.20448,-2.09002 4.28517,-2.517 0.0232,0 0.97285,-0.15721 0.97285,-0.15721 l -0.39377,2.78657 c -0.83387,1.01116 -2.33947,1.64031 -3.33548,1.64031 z m 3.17334,-0.13468 0.0463,1.30326 1.32029,0 1.20448,-8.42698 c 0.37061,-2.56176 -1.13499,-3.30336 -3.24283,-3.30336 -1.5056,0 -2.98803,0.42698 -3.86823,0.92145 l 0.25479,1.39318 c 0.94969,-0.44941 2.24682,-0.76393 3.42814,-0.76393 1.45927,0 1.99202,0.69653 1.80672,2.04486 l -0.20847,1.28092 -1.08866,0.13479 c -2.80274,0.42697 -5.53598,0.85395 -5.97608,3.86511 -0.32428,2.15732 0.99601,3.12362 2.75641,3.12362 1.11183,0 2.47845,-0.40444 3.56711,-1.57292 z" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Oxygen;-inkscape-font-specification:'Oxygen Italic';letter-spacing:0px;word-spacing:0px;fill:#f2c0a5;fill-opacity:1;stroke:none" id="path4124" inkscape:connector-curvature="0" />
+        <path d="m 398.77079,538.35976 c -1.01918,0 -1.71407,-0.49427 -1.52877,-1.75267 0.23163,-1.57312 1.20448,-2.09002 4.28517,-2.517 0.0232,0 0.97285,-0.15721 0.97285,-0.15721 l -0.39377,2.78657 c -0.83387,1.01116 -2.33947,1.64031 -3.33548,1.64031 z m 3.17334,-0.13468 0.0463,1.30326 1.32029,0 1.20448,-8.42698 c 0.37061,-2.56176 -1.13499,-3.30336 -3.24283,-3.30336 -1.5056,0 -2.98803,0.42698 -3.86823,0.92145 l 0.25479,1.39318 c 0.94969,-0.44941 2.24682,-0.76393 3.42814,-0.76393 1.45927,0 1.99202,0.69653 1.80672,2.04486 l -0.20847,1.28092 -1.08866,0.13479 c -2.80274,0.42697 -5.53598,0.85395 -5.97608,3.86511 -0.32428,2.15732 0.99601,3.12362 2.75641,3.12362 1.11183,0 2.47845,-0.40444 3.56711,-1.57292 z" style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Oxygen;-inkscape-font-specification:'Oxygen Italic';letter-spacing:0px;word-spacing:0px;fill:#dbc9bd;fill-opacity:1;stroke:none" id="path4124" inkscape:connector-curvature="0" />
     </g>
 </svg>

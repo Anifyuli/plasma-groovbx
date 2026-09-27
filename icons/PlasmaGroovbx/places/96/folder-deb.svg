@@ -5,14 +5,14 @@
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
     </style>
   </defs>
 
   <!-- folder bg -->
   <path
-    fill="#f62459"
+    fill="#b36788"
     d="m6 9v21h-1v57h86v-63h-1v-9h-42l-6-6z" />
 
   <!-- folder fg -->
@@ -23,7 +23,7 @@
   <!-- folder highlight -->
   <path
     d="m42 9 5 7h43v-1h-42zm-3 15-6 6h-28v1h29z"
-    fill="#fff"
+    fill="#ffffff"
     fill-opacity=".2" />
 
   <!-- folder shadow -->

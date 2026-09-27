@@ -46,7 +46,7 @@
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -84,10 +84,10 @@
        id="linearGradient4303">
       <stop
          id="stop3582"
-         stop-color="#197cf1" />
+         stop-color="#529fa3" />
       <stop
          id="stop3584"
-         stop-color="#21c9fb"
+         stop-color="#5aa8ab"
          offset="1" />
     </linearGradient>
   </defs>
@@ -162,7 +162,7 @@
          height="5.9999542"
          width="64" />
       <rect
-         style="fill:#3daee9"
+         style="fill:#60abae"
          id="rect37-7-0"
          y="1429.9336"
          x="736.85718"
@@ -190,7 +190,7 @@
          inkscape:connector-curvature="0"
          id="path4929-0-1"
          d="m 769.3572,1439.9336 c -5.799,0 -10.5,4.701 -10.5,10.5 0.01,5.216 3.8375,9.6377 9,10.3828 l 0,0 c -4.0485,-0.7258 -6.9965,-6.2697 -7,-10.3828 0,-4.6944 3.8056,-8.5 8.5,-8.5 4.4991,0 8.2178,3.5087 8.4824,8 l 1.9922,0 c -0.2666,-5.593 -4.8752,-9.9928 -10.4746,-10 z"
-         style="fill:#ffa92d;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#e0a534;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"

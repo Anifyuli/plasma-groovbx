@@ -56,12 +56,12 @@
        y2="365.36">
       <stop
          offset="0"
-         stop-color="#fff"
+         stop-color="#ffffff"
          stop-opacity="0"
          id="stop2" />
       <stop
          offset="1"
-         stop-color="#fff"
+         stop-color="#ffffff"
          stop-opacity=".2"
          id="stop4" />
     </linearGradient>
@@ -87,7 +87,7 @@
        d="m389.57 545.8v-28h15l7 7v21h-14z" />
   </defs>
   <use
-     fill="#26becc"
+     fill="#5199a1"
      xlink:href="#c"
      id="use15"
      x="0"

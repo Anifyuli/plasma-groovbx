@@ -3,9 +3,9 @@
         type="text/css"
         id="current-color-scheme">
         .ColorScheme-Accent {
-            color:#3daee9;
+            color:#60abae;
         }
     </style>
     <rect style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Accent" height="8" rx="1" width="8"/>
-    <path d="M3 1h2v2H3zm0 3v4h2V4z" fill="#fff"/>
+    <path d="M3 1h2v2H3zm0 3v4h2V4z" fill="#ffffff"/>
 </svg>

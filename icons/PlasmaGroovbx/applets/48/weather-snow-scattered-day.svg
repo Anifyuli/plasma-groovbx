@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
  <defs>
   <linearGradient id="0">
-   <stop stop-color="#abdaf9"/>
-   <stop offset="1" stop-color="#e1f2ff"/>
+   <stop stop-color="#c4d5e0"/>
+   <stop offset="1" stop-color="#ebf4f5"/>
   </linearGradient>
   <linearGradient id="1">
    <stop stop-color="#eff1f1"/>
@@ -14,13 +14,13 @@
   <linearGradient gradientTransform="translate(-2.35e-5,4)" xlink:href="#0" id="4" y1="538.79797" x2="0" y2="532.79797" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#6" id="5" y1="502.798" x2="0" y2="582.79797" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9333343,0,0,0.9333343,25.904354,32.25266)"/>
   <linearGradient id="6">
-   <stop stop-color="#f0ff01"/>
-   <stop offset="1" stop-color="#ff9701"/>
+   <stop stop-color="#d0da26"/>
+   <stop offset="1" stop-color="#de9122"/>
   </linearGradient>
   <linearGradient xlink:href="#8" id="7" y1="507.798" x2="0" y2="547.79797" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.86274226,0,0,0.86274226,54.74625,69.22864)"/>
   <linearGradient id="8">
-   <stop stop-color="#faffa5"/>
-   <stop offset="1" stop-color="#edf573"/>
+   <stop stop-color="#dee0c4"/>
+   <stop offset="1" stop-color="#c8cb9d"/>
   </linearGradient>
  </defs>
  <metadata/>

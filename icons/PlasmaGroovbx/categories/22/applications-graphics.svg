@@ -11,47 +11,47 @@
     <path fill="url(#h)" d="M16.659 13A5.99 5.99 0 0 0 17 11a5.99 5.99 0 0 0-.341-2H5.34A5.99 5.99 0 0 0 5 11c0 .701.12 1.374.341 2z"/>
     <path fill="url(#i)" d="M16.659 9H5.34a6.002 6.002 0 0 1 11.32 0"/>
   </g>
-  <path fill="#000" d="M16.98 11.5a6 6 0 1 0-11.959 0 6 6 0 0 1 11.959 0" opacity=".1"/>
+  <path fill="#000000" d="M16.98 11.5a6 6 0 1 0-11.959 0 6 6 0 0 1 11.959 0" opacity=".1"/>
   <defs>
     <linearGradient id="a" x1="3" x2="3" y1="19" y2="3" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#9FA7AD"/>
-      <stop offset="1" stop-color="#E0E5E7"/>
+      <stop stop-color="#9fa7ad"/>
+      <stop offset="1" stop-color="#ccd5d6"/>
     </linearGradient>
     <linearGradient id="b" x1="15.5" x2="4" y1="15.5" y2="4" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0A54AC"/>
-      <stop offset=".5" stop-color="#1C9CF5"/>
-      <stop offset=".795" stop-color="#72CBFB"/>
-      <stop offset=".818" stop-color="#1C9CF5"/>
+      <stop stop-color="#3d7379"/>
+      <stop offset=".5" stop-color="#61a7af"/>
+      <stop offset=".795" stop-color="#a0c8cc"/>
+      <stop offset=".818" stop-color="#61a7af"/>
     </linearGradient>
     <linearGradient id="c" x1="15.5" x2="4" y1="15.5" y2="4" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0A54AC"/>
-      <stop offset=".5" stop-color="#1C9CF5"/>
-      <stop offset=".795" stop-color="#72CBFB"/>
-      <stop offset=".818" stop-color="#1C9CF5"/>
+      <stop stop-color="#3d7379"/>
+      <stop offset=".5" stop-color="#61a7af"/>
+      <stop offset=".795" stop-color="#a0c8cc"/>
+      <stop offset=".818" stop-color="#61a7af"/>
     </linearGradient>
     <linearGradient id="d" x1="13" x2="17" y1="5" y2="5" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="e" x1="9" x2="13" y1="4.638" y2="4.638" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="f" x1="5" x2="9" y1="5" y2="5" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="g" x1="5" x2="5" y1="13" y2="17" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="h" x1="4.638" x2="4.638" y1="9" y2="13" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="i" x1="5" x2="5" y1="5" y2="9" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
   </defs>
 </svg>

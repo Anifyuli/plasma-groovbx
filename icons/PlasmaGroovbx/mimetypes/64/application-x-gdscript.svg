@@ -72,12 +72,12 @@
        y2="336.36">
       <stop
          offset="0"
-         stop-color="#fff"
+         stop-color="#ffffff"
          stop-opacity="0"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#fff"
+         stop-color="#ffffff"
          stop-opacity=".2"
          id="stop9" />
     </linearGradient>
@@ -86,7 +86,7 @@
        d="m248 139.36v-58h30l14 14v44h-14z" />
   </defs>
   <use
-     fill="#26becc"
+     fill="#5199a1"
      height="100%"
      transform="translate(-238 -78.36)"
      width="100%"
@@ -97,7 +97,7 @@
      id="g21">
     <path
        d="m248-82.360001h30v1h-30z"
-       fill="#fff"
+       fill="#ffffff"
        opacity=".5"
        id="path17" />
     <path
@@ -142,7 +142,7 @@
        id="g31">
       <path
          d="m292 95.36-14-14v14z"
-         fill="#fff"
+         fill="#ffffff"
          opacity=".5"
          id="path27" />
       <path

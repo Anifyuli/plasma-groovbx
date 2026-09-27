@@ -46,7 +46,7 @@
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -84,10 +84,10 @@
        id="linearGradient4303">
       <stop
          id="stop3582"
-         stop-color="#197cf1" />
+         stop-color="#529fa3" />
       <stop
          id="stop3584"
-         stop-color="#21c9fb"
+         stop-color="#5aa8ab"
          offset="1" />
     </linearGradient>
   </defs>
@@ -165,7 +165,7 @@
            id="rect37-06"
            transform="translate(804.85718,157.93361)"
            d="m 0.57617188,12 0.0976562,1 62.65234392,0 0.09766,-1 -62.84765616,0 z"
-           style="fill:#3daee9"
+           style="fill:#60abae"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="ccccc"

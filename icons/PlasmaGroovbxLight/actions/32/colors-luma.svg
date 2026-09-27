@@ -8,7 +8,7 @@
         color:#232629;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       </style>
   </defs>
@@ -22,21 +22,21 @@
        gradientUnits="userSpaceOnUse"
        x2="18">
       <stop
-         stop-color="#1d99f3"
+         stop-color="#54a2a6"
          id="stop33" />
       <stop
          offset=".417"
-         stop-color="#48acf5"
+         stop-color="#7eb8be"
          stop-opacity=".761"
          id="stop35" />
       <stop
          offset=".667"
-         stop-color="#73c0f7"
+         stop-color="#9fc7cb"
          stop-opacity="0"
          id="stop37" />
       <stop
          offset="1"
-         stop-color="#cae7fc"
+         stop-color="#dbeaeb"
          stop-opacity="0"
          id="stop39" />
     </linearGradient>

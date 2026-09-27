@@ -34,13 +34,13 @@
        inkscape:collect="always"
        id="linearGradient8715">
       <stop
-         style="stop-color:#e0e5e7;stop-opacity:0.26666668"
+         style="stop-color:#ccd5d6;stop-opacity:0.26666668"
          stop-color="#c6cdd1"
          id="stop8717" />
       <stop
          style="stop-color:#c6cdd1;stop-opacity:1"
          offset="1"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          id="stop8719" />
     </linearGradient>
     <radialGradient
@@ -80,10 +80,10 @@
        inkscape:collect="always">
       <stop
          id="stop6546"
-         stop-color="#1abc9c" />
+         stop-color="#488e80" />
       <stop
          id="stop6548"
-         stop-color="#2980b9"
+         stop-color="#4c9396"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -101,7 +101,7 @@
        inkscape:collect="always">
       <stop
          id="stop6558"
-         stop-color="#334545" />
+         stop-color="#344244" />
       <stop
          id="stop6560"
          stop-color="#536161"
@@ -145,7 +145,7 @@
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -162,10 +162,10 @@
        inkscape:collect="always">
       <stop
          id="stop6552"
-         stop-color="#ffc169" />
+         stop-color="#cbb89d" />
       <stop
          id="stop6554"
-         stop-color="#ffa92d"
+         stop-color="#e0a534"
          offset="1" />
     </linearGradient>
   </defs>
@@ -252,7 +252,7 @@
            style="fill:url(#linearGradient8657-1)" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#cb7cec;stroke-width:2;stroke-linecap:round"
+           style="fill:#c487a3;stroke-width:2;stroke-linecap:round"
            d="M 31,15.789062 19.955078,19.734375 31,23.679688 31,15.789062 Z"
            transform="translate(736.85718,157.93361)"
            id="path6575-0-3-6-4-8-6-8-4-8" />
@@ -275,7 +275,7 @@
            style="fill:url(#linearGradient25119);stroke-width:2;stroke-linecap:round" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#edf573;stroke-width:2;stroke-linecap:round"
+           style="fill:#c8cb9d;stroke-width:2;stroke-linecap:round"
            d="M 31,15.789062 19.955078,19.734375 31,17.716797 31,15.789062 Z"
            transform="translate(736.85718,157.93361)"
            id="path6589-5-6-0-2-7-0-5-6-8" />

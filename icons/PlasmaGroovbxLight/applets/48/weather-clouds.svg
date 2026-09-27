@@ -8,13 +8,13 @@
   <linearGradient xlink:href="#0" id="1" y1="511.798" x2="0" y2="535.79797" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1,4)"/>
   <linearGradient xlink:href="#3" id="2" y1="502.798" x2="0" y2="582.79797" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0666667,0,0,1.0666667,-25.904809,-34.919942)"/>
   <linearGradient id="3">
-   <stop stop-color="#f0ff01"/>
-   <stop offset="1" stop-color="#ff9701"/>
+   <stop stop-color="#ceda26"/>
+   <stop offset="1" stop-color="#deac22"/>
   </linearGradient>
   <linearGradient xlink:href="#5" id="4" y1="507.798" x2="0" y2="547.79797" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0196041,0,0,1.0196041,-6.6763524,-10.268618)"/>
   <linearGradient id="5">
-   <stop stop-color="#faffa5"/>
-   <stop offset="1" stop-color="#edf573"/>
+   <stop stop-color="#dee0c5"/>
+   <stop offset="1" stop-color="#c8ca9e"/>
   </linearGradient>
  </defs>
  <metadata/>

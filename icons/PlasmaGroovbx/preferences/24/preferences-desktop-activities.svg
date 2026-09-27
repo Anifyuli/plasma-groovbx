@@ -21,7 +21,7 @@
       <path d="m3 10 2 2h14l1 1v-9l-1-1z" fill="url(#f)" opacity=".2"/>
       <path d="m3 19 1 1h16v-7l-1-1z" fill="url(#d)" opacity=".2"/>
     </g>
-    <path d="m3 3h16v7h-16z" fill="#397da1" fill-rule="evenodd" stroke-width=".599144"/>
+    <path d="m3 3h16v7h-16z" fill="#498a91" fill-rule="evenodd" stroke-width=".599144"/>
     <path d="m3 12h16v7h-16z" fill="#4a4a4f" fill-rule="evenodd" stroke-width=".599144"/>
     <g stroke-width=".642857">
       <path d="m12 3-3 1v6h10z" fill="url(#c)" opacity=".2"/>

@@ -1,12 +1,12 @@
 <svg width="32" xmlns="http://www.w3.org/2000/svg" height="32">
  <defs>
   <linearGradient id="a" y1="61" y2="3" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.5 0 0-.48276 384.57 547.25)">
-   <stop stop-color="#418d94"/>
-   <stop offset="1" stop-color="#479aa1"/>
+   <stop stop-color="#47868d"/>
+   <stop offset="1" stop-color="#4e939a"/>
   </linearGradient>
   <linearGradient id="b" y1="518.04" y2="524.8" x2="0" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#88c5ca"/>
-   <stop offset="1" stop-color="#add6da"/>
+   <stop stop-color="#8dc0c5"/>
+   <stop offset="1" stop-color="#b1d1d5"/>
   </linearGradient>
   <linearGradient id="c" y1="524.8" x1="404.57" y2="531.8" x2="411.57" gradientUnits="userSpaceOnUse">
    <stop stop-color="#3a4d4f"/>
@@ -23,6 +23,6 @@
    <path fill="url(#b)" d="m411.57 524.8l-7-7v7z"/>
    <path opacity=".2" fill="url(#c)" d="m411.57 531.8l-7-7h7z"/>
   </g>
-  <path fill="#add6da" stroke-width="2" d="m394.57 527.8v12h12v-12zm1 1h10v1h-10zm6 2h3v1h-3zm-6 2h10v2h-10zm6 3h3v1h-3zm-6 2h10v1h-10z"/>
+  <path fill="#b1d1d5" stroke-width="2" d="m394.57 527.8v12h12v-12zm1 1h10v1h-10zm6 2h3v1h-3zm-6 2h10v2h-10zm6 3h3v1h-3zm-6 2h10v1h-10z"/>
  </g>
 </svg>

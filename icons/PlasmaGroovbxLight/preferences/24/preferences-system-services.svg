@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" width="24" viewBox="0 0 24 24">
   <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="35.339394" x2="35.339394" y1="12.6" y2="7.6">
-    <stop offset="0" stop-color="#6c5548"/>
-    <stop offset="1" stop-color="#997657"/>
+    <stop offset="0" stop-color="#a9490b"/>
+    <stop offset="1" stop-color="#e1620f"/>
   </linearGradient>
   <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="35.339394" x2="35.339394" y1="4.6" y2="-2.4">
     <stop offset="0" stop-color="#bdc3c7"/>

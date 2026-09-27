@@ -5,13 +5,13 @@
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
         <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="384.57" x2="384.57" y1="544.8" y2="517.8">
-            <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-            <stop offset="1" stop-color="#fff" stop-opacity=".2"/>
+            <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#ffffff" stop-opacity=".2"/>
         </linearGradient>
         <path id="a" d="M389.57 545.8v-28h15l7 7v21h-14z"/>
     </defs>
-    <use fill="#20cede" height="100%" transform="translate(-384.57 -515.8)" width="100%" xlink:href="#a"/>
-    <path d="M5 3h15V2H5z" fill="#fff" opacity=".5"/>
+    <use fill="#55a1a9" height="100%" transform="translate(-384.57 -515.8)" width="100%" xlink:href="#a"/>
+    <path d="M5 3h15V2H5z" fill="#ffffff" opacity=".5"/>
     <path d="M5 30h22v-1H5z" opacity=".25"/>
     <path d="M27 9l-7-7v7z" fill-rule="evenodd" opacity=".6"/>
     <path d="M20 9l7 7V9z" fill="url(#b)" fill-rule="evenodd" opacity=".1"/>

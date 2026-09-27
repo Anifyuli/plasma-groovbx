@@ -1,8 +1,8 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a">
-   <stop stop-color="#fcdd99"/>
-   <stop offset="1" stop-color="#fcdd99" stop-opacity="0"/>
+   <stop stop-color="#dad0bb"/>
+   <stop offset="1" stop-color="#dad0bb" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="b" y1="522.99" x1="430.51" y2="523.86" gradientUnits="userSpaceOnUse" x2="378.58" gradientTransform="matrix(.70711.70711-.70711.70711 105.4-635.69)">
    <stop stop-color="#fcfcfc"/>
@@ -21,12 +21,12 @@
    <stop offset="1" stop-color="#f6f6f6"/>
   </linearGradient>
   <linearGradient id="f" y1="8.627" x1="9.642" y2="24.326" x2="23.912" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#491309"/>
-   <stop offset="1" stop-color="#b6642d"/>
+   <stop stop-color="#48140a"/>
+   <stop offset="1" stop-color="#ca6019"/>
   </linearGradient>
   <linearGradient id="g" y1="15.871" x1="16.296" y2="31.01" x2="30.633" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#fee3a8"/>
-   <stop offset="1" stop-color="#fcdd99" stop-opacity="0"/>
+   <stop stop-color="#e0d8c6"/>
+   <stop offset="1" stop-color="#dad0bb" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="h" y1="33.922" x1="32.641" y2="34.953" x2="33.609" gradientUnits="userSpaceOnUse">
    <stop stop-color="#cfcfcf"/>

@@ -7,8 +7,8 @@
   </linearGradient>
   <linearGradient xlink:href="#4" id="3" y1="534.798" x2="0" y2="505.798" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,1.0344837,-384.57144,-516.23986)"/>
   <linearGradient id="4">
-   <stop stop-color="#d0251d"/>
-   <stop offset="1" stop-color="#ea6e69"/>
+   <stop stop-color="#d0281c"/>
+   <stop offset="1" stop-color="#ea7068"/>
   </linearGradient>
   <linearGradient gradientTransform="translate(-384.57144,-498.798)" xlink:href="#6" id="5" y1="536.798" x2="0" y2="503.798" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="6">
@@ -18,7 +18,7 @@
   <linearGradient xlink:href="#8" id="7" y1="547.798" x2="0" y2="536.798" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.54545455,-384.30259,-255.05286)"/>
   <linearGradient id="8">
    <stop stop-color="#c6cdd1"/>
-   <stop offset="1" stop-color="#e0e5e7"/>
+   <stop offset="1" stop-color="#ccd5d6"/>
   </linearGradient>
   <linearGradient xlink:href="#1" id="9" gradientUnits="userSpaceOnUse" x1="252.725" y1="388.505" x2="255.415" y2="-76.617" gradientTransform="matrix(0.04719832,0,0,0.04426582,11.99995,10.745598)"/>
  </defs>

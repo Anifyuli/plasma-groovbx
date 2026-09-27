@@ -8,13 +8,13 @@
         color:#eff0f1;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
       }
       .ColorScheme-NegativeText {
-        color:#da4453;
+        color:#e02e27;
       }
       </style>
     <g transform="translate(0,32) translate(-22,-32)" id="touchpad_enabled" inkscape:label="#touchpad_enabled">

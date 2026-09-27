@@ -5,13 +5,13 @@
             color:#eff0f1;
         }
         .ColorScheme-PositiveText {
-            color:#27ae60;
+            color:#548156;
         }
         .ColorScheme-NeutralText {
             color:#f67400;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
     <g id="preferences-desktop-display-randr" transform="translate(-26,10)">
         <rect id="rect3832-6" x="26" y="-10" width="32" height="32" fill-opacity="0"/>

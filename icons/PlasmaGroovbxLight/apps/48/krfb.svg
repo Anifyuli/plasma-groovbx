@@ -7,15 +7,15 @@
   </linearGradient>
   <linearGradient gradientTransform="matrix(1,0,0,0.54545,-384.57,-255.8)" gradientUnits="userSpaceOnUse" x2="0" y2="536.8" y1="547.8" id="b">
    <stop stop-color="#c6cdd1"/>
-   <stop stop-color="#e0e5e7" offset="1"/>
+   <stop stop-color="#ccd5d6" offset="1"/>
   </linearGradient>
   <linearGradient gradientTransform="translate(0,-1)" gradientUnits="userSpaceOnUse" x2="33" y2="32" x1="18" y1="17" id="b-3">
-   <stop stop-color="#383e51"/>
+   <stop stop-color="#3a4d4f"/>
    <stop stop-opacity="0" stop-color="#655c6f" offset="1"/>
   </linearGradient>
   <linearGradient id="c-3" y1="-.883" x1="-41.26" y2="37.956" x2="-2.994" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.99319274,0,0,0.97839254,91.973191,6.8634547)">
-   <stop stop-color="#21c9fb"/>
-   <stop offset="1" stop-color="#1a86f2"/>
+   <stop stop-color="#5aa8ab"/>
+   <stop offset="1" stop-color="#5ea6ae"/>
   </linearGradient>
   <linearGradient xlink:href="#c-3" id="linearGradient4193" x1="27" y1="6" x2="27" y2="36" gradientUnits="userSpaceOnUse"/>
  </defs>

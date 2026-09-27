@@ -5,7 +5,7 @@
         color:#4d4d4d;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       </style>
     <linearGradient
@@ -47,7 +47,7 @@
        xlink:href="#linearGradient4213-3" />
   </defs>
   <path
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none"
      class="ColorScheme-Accent"
      d="M 0,0 0,128 128,128 128,0 0,0 Z"
      id="rect5879" />
@@ -68,7 +68,7 @@
      d="M 63.999965,52.4799 56.071961,75.51987 79.351973,98.79984 94.964982,83.44744 Z"
      id="path6610" />
   <path
-     style="opacity:1;fill:#2ecc71;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#58a35d;fill-opacity:1;stroke:none"
      d="m 63.999965,52.47987 c 1.920001,0 3.878921,9.4775 6.400003,15.36 3.840003,8.95997 2.560002,8.95997 -6.400003,8.95997 -8.960005,0 -10.240006,0 -6.400004,-8.95997 2.521083,-5.8825 4.480003,-15.36 6.400004,-15.36 z"
      id="path18" />
 </svg>

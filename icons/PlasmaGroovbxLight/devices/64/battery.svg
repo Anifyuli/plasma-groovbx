@@ -4,7 +4,7 @@
 <svg width="64" version="1.1" xmlns="http://www.w3.org/2000/svg" height="64" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <defs id="defs5455">
   <linearGradient inkscape:collect="always" id="linearGradient4374">
-   <stop style="stop-color:#bcfd93" id="stop4376"/>
+   <stop style="stop-color:#c4d9b8" id="stop4376"/>
    <stop offset="1" style="stop-color:#fafff5" id="stop4378"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4899" id="linearGradient4149" y1="545.79797" y2="517.79797" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.857143 0 0 1.857143 -343.34701 -455.82692)"/>
@@ -15,16 +15,16 @@
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4227" id="linearGradient4210" y1="9" x1="9.00001" y2="23" x2="23.00004" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2 0 0 2 1 0.00004)"/>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4374" id="linearGradient4320" y1="538.79797" y2="524.79797" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2 0 0 2 -399.57142 -531.79799)"/>
   <linearGradient inkscape:collect="always" id="linearGradient4899">
-   <stop style="stop-color:#34495e" id="stop4901"/>
-   <stop offset="1" style="stop-color:#1c7865" id="stop4903"/>
+   <stop style="stop-color:#315f61" id="stop4901"/>
+   <stop offset="1" style="stop-color:#2c685b" id="stop4903"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4891">
-   <stop style="stop-color:#c9ce3b" id="stop4893"/>
-   <stop offset="1" style="stop-color:#c9ce3b;stop-opacity:0" id="stop4895"/>
+   <stop style="stop-color:#d6db2e" id="stop4893"/>
+   <stop offset="1" style="stop-color:#d6db2e;stop-opacity:0" id="stop4895"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4298-5">
-   <stop style="stop-color:#16a085" id="stop4300-4"/>
-   <stop offset="1" style="stop-color:#2ecc71" id="stop4302-9"/>
+   <stop style="stop-color:#3d7679" id="stop4300-4"/>
+   <stop offset="1" style="stop-color:#58a377" id="stop4302-9"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4298-5" id="linearGradient4277" y1="58" x1="32.435966" y2="30.00003" x2="31.999989" gradientUnits="userSpaceOnUse"/>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4891" id="linearGradient4299" x1="9.999988" x2="53.999989" gradientUnits="userSpaceOnUse"/>
@@ -36,6 +36,6 @@
   <path style="fill:url(#linearGradient4299);fill-rule:evenodd" id="path4288" d="M 20.4375 37.585938 C 17.491581 37.570692 12.603875 37.988331 9.3789062 44.849609 C 9.4672331 45.005292 9.56678 45.152999 9.6582031 45.306641 C 12.880628 38.983391 17.574028 38.571066 20.4375 38.585938 C 20.92521 38.588437 21.359829 38.603562 21.724609 38.601562 C 31.997079 40.391944 38.660508 52.025067 53.609375 46.486328 C 53.894223 46.060412 54.167624 45.626553 54.427734 45.183594 C 54.429368 45.180812 54.431961 45.178564 54.433594 45.175781 C 38.89707 51.466813 32.185375 39.424761 21.724609 37.601562 C 21.359828 37.603254 20.925208 37.588461 20.4375 37.585938 z " transform="matrix(1 0 0 1 368.57144 499.79797)"/>
   <path style="fill:url(#linearGradient4210);opacity:0.2;fill-rule:evenodd" id="path4193" d="M 33 18 L 33 30 L 33.226562 30 L 33.226562 31.648438 L 25 34 L 31 40 L 31 42 L 31 46 L 41.294922 56.294922 C 48.19525 53.667137 53.667137 48.19525 56.294922 41.294922 L 33 18 z " transform="matrix(1 0 0 1 368.57144 499.79797)"/>
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4320);fill-rule:evenodd" id="path4185" d="m 401.57144,517.79801 -8,16 6,0 0,12 8,-16 -6,0 0,-12 z"/>
-  <path style="fill:#128269" id="rect4301" d="M 6.0117188 31.5 C 6.0085879 31.666951 6 31.832273 6 32 C 6 46.404006 17.595994 58 32 58 C 46.404006 58 58 46.404006 58 32 C 58 31.832273 57.991412 31.666951 57.988281 31.5 C 57.722545 45.670468 46.23628 57 32 57 C 17.76372 57 6.2774547 45.670468 6.0117188 31.5 z " transform="matrix(1 0 0 1 368.57144 499.79797)"/>
+  <path style="fill:#2c685a" id="rect4301" d="M 6.0117188 31.5 C 6.0085879 31.666951 6 31.832273 6 32 C 6 46.404006 17.595994 58 32 58 C 46.404006 58 58 46.404006 58 32 C 58 31.832273 57.991412 31.666951 57.988281 31.5 C 57.722545 45.670468 46.23628 57 32 57 C 17.76372 57 6.2774547 45.670468 6.0117188 31.5 z " transform="matrix(1 0 0 1 368.57144 499.79797)"/>
  </g>
 </svg>

@@ -5,12 +5,12 @@
         color:#232629;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       </style>
   </defs>
  <path 
-     style="fill:#f89406"
+     style="fill:#ddab21"
      d="M 6 9 L 6 30 L 5 30 L 5 87 L 91 87 L 91 24 L 90 24 L 90 15 L 48 15 L 42 9 L 6 9 z "
      />
  <path 

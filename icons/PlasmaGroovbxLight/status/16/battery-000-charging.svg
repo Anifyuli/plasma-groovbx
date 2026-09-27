@@ -2,10 +2,10 @@
     <defs id="defs1">
         <style type="text/css" id="current-color-scheme">
             .ColorScheme-NegativeText {
-                color:#da4453;
+                color:#e02e27;
             }
             .ColorScheme-PositiveText {
-                color:#27ae60;
+                color:#548156;
             }
         </style>
     </defs>

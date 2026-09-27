@@ -1,15 +1,15 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="524.83" y2="506.25" x1="411.49" x2="413.94" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#ebc69a"/>
-   <stop offset="1" stop-color="#f4e0c8"/>
+   <stop stop-color="#ebc57b"/>
+   <stop offset="1" stop-color="#f1d8a7"/>
   </linearGradient>
   <linearGradient id="b" y1="545.52" x1="414.78" y2="521.47" x2="390.67" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#197cf1"/>
-   <stop offset="1" stop-color="#86dbfc"/>
+   <stop stop-color="#529fa3"/>
+   <stop offset="1" stop-color="#aec9d4"/>
   </linearGradient>
   <linearGradient id="c" y1="30" y2="2" x2="0" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#7cbaf8"/>
+   <stop stop-color="#90c4c6"/>
    <stop offset="1" stop-color="#f4fcff"/>
   </linearGradient>
   <linearGradient id="d" y1="-2.981" x1=".043" y2="19.04" x2="22.06" gradientUnits="userSpaceOnUse">
@@ -22,16 +22,16 @@
   </linearGradient>
   <linearGradient xlink:href="#e" id="f" y1="4" x1="11" y2="22.13" gradientUnits="userSpaceOnUse" x2="29.13" gradientTransform="translate(.028 5.02)"/>
   <linearGradient id="g" y1="4" x1="8" y2="32" gradientUnits="userSpaceOnUse" x2="21" gradientTransform="translate(.028 5.02)">
-   <stop stop-color="#5583ab"/>
+   <stop stop-color="#5683aa"/>
    <stop offset="1" stop-color="#374652"/>
   </linearGradient>
   <linearGradient id="h" y1="36" y2="32" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1 0 0 1.0091-11.472 4.726)">
-   <stop stop-color="#572977"/>
-   <stop offset="1" stop-color="#833eb4"/>
+   <stop stop-color="#563070"/>
+   <stop offset="1" stop-color="#8051a1"/>
   </linearGradient>
   <linearGradient id="i" y1="42.39" x1="26.972" y2="33" gradientUnits="userSpaceOnUse" x2="19" gradientTransform="matrix(1 0 0 1.25-11.972-4.982)">
-   <stop stop-color="#2b116f"/>
-   <stop offset="1" stop-color="#693d9b"/>
+   <stop stop-color="#35265a"/>
+   <stop offset="1" stop-color="#6a4890"/>
   </linearGradient>
   <linearGradient xlink:href="#e" id="j" y1="38.957" x1="13.98" y2="46" gradientUnits="userSpaceOnUse" x2="21" gradientTransform="translate(-6.972 1.018)"/>
  </defs>

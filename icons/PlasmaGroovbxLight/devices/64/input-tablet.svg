@@ -5,20 +5,20 @@
  <defs id="defs5455">
   <linearGradient inkscape:collect="always" id="linearGradient4303">
    <stop style="stop-color:#c6cdd1" id="stop4305"/>
-   <stop offset="1" style="stop-color:#e0e5e7" id="stop4307"/>
+   <stop offset="1" style="stop-color:#ccd5d6" id="stop4307"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient5002">
-   <stop style="stop-color:#2e5d89" id="stop5004"/>
-   <stop offset="1" style="stop-color:#1b92f4" id="stop5006"/>
+   <stop style="stop-color:#3e7779" id="stop5004"/>
+   <stop offset="1" style="stop-color:#54a2a5" id="stop5006"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4352" xlink:href="#linearGradient5002" y1="512.79797" y2="527.79797" x1="400.57144" x2="415.57144" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1818182 0 0 1.1818182 -74.28571 -95.73208)"/>
   <linearGradient inkscape:collect="always" id="linearGradient4352-6" xlink:href="#linearGradient5002" y1="512.79797" y2="527.79797" x1="400.57144" x2="415.57144" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 78.999997 3.656239)"/>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient5002" id="linearGradient4352-5" y1="512.79797" x1="400.57144" y2="527.79797" gradientUnits="userSpaceOnUse" x2="415.57144" gradientTransform="matrix(1.1818182 0 0 1.1818182 6.714285 -89.23598)"/>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient5002" id="linearGradient4352-9" y1="512.79797" x1="400.57144" y2="527.79797" gradientUnits="userSpaceOnUse" x2="415.57144" gradientTransform="matrix(1.1818182 0 0 1.1818182 3.714275 -96.23596)"/>
   <linearGradient inkscape:collect="always" id="linearGradient4222">
-   <stop style="stop-color:#147de1" id="stop4224"/>
-   <stop offset="0.7" style="stop-color:#88bff4" id="stop4226"/>
-   <stop offset="1" style="stop-color:#3995ed" id="stop4228"/>
+   <stop style="stop-color:#529aa2" id="stop4224"/>
+   <stop offset="0.7" style="stop-color:#aaced2" id="stop4226"/>
+   <stop offset="1" style="stop-color:#6fb0b7" id="stop4228"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4204">
    <stop style="stop-color:#23262c" id="stop4206"/>
@@ -61,8 +61,8 @@
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4220)" id="rect4212" d="m 419.57143,532.79799 2.00005,0 0,1.6187 -2.00005,0 z"/>
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4241);fill-rule:evenodd" id="path4230" d="m 419.57143,534.41671 0,0.38128 1,2 1.00002,-2 0,-0.38128 z"/>
   <path inkscape:connector-curvature="0" style="fill:#23262c" id="rect4645" d="m 382.57144,542.79799 52.00003,0 0,2 -52.00003,0 z"/>
-  <rect width="5" x="385.57141" y="503.798" height="1" style="fill:#ebf4fd;fill-rule:evenodd;stroke-linejoin:bevel;stroke-width:0.2" id="rect4303"/>
-  <rect width="5" x="426.57144" y="503.798" height="1" style="fill:#3995ed;fill-rule:evenodd;stroke-linejoin:bevel;stroke-width:0.2" id="rect4305"/>
+  <rect width="5" x="385.57141" y="503.798" height="1" style="fill:#f1f7f7;fill-rule:evenodd;stroke-linejoin:bevel;stroke-width:0.2" id="rect4303"/>
+  <rect width="5" x="426.57144" y="503.798" height="1" style="fill:#6fb0b7;fill-rule:evenodd;stroke-linejoin:bevel;stroke-width:0.2" id="rect4305"/>
   <path inkscape:connector-curvature="0" style="fill:#cad3d6;fill-rule:evenodd;stroke-linejoin:bevel;stroke-width:0.2" id="rect4326" d="m 386.57144,510.79799 44,0 0,2.00001 -44,0 z"/>
  </g>
 </svg>

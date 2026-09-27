@@ -12,15 +12,15 @@
  </defs>
  <g transform="translate(-384.57-515.8)">
   <g color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000">
-   <use fill="#44b952" xlink:href="#c"/>
+   <use fill="#59a462" xlink:href="#c"/>
    <g transform="scale(1-1)">
     <rect opacity=".5" x="389.57" y="-518.8" width="15" fill="#ffffff" height="1"/>
     <rect opacity=".25" x="389.57" y="-545.8" width="22" height="1"/>
    </g>
-   <path opacity=".75" fill="#0e5960" fill-rule="evenodd" d="m411.57 524.8l-7-7v7z"/>
+   <path opacity=".75" fill="#21494d" fill-rule="evenodd" d="m411.57 524.8l-7-7v7z"/>
   </g>
   <path opacity=".2" fill="url(#b)" fill-rule="evenodd" d="m404.57 524.8l7 7v-7z"/>
   <use fill="url(#a)" xlink:href="#c"/>
-  <path fill="#0e5960" d="m394.57 527.8v12h12v-12h-2v1h-2v-1h-4v1h-2v-1zm1 3h10v8h-10zm1 1v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm-3 3v2h2v-2zm3 0v2h2v-2z"/>
+  <path fill="#21494d" d="m394.57 527.8v12h12v-12h-2v1h-2v-1h-4v1h-2v-1zm1 3h10v8h-10zm1 1v2h2v-2zm3 0v2h2v-2zm3 0v2h2v-2zm-3 3v2h2v-2zm3 0v2h2v-2z"/>
  </g>
 </svg>

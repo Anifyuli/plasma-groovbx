@@ -36,7 +36,7 @@
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -103,10 +103,10 @@
        inkscape:collect="always">
       <stop
          id="stop6552"
-         stop-color="#ffc169" />
+         stop-color="#cabe9e" />
       <stop
          id="stop6554"
-         stop-color="#ffa92d"
+         stop-color="#e0a534"
          offset="1" />
     </linearGradient>
   </defs>
@@ -176,7 +176,7 @@
          height="5.9999542"
          width="64" />
       <rect
-         style="fill:#3daee9"
+         style="fill:#60abae"
          id="rect37-72-9"
          y="1069.9336"
          x="736.85718"
@@ -220,7 +220,7 @@
            y="176.11377"
            id="rect34-0-5-5" />
         <rect
-           style="fill:#3daee9"
+           style="fill:#60abae"
            width="31.999968"
            height="1"
            x="667.117"

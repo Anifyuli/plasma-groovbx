@@ -11,7 +11,7 @@
     <g transform="translate(1)">
       <path d="m2 2h15v18h-15z" fill="url(#a)" stroke-width=".633866"/>
       <path d="m4 18h11v2h-11z" fill="#292c2e" stroke-width=".654654"/>
-      <path d="m5 19h6v1h-6zm7 0h2v1h-2z" fill="#f6b44d" stroke-width=".811273"/>
+      <path d="m5 19h6v1h-6zm7 0h2v1h-2z" fill="#e3ad46" stroke-width=".811273"/>
       <path d="m15 18h2v2h-2zm-13 0h2v2h-2z" fill="#292c2f" opacity=".2" stroke-width=".654654"/>
       <path d="m2 18 2 2v-2zm13 0v1.999996l2 4e-6v-2z" opacity=".2" stroke-width=".642857"/>
       <path d="m6 3a3 3 0 0 0-3 3v3.2695312a2 2 0 0 1 1 1.7304688 2 2 0 0 1-1 1.732422v2.267578l2 2h9l2-2v-2.267578a2 2 0 0 1-1-1.732422 2 2 0 0 1 1-1.7324219v-3.2675781a3 3 0 0 0-3-3z" fill="url(#b)"/>

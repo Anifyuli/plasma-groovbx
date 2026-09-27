@@ -73,7 +73,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-Text {
         color:#4d4d4d;
@@ -104,7 +104,7 @@
       <stop
          id="stop4307-4"
          offset="1"
-         style="stop-color:#e0e5e7;stop-opacity:1" />
+         style="stop-color:#ccd5d6;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient5044"
@@ -122,7 +122,7 @@
        inkscape:collect="always"
        id="linearGradient4290">
       <stop
-         style="stop-color:#7cbaf8;stop-opacity:1"
+         style="stop-color:#90c4c6;stop-opacity:1"
          offset="0"
          id="stop4292" />
       <stop
@@ -134,7 +134,7 @@
        inkscape:collect="always"
        id="linearGradient4410">
       <stop
-         style="stop-color:#383e51;stop-opacity:1"
+         style="stop-color:#3a4d4f;stop-opacity:1"
          offset="0"
          id="stop4412" />
       <stop
@@ -153,11 +153,11 @@
       <stop
          id="stop4263"
          offset="0"
-         stop-color="#21c9fb" />
+         stop-color="#5aa8ab" />
       <stop
          id="stop4265"
          offset="1"
-         stop-color="#1a86f2" />
+         stop-color="#5e86ae" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -191,14 +191,14 @@
        inkscape:collect="always">
       <stop
          id="stop4498"
-         style="stop-color:#b83564" />
+         style="stop-color:#9e4f6b" />
       <stop
          id="stop4504"
-         style="stop-color:#ff6a5a"
+         style="stop-color:#eb7a6e"
          offset="0.5" />
       <stop
          id="stop4500"
-         style="stop-color:#ffb350"
+         style="stop-color:#ecb063"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -349,14 +349,14 @@
        inkscape:collect="always">
       <stop
          id="stop4145-6"
-         style="stop-color:#0a54ac" />
+         style="stop-color:#3d5879" />
       <stop
          id="stop4270-5"
-         style="stop-color:#1c9cf5"
+         style="stop-color:#6190b0"
          offset="0.5" />
       <stop
          id="stop4147-7"
-         style="stop-color:#9ae1fd"
+         style="stop-color:#bcd2db"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -374,10 +374,10 @@
        inkscape:collect="always">
       <stop
          id="stop4182"
-         style="stop-color:#a82936" />
+         style="stop-color:#b81929" />
       <stop
          id="stop4184"
-         style="stop-color:#da4453"
+         style="stop-color:#e02e27"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -385,10 +385,10 @@
        inkscape:collect="always">
       <stop
          id="stop4174"
-         style="stop-color:#da4453" />
+         style="stop-color:#e02e27" />
       <stop
          id="stop4176"
-         style="stop-color:#da4453"
+         style="stop-color:#e02e27"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -448,10 +448,10 @@
        inkscape:collect="always">
       <stop
          id="stop4300"
-         style="stop-color:#42a603" />
+         style="stop-color:#4d7633" />
       <stop
          id="stop4302"
-         style="stop-color:#78da06"
+         style="stop-color:#76c020"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -459,10 +459,10 @@
        inkscape:collect="always">
       <stop
          id="stop4305-2"
-         style="stop-color:#197cf1" />
+         style="stop-color:#529fa3" />
       <stop
          id="stop4307-1"
-         style="stop-color:#21c9fb"
+         style="stop-color:#5aa8ab"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -542,10 +542,10 @@
        id="a-3">
       <stop
          id="stop5005"
-         stop-color="#197cf1" />
+         stop-color="#529fa3" />
       <stop
          id="stop5007"
-         stop-color="#20bcfa"
+         stop-color="#59a7ab"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -594,7 +594,7 @@
          stop-color="#c6cdd1" />
       <stop
          id="stop5020"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -613,7 +613,7 @@
        id="h">
       <stop
          id="stop5024"
-         stop-color="#7cbaf8" />
+         stop-color="#90c4c6" />
       <stop
          id="stop5026"
          stop-color="#f4fcff"
@@ -658,10 +658,10 @@
        id="b-1">
       <stop
          id="stop5102"
-         stop-color="#197cf1" />
+         stop-color="#529fa3" />
       <stop
          id="stop5104"
-         stop-color="#05a0eb"
+         stop-color="#519c9f"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -673,10 +673,10 @@
        id="c-0">
       <stop
          id="stop5107"
-         stop-color="#bcb4a1" />
+         stop-color="#aea693" />
       <stop
          id="stop5109"
-         stop-color="#c5bfad"
+         stop-color="#b7af9e"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -709,7 +709,7 @@
        id="f-5">
       <stop
          id="stop5118"
-         stop-color="#383e51" />
+         stop-color="#3a4d4f" />
       <stop
          id="stop5120"
          stop-opacity="0"
@@ -911,7 +911,7 @@
       <stop
          id="stop5887"
          offset="0"
-         stop-color="#333" />
+         stop-color="#333333" />
       <stop
          id="stop5889"
          offset="1" />
@@ -927,7 +927,7 @@
       <stop
          id="stop5892"
          offset="0"
-         stop-color="#333" />
+         stop-color="#333333" />
       <stop
          id="stop5894"
          offset="1" />
@@ -943,7 +943,7 @@
       <stop
          id="stop5897"
          offset="0"
-         stop-color="#333" />
+         stop-color="#333333" />
       <stop
          id="stop5899"
          offset="1" />
@@ -976,7 +976,7 @@
       <stop
          id="stop5907"
          offset="0"
-         stop-color="#520" />
+         stop-color="#4c2409" />
       <stop
          id="stop5909"
          offset="1"
@@ -993,11 +993,11 @@
       <stop
          id="stop5912"
          offset="0"
-         stop-color="#2ca0b9" />
+         stop-color="#4d8b98" />
       <stop
          id="stop5914"
          offset="1"
-         stop-color="#87deaa" />
+         stop-color="#9cc9ae" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -1253,7 +1253,7 @@
        inkscape:connector-curvature="0" />
     <rect
        id="rect4187"
-       style="fill:#aa2a37;stroke-width:0.1;stroke-linecap:square"
+       style="fill:#bb192a;stroke-width:0.1;stroke-linecap:square"
        height="1"
        y="544.79797"
        x="384.57147"
@@ -1354,7 +1354,7 @@
        id="rect4159"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.194;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3daee9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#60abae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 9.9614367,17.987883 c -0.5571194,0 -1.0056309,0.448511 -1.0056309,1.005631 0,0.55712 0.4485115,1.005631 1.0056309,1.005631 H 31.017747 v -2.011262 z"
        id="path4172"
        inkscape:connector-curvature="0" />
@@ -1394,7 +1394,7 @@
     <path
        id="path4227"
        d="m 9.9614367,27.987883 c -0.5571194,0 -1.0056309,0.448511 -1.0056309,1.005631 0,0.55712 0.4485115,1.005631 1.0056309,1.005631 H 21.017747 v -2.011262 z"
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#3daee9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#60abae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -1447,7 +1447,7 @@
        y="542.79999"
        x="390.57001"
        width="36"
-       style="fill:#1c5593" />
+       style="fill:#3b7274" />
     <path
        id="path5044"
        transform="translate(384.57,499.8)"

@@ -4,7 +4,7 @@
       .ColorScheme-Text { color: #f9f5d7; }
       </style>
   </defs>
- <path fill="#f60" d="m4 4v24h24v-24zm1 1h22v22h-22z"/>
+ <path fill="#e26b1c" d="m4 4v24h24v-24zm1 1h22v22h-22z"/>
  <path style="fill:currentColor;fill-opacity:1;stroke:none" 
        d="m5 5v22h22v-22zm1 1h20v20h-20z"
      class="ColorScheme-Text"

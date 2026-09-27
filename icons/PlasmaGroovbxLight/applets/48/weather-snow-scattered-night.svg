@@ -2,8 +2,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
  <defs>
   <linearGradient id="0">
-   <stop stop-color="#abdaf9"/>
-   <stop offset="1" stop-color="#e1f2ff"/>
+   <stop stop-color="#c5dde0"/>
+   <stop offset="1" stop-color="#ebf4f5"/>
   </linearGradient>
   <linearGradient id="1">
    <stop stop-color="#eff1f1"/>
@@ -20,7 +20,7 @@
   <linearGradient gradientTransform="matrix(0.50000078,0,0,0.50000078,386.57142,505.798)" gradientUnits="userSpaceOnUse" y2="44" x2="0" y1="4" id="7" xlink:href="#8"/>
   <linearGradient id="8">
    <stop stop-color="#6f8181"/>
-   <stop offset="1" stop-color="#334545"/>
+   <stop offset="1" stop-color="#344244"/>
   </linearGradient>
  </defs>
  <metadata/>

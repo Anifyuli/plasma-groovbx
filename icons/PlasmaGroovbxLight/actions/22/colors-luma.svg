@@ -10,17 +10,17 @@
         color:#eff0f1;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-ButtonText {
         color:#31363b;
       }
       </style>
     <linearGradient id="linearGradient4012" inkscape:collect="always">
-      <stop id="stop4014" offset="0" style="stop-color:#1d99f3;stop-opacity:1"/>
-      <stop style="stop-color:#48acf5;stop-opacity:0.76119405" offset="0.41666669" id="stop4016"/>
-      <stop style="stop-color:#73c0f7;stop-opacity:0" offset="0.66666329" id="stop4018"/>
-      <stop id="stop4020" offset="1" style="stop-color:#cae7fc;stop-opacity:0"/>
+      <stop id="stop4014" offset="0" style="stop-color:#54a2a6;stop-opacity:1"/>
+      <stop style="stop-color:#7eb8be;stop-opacity:0.76119405" offset="0.41666669" id="stop4016"/>
+      <stop style="stop-color:#9fc7cb;stop-opacity:0" offset="0.66666329" id="stop4018"/>
+      <stop id="stop4020" offset="1" style="stop-color:#dbeaeb;stop-opacity:0"/>
     </linearGradient>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4012" id="linearGradient4164" x1="3" y1="1049.3622" x2="19" y2="1033.3622" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.75,0,0,0.75,1.7499999,269.34054)"/>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4012" id="linearGradient3983" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.75,0,0,0.75,2.7499999,262.34058)" x1="3" y1="1049.3622" x2="24.333334" y2="1028.0288"/>

@@ -63,10 +63,10 @@
        inkscape:collect="always">
       <stop
          id="stop6552"
-         stop-color="#cc4a5e" />
+         stop-color="#df2720" />
       <stop
          id="stop6554"
-         stop-color="#aa478a"
+         stop-color="#a15075"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -84,7 +84,7 @@
        inkscape:collect="always">
       <stop
          id="stop6558"
-         stop-color="#334545" />
+         stop-color="#344244" />
       <stop
          id="stop6560"
          stop-color="#536161"
@@ -157,7 +157,7 @@
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -242,10 +242,10 @@
        id="linearGradient4143">
       <stop
          id="stop10732"
-         stop-color="#197cf1" />
+         stop-color="#529fa3" />
       <stop
          id="stop10734"
-         stop-color="#20bcfa"
+         stop-color="#59a7ab"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -350,7 +350,7 @@
            inkscape:connector-curvature="0"
            d="m 746.83445,204.25087 22.02271,-16.31733 -10e-6,7.97131 z"
            inkscape:transform-center-x="5.5056789"
-           style="fill:#aa478a;stroke-width:2;stroke-linecap:round" />
+           style="fill:#a15075;stroke-width:2;stroke-linecap:round" />
       </g>
       <g
          id="g6597-0-3-2"
@@ -415,7 +415,7 @@
          inkscape:connector-curvature="0"
          id="rect36-3-1-4-2-7-3"
          d="m 817.85718,203.93361 0,1 18,0 0,-1 -18,0 z"
-         style="fill:#3daee9" />
+         style="fill:#60abae" />
       <path
          inkscape:connector-curvature="0"
          id="rect38-8-5-7-3-0-2"
@@ -479,7 +479,7 @@
            id="rect34-0-53-7-3-7" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#3daee9"
+           style="fill:#60abae"
            d="m 46,47 0,1 18,0 0,-1 -18,0 z"
            transform="translate(736.85718,157.93361)"
            id="rect36-3-1-4-2-6" />

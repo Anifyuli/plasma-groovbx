@@ -105,11 +105,11 @@
     <linearGradient
        id="linearGradient4910">
       <stop
-         style="stop-color:#572b00;stop-opacity:1;"
+         style="stop-color:#4d2409;stop-opacity:1;"
          offset="0"
          id="stop4912" />
       <stop
-         style="stop-color:#de6e00;stop-opacity:0;"
+         style="stop-color:#c65e18;stop-opacity:0;"
          offset="1"
          id="stop4914" />
     </linearGradient>
@@ -1246,7 +1246,7 @@
     <path
        id="path4525"
        d="M 353.54583,320.66402 C 317.15116,320.66403 287.54946,330.66647 286.51458,343.13277 C 299.51562,350.30087 324.65891,355.16403 353.54583,355.16402 C 382.43277,355.16403 407.59828,350.30087 420.60833,343.13277 C 419.57254,330.66647 389.94052,320.66402 353.54583,320.66402 z "
-       style="opacity:0.8827839;fill:#de6e00;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998;stroke-opacity:1;filter:url(#filter4515)" />
+       style="opacity:0.8827839;fill:#c65e18;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998;stroke-opacity:1;filter:url(#filter4515)" />
     <path
        sodipodi:nodetypes="ccc"
        id="path4532"
@@ -1256,7 +1256,7 @@
        transform="translate(-450.14167,1.9140185)"
        clip-path="url(#clipPath4642)"
        sodipodi:nodetypes="ccscc"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff7e00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998;stroke-opacity:1;filter:url(#filter4638)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#e26b1c;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998;stroke-opacity:1;filter:url(#filter4638)"
        d="M 803.6875,318.75 C 767.29283,318.75001 737.69113,328.75245 736.65625,341.21875 C 746.70438,352.32406 774.80058,355.67937 803.6875,355.67936 C 832.57444,355.67937 861.67716,356.26127 870.75,341.21875 C 869.71421,328.75245 840.08219,318.75 803.6875,318.75 z "
        id="path4590" />
     <path

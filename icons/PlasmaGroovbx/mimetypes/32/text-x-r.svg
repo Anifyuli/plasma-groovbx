@@ -93,18 +93,18 @@
        x2="21.129999"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#2bbfcc"
+         stop-color="#539da5"
          id="stop12-6" />
       <stop
          offset="1"
-         stop-color="#45d7e4"
+         stop-color="#71b0b7"
          id="stop14-7" />
     </linearGradient>
   </defs>
   <use
      xlink:href="#c"
      id="use21"
-     style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#1fc7d6;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+     style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#529aa2;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
      x="0"
      y="0"
      width="100%"

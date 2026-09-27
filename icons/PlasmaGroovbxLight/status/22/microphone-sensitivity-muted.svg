@@ -4,7 +4,7 @@
             color:#232629;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }
     </style>
     <path d="m3.5 2.7929688-.7070312.7070312.3535156.3535156 14.9999996 15.0000004.353516.353515.707031-.707031-.353515-.353516-15.0000004-14.9999996z" class="ColorScheme-NegativeText" fill="currentColor"/>

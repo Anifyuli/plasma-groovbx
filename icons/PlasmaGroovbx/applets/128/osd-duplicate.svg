@@ -35,21 +35,21 @@
      type="text/css"
      id="current-color-scheme">
       .ColorScheme-Text {
-        color:#7B7C7E;
+        color:#7b7c7e;
       }
       .ColorScheme-Background{
-        color:#EFF0F1;
+        color:#eff0f1;
       }
       .ColorScheme-Accent{
-        color:#3DAEE6;
+        color:#3daee6;
       }
       .ColorScheme-ButtonText {
-        color:#7B7C7E;
+        color:#7b7c7e;
       }
 </style>
   <g
      id="osd-duplicate"
-     inkscape:label="#128-128osd-duplicate"
+     inkscape:label="#2e646a-128osd-duplicate"
      transform="translate(272,106)">
     <rect
        style="fill:none"

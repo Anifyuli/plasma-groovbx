@@ -1,7 +1,7 @@
 <svg id="svg11" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #f9f5d7; }
         .ColorScheme-Accent {
-            color:#3daee9;
+            color:#60abae;
         }</style>
     <path id="path3" class="ColorScheme-Text" d="m3 10v9h7v-9h-1v4h-5v-4zm1 6h5v1h-5z" fill="currentColor"/>
     <path id="path5" class="ColorScheme-Accent" d="m13 17h5v2h-5z" fill="currentColor"/>

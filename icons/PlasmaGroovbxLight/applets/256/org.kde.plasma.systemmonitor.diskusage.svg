@@ -53,7 +53,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-Text {
         color:#4d4d4d;
@@ -95,7 +95,7 @@
      height="133.07344"
      width="6"
      id="rect6599"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Accent" />
   <rect
@@ -115,7 +115,7 @@
      height="185"
      width="6"
      id="rect6599-9"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Accent" />
   <rect
@@ -135,7 +135,7 @@
      height="25"
      width="6"
      id="rect6599-9-5"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none"
      transform="matrix(0,-1,1,0,0,0)"
      class="ColorScheme-Accent" />
 </svg>

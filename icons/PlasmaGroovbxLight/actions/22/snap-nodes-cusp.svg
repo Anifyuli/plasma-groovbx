@@ -4,7 +4,7 @@
         color:#232629;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }</style>
     </defs>
     <path id="path4" class="ColorScheme-Text" d="m6 4v1h10v-1zm-2 2v10h1v-10zm13 0v10h1v-10zm-11 11v1h10v-1z" fill="currentColor"/>

@@ -19,8 +19,8 @@
    <stop stop-opacity="0" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient70363" x1="24" x2="24" y1="37" y2="12" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2c3e50" offset="0"/>
-   <stop stop-color="#34495e" offset="1"/>
+   <stop stop-color="#2a5052" offset="0"/>
+   <stop stop-color="#315f61" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient70391" x1="24" x2="24" y1="51" y2="4" gradientUnits="userSpaceOnUse">
    <stop stop-color="#7f8c8d" stop-opacity="0" offset="0"/>
@@ -41,13 +41,13 @@
  <path d="m6.2759847 9.6911024 9.6564173 9.6564176 4.507504-2.306142-10.849888-10.849888c-3.9076571-0.339541-3.149223 1.828071-3.314033 3.499612z" fill="url(#linearGradient70571)" opacity=".2" style="paint-order:normal"/>
  <path d="m40.910156 6.15625c-3.137089-0.0355108-2.480256 1.9680866-2.634765 3.5351562l5.724609 5.7246098v-5.416016c0-0.5653399-0.083678-1.1090794-0.228516-1.6269531l-2.18164-2.1816407c-0.244229-0.0212213-0.470548-0.0327888-0.679688-0.0351562z" fill="url(#linearGradient70575)" opacity=".2" style="paint-order:normal"/>
  <path d="m40.910156 36.15625c-3.137089-0.03551-2.480256 1.968087-2.634765 3.535156l2.58789 2.587891c1.468659-0.795024 2.557063-2.187469 2.960938-3.853516l-2.234375-2.234375c-0.244229-0.02122-0.470548-0.03279-0.679688-0.03516z" fill="url(#linearGradient70579)" opacity=".2" style="paint-order:normal"/>
- <g fill="#2c3e50">
+ <g fill="#2a5052">
   <path d="m7 6c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm0 1h2v2h-2z" style="paint-order:normal"/>
   <path d="m39 6c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm0 1h2v2h-2z" style="paint-order:normal"/>
   <path d="m7 36c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm0 1h2v2h-2z" style="paint-order:normal"/>
   <path d="m39 36c-0.554 0-1 0.446-1 1v2c0 0.554 0.446 1 1 1h2c0.554 0 1-0.446 1-1v-2c0-0.554-0.446-1-1-1zm0 1h2v2h-2z" style="paint-order:normal"/>
  </g>
- <g fill="#2c3e50" shape-rendering="auto" stroke-dashoffset="531.55225">
+ <g fill="#2a5052" shape-rendering="auto" stroke-dashoffset="531.55225">
   <path d="m7 13v4h2v-4z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".5" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
   <path d="m7 21v4h2v-4z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".5" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
   <path d="m7 29v4h2v-4z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".5" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>

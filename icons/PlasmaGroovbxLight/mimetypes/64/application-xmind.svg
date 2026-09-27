@@ -3,12 +3,12 @@
     <sodipodi:namedview inkscape:current-layer="svg35" showgrid="false" id="namedview37" inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0" guidetolerance="10" gridtolerance="10" objecttolerance="10" borderopacity="1" bordercolor="#666666" pagecolor="#ffffff" />
     <defs id="defs17">
         <linearGradient gradientTransform="matrix(1 0 0-1 0 64)" gradientUnits="userSpaceOnUse" x2="0" y2="61" y1="3" id="a">
-            <stop id="stop2" stop-color="#b51c1a" />
-            <stop id="stop4" stop-color="#cb2926" offset="1" />
+            <stop id="stop2" stop-color="#b52319" />
+            <stop id="stop4" stop-color="#d3291d" offset="1" />
         </linearGradient>
         <linearGradient gradientTransform="matrix(1 0 0-1 0 64)" gradientUnits="userSpaceOnUse" x2="0" y2="47" y1="61" id="b">
-            <stop offset="0" stop-color="#ee8c8b" id="stop9" />
-            <stop offset="1" stop-color="#ea716f" id="stop7" />
+            <stop offset="0" stop-color="#d0aba8" id="stop9" />
+            <stop offset="1" stop-color="#eb756d" id="stop7" />
         </linearGradient>
         <linearGradient gradientUnits="userSpaceOnUse" x2="54" y2="31" x1="40" y1="17" id="c">
             <stop id="stop12" stop-color="#3a4d4f" />
@@ -24,5 +24,5 @@
         <path id="path27" d="m54 17l-14-14v14z" fill="url(#b)" />
         <path id="path29" d="m40 17l14 14v-14z" fill="url(#c)" opacity=".2" />
     </g>
-    <path id="path33" d="m41.25 26l-6.454 1.118c.093 4.223-4.186 7.158-8.201-.798l-7.593 1.119c1.182 4.302 5.425 4.832 8.255 7.095-1.415 2.122-7.843.844-7.671 7.467l6.454-1.119c-.093-4.223 7.355-7.78 11.369.177l7.593-1.119c-1.184-4.313-5.693-4.723-8.523-7 1.402-3.083 6.04-.31 4.77-6.94" fill="#f2a4a3" />
+    <path id="path33" d="m41.25 26l-6.454 1.118c.093 4.223-4.186 7.158-8.201-.798l-7.593 1.119c1.182 4.302 5.425 4.832 8.255 7.095-1.415 2.122-7.843.844-7.671 7.467l6.454-1.119c-.093-4.223 7.355-7.78 11.369.177l7.593-1.119c-1.184-4.313-5.693-4.723-8.523-7 1.402-3.083 6.04-.31 4.77-6.94" fill="#dabcba" />
 </svg>

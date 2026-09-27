@@ -6,7 +6,7 @@
   </linearGradient>
   <path color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" id="b" color-interpolation="sRGB" color="#000000" d="m3 17v44h58v-44h-18.455z"/>
  </defs>
- <use fill="#ac4474" xlink:href="#b"/>
+ <use fill="#a05073" xlink:href="#b"/>
  <g color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000">
   <rect opacity=".25" x="3" y="60" width="58" height="1"/>
   <rect opacity=".5" x="3" y="17" width="58" fill="#ffffff" height="1"/>

@@ -4,7 +4,7 @@
         <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color: #f9f5d7; }
         
             .ColorScheme-PositiveText {
-                color:#27ae60;
+                color:#548156;
             }</style>
     </defs>
     <path class="ColorScheme-Text" d="m0 2v12h6v-1h-5v-10h13v3.1016c0.48581-0.053102 1.011-0.083036 1.5723-0.09375-0.02369-0.0034169-0.047601-0.0078125-0.072266-0.0078125h-0.5v-4h-15zm2 2v8h4v-2l2-1c0.76116-0.76116 1.5231-1.3762 2.3945-1.8477l-0.39453-3.1523h-8z" fill="currentColor"/>

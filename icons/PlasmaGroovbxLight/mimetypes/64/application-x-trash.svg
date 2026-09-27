@@ -6,12 +6,12 @@
    <stop id="stop2" stop-opacity="0" offset="1"/>
   </linearGradient>
   <linearGradient id="b" x2="0" y1="392.36" y2="336.36" gradientTransform="translate(-108,-332.36)" gradientUnits="userSpaceOnUse">
-   <stop id="stop3" stop-color="#fff" stop-opacity="0" offset="0"/>
-   <stop id="stop4" stop-color="#fff" stop-opacity=".2" offset="1"/>
+   <stop id="stop3" stop-color="#ffffff" stop-opacity="0" offset="0"/>
+   <stop id="stop4" stop-color="#ffffff" stop-opacity=".2" offset="1"/>
   </linearGradient>
  </defs>
- <path id="path8" d="m10 3v58h44l-1e-6 -44-15.172-14z" fill="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
- <g id="g4" fill="#fff">
+ <path id="path8" d="m10 3v58h44l-1e-6 -44-15.172-14z" fill="#cccccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+ <g id="g4" fill="#ffffff">
   <rect id="rect4" transform="scale(1-1)" x="10" y="-4" width="30" height="1" color="#000000" color-rendering="auto" image-rendering="auto" opacity=".5" shape-rendering="auto" text-rendering="auto"/>
   <path id="path4" d="m54 17-14-14v14z" fill-rule="evenodd" opacity=".5"/>
  </g>

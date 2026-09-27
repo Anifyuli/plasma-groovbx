@@ -3,7 +3,7 @@
             color:#232629;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }
     </style>
     <path class="ColorScheme-NegativeText" d="m3.5 2.792969-0.707031 0.707031 0.353515 0.353516 15 15 0.353516 0.353515 0.707031-0.707031-0.353515-0.353516-15-15z" fill="currentColor"/>

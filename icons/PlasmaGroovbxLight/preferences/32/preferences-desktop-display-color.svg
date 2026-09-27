@@ -9,7 +9,7 @@
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4303">
    <stop style="stop-color:#c6cdd1" id="stop4305"/>
-   <stop offset="1" style="stop-color:#e0e5e7" id="stop4307"/>
+   <stop offset="1" style="stop-color:#ccd5d6" id="stop4307"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4159" id="linearGradient4338" y1="538.79797" y2="519.79797" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1.2105271 -3.00004 -111.43158)"/>
   <linearGradient inkscape:collect="always" xlink:href="#linearGradient4303" id="linearGradient4346" y1="542.79797" y2="538.79797" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -0.000073 2)"/>
@@ -18,41 +18,41 @@
    <stop offset="1" style="stop-color:#44484c" id="stop4163-3"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4288">
-   <stop style="stop-color:#e81877" id="stop4290"/>
-   <stop offset="0.312499" style="stop-color:#dd1d8c" id="stop4294-9"/>
-   <stop offset="0.562499" style="stop-color:#6d57b1" id="stop4296"/>
-   <stop offset="0.75" style="stop-color:#2a78c1" id="stop4298"/>
-   <stop offset="1" style="stop-color:#018dcb" id="stop4292-2"/>
+   <stop style="stop-color:#aa567c" id="stop4290"/>
+   <stop offset="0.312499" style="stop-color:#a65483" id="stop4294-9"/>
+   <stop offset="0.562499" style="stop-color:#6f5bad" id="stop4296"/>
+   <stop offset="0.75" style="stop-color:#4f779c" id="stop4298"/>
+   <stop offset="1" style="stop-color:#447388" id="stop4292-2"/>
   </linearGradient>
   <clipPath id="clipPath4534">
    <rect width="31.999989" x="8.00001" y="8" rx="15.999986" height="31.999971" id="rect4536"/>
   </clipPath>
   <linearGradient inkscape:collect="always" id="linearGradient4300">
-   <stop style="stop-color:#e51561" id="stop4302"/>
-   <stop offset="0.312499" style="stop-color:#e4156c" id="stop4304"/>
-   <stop offset="0.562499" style="stop-color:#e71e2c" id="stop4306"/>
-   <stop offset="0.75" style="stop-color:#e8301e" id="stop4308"/>
-   <stop offset="1" style="stop-color:#e6320e" id="stop4310"/>
+   <stop style="stop-color:#a65472" id="stop4302"/>
+   <stop offset="0.312499" style="stop-color:#a65376" id="stop4304"/>
+   <stop offset="0.562499" style="stop-color:#e12431" id="stop4306"/>
+   <stop offset="0.75" style="stop-color:#e13625" id="stop4308"/>
+   <stop offset="1" style="stop-color:#d73c1d" id="stop4310"/>
   </linearGradient>
   <clipPath id="clipPath4584">
    <rect width="31.999989" x="392.57144" y="507.798" rx="15.999986" height="31.999971" id="rect4586"/>
   </clipPath>
   <linearGradient inkscape:collect="always" id="linearGradient4328">
-   <stop style="stop-color:#bec900" id="stop4330"/>
-   <stop offset="0.312499" style="stop-color:#9ec80a" id="stop4332"/>
-   <stop offset="0.562499" style="stop-color:#71b93d" id="stop4334"/>
-   <stop offset="0.75" style="stop-color:#35a48f" id="stop4336"/>
-   <stop offset="1" style="stop-color:#018fca" id="stop4338"/>
+   <stop style="stop-color:#a4ac1d" id="stop4330"/>
+   <stop offset="0.312499" style="stop-color:#93b41e" id="stop4332"/>
+   <stop offset="0.562499" style="stop-color:#75a056" id="stop4334"/>
+   <stop offset="0.75" style="stop-color:#499083" id="stop4336"/>
+   <stop offset="1" style="stop-color:#447387" id="stop4338"/>
   </linearGradient>
   <clipPath id="clipPath4550">
    <rect width="31.999989" x="392.57144" y="507.798" rx="15.999986" height="31.999971" id="rect4552"/>
   </clipPath>
   <linearGradient inkscape:collect="always" id="linearGradient4316">
-   <stop style="stop-color:#c1cc00" id="stop4318"/>
-   <stop offset="0.312499" style="stop-color:#dfcd00" id="stop4320"/>
-   <stop offset="0.562499" style="stop-color:#f0cc00" id="stop4322"/>
-   <stop offset="0.75" style="stop-color:#fd8c08" id="stop4324"/>
-   <stop offset="1" style="stop-color:#f25c13" id="stop4326"/>
+   <stop style="stop-color:#a7ae1e" id="stop4318"/>
+   <stop offset="0.312499" style="stop-color:#bfb220" id="stop4320"/>
+   <stop offset="0.562499" style="stop-color:#d1b61f" id="stop4322"/>
+   <stop offset="0.75" style="stop-color:#e48a21" id="stop4324"/>
+   <stop offset="1" style="stop-color:#e46121" id="stop4326"/>
   </linearGradient>
   <clipPath id="clipPath4568">
    <rect width="31.999989" x="392.57144" y="507.798" rx="15.999986" height="31.999971" id="rect4570"/>

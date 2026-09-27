@@ -2,7 +2,7 @@
  <defs>
   <linearGradient id="a" y1="543.8" y2="503.8" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1.125 0 0 1-51.07 0)">
    <stop stop-color="#c6cdd1"/>
-   <stop offset="1" stop-color="#e0e5e7"/>
+   <stop offset="1" stop-color="#ccd5d6"/>
   </linearGradient>
   <linearGradient id="b" y1="523.8" y2="503.8" x2="0" gradientUnits="userSpaceOnUse">
    <stop stop-color="#2a2c2f"/>
@@ -10,7 +10,7 @@
   </linearGradient>
   <linearGradient xlink:href="#b" id="c" y1="542.79" y2="530.79" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="d" y1="29" x1="25" y2="44" x2="40" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2e595b"/>
+   <stop stop-color="#3a4d4f"/>
    <stop offset="1" stop-color="#655c6f" stop-opacity="0"/>
   </linearGradient>
  </defs>

@@ -2,12 +2,12 @@
 <svg id="svg38" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
     <defs id="defs20">
         <linearGradient id="2-3" x2="0" y1="502.8" y2="582.8" gradientUnits="userSpaceOnUse">
-            <stop id="stop9" stop-color="#f0ff01" offset="0"/>
-            <stop id="stop11" stop-color="#ff9701" offset="1"/>
+            <stop id="stop9" stop-color="#ceda26" offset="0"/>
+            <stop id="stop11" stop-color="#deac22" offset="1"/>
         </linearGradient>
         <linearGradient id="3-5" x2="0" y1="507.8" y2="547.8" gradientUnits="userSpaceOnUse">
-            <stop id="stop15" stop-color="#faffa5" offset="0"/>
-            <stop id="stop17" stop-color="#edf573" offset="1"/>
+            <stop id="stop15" stop-color="#dee0c5" offset="0"/>
+            <stop id="stop17" stop-color="#c8ca9e" offset="1"/>
         </linearGradient>
     </defs>
     <g id="layer1">
@@ -18,7 +18,7 @@
     </g>
     <g id="layer2">
         <g id="g856" transform="translate(1)" stroke-width="0">
-            <g id="g1002-3" transform="translate(.0020295 .011774)" fill="#3daee9">
+            <g id="g1002-3" transform="translate(.0020295 .011774)" fill="#60abae">
                 <rect id="rect870-6" x="18" y="34" width="22" height="2" ry="1" style="paint-order:normal"/>
                 <path id="path872-3-75" d="m40.029 28.006a4 4 0 0 0-1.5605 0.30469 4 4 0 0 0-2.4688 3.6953h2.0117a1.9892 1.9892 0 0 1 1.2266-1.8379 1.9892 1.9892 0 0 1 2.168 0.43164 1.9892 1.9892 0 0 1 0.43164 2.168 1.9892 1.9892 0 0 1-1.8379 1.2266v2.0117a4 4 0 0 0 3.6953-2.4688 4 4 0 0 0-0.86719-4.3594 4 4 0 0 0-2.7988-1.1719z" style="paint-order:normal"/>
                 <path id="path872-3-3-5" d="m35.999 41.018a4 4 0 0 0-0.30469-1.5605 4 4 0 0 0-3.6953-2.4688v2.0117a1.9892 1.9892 0 0 1 1.8379 1.2266 1.9892 1.9892 0 0 1-0.43164 2.168 1.9892 1.9892 0 0 1-2.168 0.43164 1.9892 1.9892 0 0 1-1.2266-1.8379h-2.0117a4 4 0 0 0 2.4688 3.6953 4 4 0 0 0 4.3594-0.86719 4 4 0 0 0 1.1719-2.7988z" style="paint-order:normal"/>

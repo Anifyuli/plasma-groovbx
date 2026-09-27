@@ -1,15 +1,15 @@
 <svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <linearGradient id="linearGradient882" x1="43.455" x2="43.455" y1="140.15" y2="153.38" gradientTransform="matrix(2.3622 0 0 2.5197 -79.898 -346.48)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#333" offset="0"/>
+            <stop stop-color="#333333" offset="0"/>
             <stop offset="1"/>
         </linearGradient>
         <linearGradient id="linearGradient890" x1="39.486" x2="39.486" y1="140.15" y2="153.38" gradientTransform="matrix(.8 0 0 .8 7.368 28.666)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#333" offset="0"/>
+            <stop stop-color="#333333" offset="0"/>
             <stop offset="1"/>
         </linearGradient>
         <linearGradient id="linearGradient898" x1="48.746" x2="48.746" y1="140.15" y2="153.38" gradientTransform="matrix(.8 0 0 .8 5.9922 28.666)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#333" offset="0"/>
+            <stop stop-color="#333333" offset="0"/>
             <stop offset="1"/>
         </linearGradient>
         <linearGradient id="linearGradient899" x1="42.925" x2="42.925" y1="149.41" y2="151.79" gradientTransform="matrix(1 0 0 .77778 -1.3181e-7 33.203)" gradientUnits="userSpaceOnUse">
@@ -17,12 +17,12 @@
             <stop stop-color="#1a1a1a" offset="1"/>
         </linearGradient>
         <linearGradient id="linearGradient986" x1="41.073" x2="41.073" y1="146.5" y2="147.56" gradientTransform="translate(-2.3584e-6 -.26456)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#520" offset="0"/>
+            <stop stop-color="#4c2409" offset="0"/>
             <stop stop-color="#2b1100" offset="1"/>
         </linearGradient>
         <linearGradient id="linearGradient1024" x1="31.836" x2="31.836" y1="33.044" y2="3.2514" gradientTransform="matrix(.16659 0 0 .18676 36.659 144.08)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#2ca0b9" offset="0"/>
-            <stop stop-color="#87deaa" offset="1"/>
+            <stop stop-color="#4d8b98" offset="0"/>
+            <stop stop-color="#9cc9ae" offset="1"/>
         </linearGradient>
     </defs>
     <g transform="translate(-35.517 -140.68)">

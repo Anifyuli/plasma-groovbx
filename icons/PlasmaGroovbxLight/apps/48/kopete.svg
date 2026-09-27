@@ -5,11 +5,11 @@
    <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="b" y1="44" y2="4" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(-1 0 0 1 432.57 499.8)">
-   <stop stop-color="#2f74c8"/>
-   <stop offset="1" stop-color="#4699d7"/>
+   <stop stop-color="#53a0a4"/>
+   <stop offset="1" stop-color="#5aa8ac"/>
   </linearGradient>
   <linearGradient id="c" y1="522.8" y2="492.8" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(31 10)">
-   <stop stop-color="#7cbaf8"/>
+   <stop stop-color="#90c4c6"/>
    <stop offset="1" stop-color="#f4fcff"/>
   </linearGradient>
  </defs>

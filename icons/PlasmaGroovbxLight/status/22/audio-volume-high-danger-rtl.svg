@@ -3,7 +3,7 @@
             color:#232629;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
     <g class="ColorScheme-NegativeText" transform="matrix(-1,0,0,1,22,0)" fill="currentColor">
         <path d="M 14.324219,7.28125 13.785156,8.1425781 A 4,4 0 0 1 15,11 4,4 0 0 1 13.789062,13.861328 l 0.539063,0.863281 A 5,5 0 0 0 16,11 5,5 0 0 0 14.324219,7.28125 Z"/>

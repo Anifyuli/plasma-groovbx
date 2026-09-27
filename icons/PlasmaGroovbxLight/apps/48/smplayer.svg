@@ -11,8 +11,8 @@
   <linearGradient xlink:href="#b" id="c" y1="518.55" x1="389.07" y2="534.91" x2="428.57" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#b" id="d" y1="546.05" x1="408.86" y2="528.99" x2="406.83" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 1)"/>
   <linearGradient id="e" x1="-1.875" x2="39" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#5da9ad"/>
-   <stop offset="1" stop-color="#69b0b3"/>
+   <stop stop-color="#529fa3"/>
+   <stop offset="1" stop-color="#5aa8ab"/>
   </linearGradient>
   <linearGradient spreadMethod="reflect" xlink:href="#e" id="f" y1="512.45" x1="395.1" y2="541.27" x2="423.91" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#e" id="g" x1="50" x2="9" gradientUnits="userSpaceOnUse" gradientTransform="translate(384.57 500.8)"/>

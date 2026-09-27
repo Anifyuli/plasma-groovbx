@@ -3,7 +3,7 @@
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-Background{
-        color:#E9E8E8;
+        color:#e9e8e8;
       }
       .ColorScheme-ButtonText {
         color:#31363b;

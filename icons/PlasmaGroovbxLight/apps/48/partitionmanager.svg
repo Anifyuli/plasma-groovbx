@@ -19,7 +19,7 @@
     </linearGradient>
     <linearGradient id="g" x1="6" x2="6" y1="58" y2="6" gradientTransform="matrix(.41954831 0 0 .42307393 10.574493 8.318726)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
     <linearGradient id="h" x1="32" x2="32" y1="58" y2="32" gradientTransform="matrix(-.41954831 0 0 .42307393 37.425586 8.318726)" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#a15075" offset="0"/>
+        <stop stop-color="#a54c76" offset="0"/>
         <stop stop-color="#b76e8f" offset="1"/>
     </linearGradient>
     <linearGradient id="i" x1="32" x2="32" y1="58" y2="32" gradientTransform="matrix(.41954831 0 0 .42307393 10.574493 8.318726)" gradientUnits="userSpaceOnUse">

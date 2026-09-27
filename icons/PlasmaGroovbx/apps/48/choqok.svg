@@ -1,12 +1,12 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="44" y2="8.07" x2="0" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#42a603"/>
-   <stop offset="1" stop-color="#78da06"/>
+   <stop stop-color="#4d7633"/>
+   <stop offset="1" stop-color="#76c020"/>
   </linearGradient>
   <linearGradient id="b" y1="519.46" x1="406.13" y2="525.15" x2="416.44" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.27402-.19577.10158 1-166.77 85.12)">
-   <stop stop-color="#ffc35a"/>
-   <stop offset="1" stop-color="#faae2a"/>
+   <stop stop-color="#eabd6f"/>
+   <stop offset="1" stop-color="#e3a841"/>
   </linearGradient>
   <linearGradient id="c" y1="529.48" x1="410.03" y2="538.67" x2="417.08" gradientUnits="userSpaceOnUse">
    <stop/>
@@ -14,12 +14,12 @@
   </linearGradient>
   <linearGradient id="d" y1="511.8" x1="388.57" y2="527.59" x2="400.57" gradientUnits="userSpaceOnUse">
    <stop stop-color="#ffffff"/>
-   <stop offset="1" stop-color="#d9fafd"/>
+   <stop offset="1" stop-color="#e5f0f1"/>
   </linearGradient>
   <linearGradient xlink:href="#d" id="e" y1="507.8" x1="418.57" y2="523.31" x2="430.07" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="f" y1="529.39" x1="417.19" y2="532.27" x2="420.64" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#f39c12"/>
-   <stop offset="1" stop-color="#f5ab35"/>
+   <stop stop-color="#d09420"/>
+   <stop offset="1" stop-color="#e0a533"/>
   </linearGradient>
   <linearGradient xlink:href="#c" id="g" y1="518.99" x1="393.76" y2="525.91" x2="400.69" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#c" id="h" y1="518.8" x1="418.57" y2="525.8" x2="425.57" gradientUnits="userSpaceOnUse"/>
@@ -42,7 +42,7 @@
   </g>
   <g fill-rule="evenodd">
    <path fill="#192629" d="m401.57 529.8c5.99 6.172 13.883 5.86 16.583 2.339 2.701-3.522.68-6.53.68-6.53z"/>
-   <path fill="#da4453" d="m416.02 531.65c-2.06.073-4.539.715-6.829 1.883 3.244.942 5.47.429 7.243-.677.643-.401 1.115-.693 1.269-1.121-.516-.076-1.08-.107-1.683-.085"/>
+   <path fill="#e02e27" d="m416.02 531.65c-2.06.073-4.539.715-6.829 1.883 3.244.942 5.47.429 7.243-.677.643-.401 1.115-.693 1.269-1.121-.516-.076-1.08-.107-1.683-.085"/>
    <path opacity=".2" fill="url(#c)" d="m400.57 529.8l8 8h4l7 6v-6h9v-5l-8-8z"/>
    <path fill="url(#b)" d="m400.57 529.8c0 0 1.432-4.319 8.931-6.267 7.499-1.948 11.07 1.267 11.07 1.267.999 2.908-8.664 7.427-8.664 7.427 0 0-10.699.576-11.334-2.427"/>
    <path fill="url(#i)" d="m428.57 507.8c0-3-4.75-4-4.75-4 0 0-.589 1.268 0 2-2.25-2-4.25-1-4.25-1 0 0 .504 1.312 1.25 2-1.199-.575-2.5 0-2.5 0 0 0 .679 1 1.25 1z"/>

@@ -105,14 +105,14 @@
          offset="0"
          id="stop39396" />
       <stop
-         style="stop-color:#147cdc;stop-opacity:0;"
+         style="stop-color:#5098a0;stop-opacity:0;"
          offset="1"
          id="stop39398" />
     </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css">      .ColorScheme-Accent {
-        color:#3593e6;
+        color:#2fc7d5;
       }</style>
     <linearGradient
        inkscape:collect="always"
@@ -231,13 +231,13 @@
            sodipodi:nodetypes="sscsscsss" />
         <path
            inkscape:connector-curvature="0"
-           style="color:#3593e6;opacity:0.2;fill:url(#linearGradient1011);fill-opacity:1"
+           style="color:#2fc7d5;opacity:0.2;fill:url(#linearGradient1011);fill-opacity:1"
            d="m 9,1038.3622 -2,1 H 1 l -0.08959,1.0011 v 9.5003 c 0,0.2699 0.244354,0.4954 0.491939,0.4954 l 19.010583,0.01 c 0.255387,0.01 0.500065,-0.1978 0.500065,-0.5 l 0.087,-11.5068 z"
            id="path937"
            sodipodi:nodetypes="cccccscccc" />
         <path
            inkscape:connector-curvature="0"
-           style="color:#3593e6;opacity:0.3;fill:url(#linearGradient17980);fill-opacity:1"
+           style="color:#2fc7d5;opacity:0.3;fill:url(#linearGradient17980);fill-opacity:1"
            d="m 9.000003,1038.3622 -2,1 h -6 l -0.08959,1.0011 v 9.5003 c 0,0.2699 0.244354,0.4954 0.491939,0.4954 l 19.010588,0.01 c 0.25538,0.01 0.50006,-0.1978 0.50006,-0.5 L 21,1038.3622 Z"
            id="path941"
            sodipodi:nodetypes="cccccscccc" />

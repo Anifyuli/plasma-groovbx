@@ -7,7 +7,7 @@
   <path id="b" d="m369 312.36v44h58v-44h-18.455z"/>
  </defs>
  <g transform="translate(-366-295.36)">
-  <use fill="#4aa8b1" xlink:href="#b"/>
+  <use fill="#549fa8" xlink:href="#b"/>
   <rect width="58" x="369" y="355.36" fill="#2e3132" height="1" fill-opacity=".294"/>
   <g fill="#ffffff">
    <rect width="58" x="369" y="312.36" height="1" fill-opacity=".41"/>

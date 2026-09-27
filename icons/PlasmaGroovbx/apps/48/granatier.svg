@@ -2,12 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" version="1.1">
  <defs>
   <linearGradient id="linearGradient4283">
-   <stop style="stop-color:#334545;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#344244;stop-opacity:1" offset="0"/>
    <stop style="stop-color:#536161;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient3964">
-   <stop offset="0" style="stop-color:#ffa92d;stop-opacity:1"/>
-   <stop offset="1" style="stop-color:#f74028;stop-opacity:1"/>
+   <stop offset="0" style="stop-color:#e0a534;stop-opacity:1"/>
+   <stop offset="1" style="stop-color:#e4473c;stop-opacity:1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4283" id="linearGradient4290" x1="-43" y1="30" x2="-13" y2="10" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#linearGradient4283" id="linearGradient4298" x1="7.778" y1="33.234" x2="12.567" y2="33.941" gradientUnits="userSpaceOnUse"/>

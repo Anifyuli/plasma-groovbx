@@ -18,7 +18,7 @@
  <rect width="58" x="3" y="10" fill="#ffffff" height="1" fill-opacity=".41"/>
  <path fill="#ececec" d="M32 21A11 11 0 0 0 21 32 11 11 0 0 0 32 43 11 11 0 0 0 43 32 11 11 0 0 0 32 21m.144531.951172a10 10 0 0 1 10 10 10 10 0 0 1 -10 10 10 10 0 0 1 -10 -10 10 10 0 0 1 10 -10"/>
  <g fill-rule="evenodd">
-  <path fill="#edeef8" d="m38 31.462l-10 7.538v-14z"/>
+  <path fill="#eef5f6" d="m38 31.462l-10 7.538v-14z"/>
   <path fill="url(#b)" d="m57 54l-2-2 2-4-2-2 2-4-2-2 2-4-2-2 2-4-2-2 2-4-2-2 2-4-2-2 4-4 2 2v40z"/>
  </g>
  <path fill="url(#c)" d="m5 12v4h4v-4zm50 0v4h4v-4zm-50 6v4h4v-4zm50 0v4h4v-4zm-50 6v4h4v-4zm50 0v4h4v-4zm-50 6v4h4v-4zm50 0v4h4v-4zm-50 6v4h4v-4zm50 0v4h4v-4zm-50 6v4h4v-4zm50 0v4h4v-4zm-50 6v4h4v-4zm50 0v4h4v-4z"/>

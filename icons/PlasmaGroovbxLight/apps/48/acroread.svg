@@ -9,12 +9,12 @@
    <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="c" y1="520.8" y2="503.8" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="translate(-384.57 504.56)">
-   <stop stop-color="#5da9ad"/>
-   <stop offset="1" stop-color="#68afb2"/>
+   <stop stop-color="#529fa3"/>
+   <stop offset="1" stop-color="#59a7ab"/>
   </linearGradient>
   <linearGradient id="d" y1="1050.34" y2="1038.36" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(-2.83522 0 0 2.83875 47.655-1933.28)">
    <stop stop-color="#bf221b"/>
-   <stop offset="1" stop-color="#e02e27"/>
+   <stop offset="1" stop-color="#d4251e"/>
   </linearGradient>
   <linearGradient id="e" y1="543.8" y2="503.8" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1.125 0 0 1-435.64 504.56)">
    <stop stop-color="#1d1e1e"/>

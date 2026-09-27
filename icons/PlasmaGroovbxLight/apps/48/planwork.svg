@@ -9,8 +9,8 @@
    <stop offset="1" stop-color="#f9fafb"/>
   </linearGradient>
   <linearGradient id="c" y1="8" y2="4" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(1)">
-   <stop stop-color="#2f3943"/>
-   <stop offset="1" stop-color="#4d5662"/>
+   <stop stop-color="#264a4c"/>
+   <stop offset="1" stop-color="#4f5f60"/>
   </linearGradient>
   <linearGradient xlink:href="#c" id="d" y1="8" y2="4" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(26)"/>
   <linearGradient id="e" y1="8" x1="8" y2="19" x2="19" gradientUnits="userSpaceOnUse">
@@ -40,20 +40,20 @@
   <path opacity=".2" fill="url(#f)" d="m33 8l11 11v-7l-4-4z"/>
  </g>
  <g stroke-linejoin="bevel" stroke-linecap="round" stroke-width="2">
-  <g fill="#da4453">
+  <g fill="#e02e27">
    <rect width="4" x="16" y="18" height="1"/>
    <rect width="2" x="34" y="30" height="1"/>
    <rect width="1" x="5" y="36" height="1"/>
    <rect width="1" x="7" y="36" height="1"/>
   </g>
-  <g fill="#27ae60">
+  <g fill="#548156">
    <rect width="2" x="16" y="36" height="1"/>
    <rect width="4" x="28" y="24" height="1"/>
    <rect width="4" x="10" y="24" height="1"/>
    <rect width="4" x="16" y="24" height="1"/>
    <rect width="4" x="22" y="24" height="1"/>
   </g>
-  <g fill="#3daefd">
+  <g fill="#6cb1b5">
    <rect width="3" x="34" y="36" height="1"/>
    <rect width="3" x="5" y="30" height="1"/>
    <rect width="3" x="40" y="18" height="1"/>

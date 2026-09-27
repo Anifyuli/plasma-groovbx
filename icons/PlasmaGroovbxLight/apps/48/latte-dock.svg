@@ -28,11 +28,11 @@
        gradientTransform="matrix(1.45455 0 0 1-198.81-31)">
       <stop
          id="stop4390"
-         stop-color="#e8b971"
+         stop-color="#e5b559"
          offset="0" />
       <stop
          id="stop4388"
-         stop-color="#bd8d48"
+         stop-color="#d09420"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -41,11 +41,11 @@
       <stop
          id="stop4164"
          offset="0"
-         style="stop-color:#f3e0c1;stop-opacity:1" />
+         style="stop-color:#e5dfcf;stop-opacity:1" />
       <stop
          id="stop4166"
          offset="1"
-         style="stop-color:#fff7eb;stop-opacity:1" />
+         style="stop-color:#f8f6f2;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -185,22 +185,22 @@
        id="rect4169" />
     <path
        inkscape:connector-curvature="0"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Tangerine;-inkscape-font-specification:'Tangerine Bold';letter-spacing:0px;word-spacing:0px;fill:#eddbbc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Tangerine;-inkscape-font-specification:'Tangerine Bold';letter-spacing:0px;word-spacing:0px;fill:#e1dac7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 18,1039.3622 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
        id="path4162" />
     <path
        inkscape:connector-curvature="0"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Tangerine;-inkscape-font-specification:'Tangerine Bold';letter-spacing:0px;word-spacing:0px;fill:#eddbbc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Tangerine;-inkscape-font-specification:'Tangerine Bold';letter-spacing:0px;word-spacing:0px;fill:#e1dac7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 30,1039.3622 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
        id="path4160" />
     <path
        inkscape:connector-curvature="0"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Tangerine;-inkscape-font-specification:'Tangerine Bold';letter-spacing:0px;word-spacing:0px;fill:#eddbbc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:medium;line-height:125%;font-family:Tangerine;-inkscape-font-specification:'Tangerine Bold';letter-spacing:0px;word-spacing:0px;fill:#e1dac7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 24,1041.3622 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
        id="path4159" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#a37836;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#bc911c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 43.978516,1027.7802 A 20,20 0 0 1 24,1047.3622 20,20 0 0 1 4.0214844,1027.9442 20,20 0 0 0 4,1028.3622 a 20,20 0 0 0 20,20 20,20 0 0 0 20,-20 20,20 0 0 0 -0.02148,-0.582 z"
        id="circle4147" />
     <path

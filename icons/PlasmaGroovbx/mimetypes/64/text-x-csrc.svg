@@ -5,14 +5,14 @@
             <stop offset="1" stop-opacity="0"/>
         </linearGradient>
         <linearGradient id="c" gradientTransform="translate(264 982)" gradientUnits="userSpaceOnUse" x2="0" y1="392.36" y2="336.36">
-            <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-            <stop offset="1" stop-color="#fff" stop-opacity=".2"/>
+            <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#ffffff" stop-opacity=".2"/>
         </linearGradient>
         <path id="a" d="M322 1375.36v-58h30l14 14v44h-14z"/>
     </defs>
     <g transform="translate(-312 -1314.36)">
-        <use fill="#1fc7d6" height="100%" width="100%" xlink:href="#a"/>
-        <path d="M322 1318.36h30v-1h-30z" fill="#fff" opacity=".5"/>
+        <use fill="#529aa2" height="100%" width="100%" xlink:href="#a"/>
+        <path d="M322 1318.36h30v-1h-30z" fill="#ffffff" opacity=".5"/>
         <path d="M322 1375.36h44v-1h-44z" opacity=".25"/>
     </g>
     <g fill-rule="evenodd">

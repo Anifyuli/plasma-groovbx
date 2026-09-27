@@ -11,7 +11,7 @@
   <path id="c" d="m32 35v-58h30l14 14v44h-14z"/>
  </defs>
  <g transform="translate(-22 26)">
-  <use fill="#c63532" xlink:href="#c"/>
+  <use fill="#da2a1e" xlink:href="#c"/>
   <g color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000" transform="scale(1-1)">
    <rect opacity=".5" x="32" y="22" width="30" fill="#ffffff" height="1"/>
    <rect opacity=".25" x="32" y="-35" width="44" height="1"/>

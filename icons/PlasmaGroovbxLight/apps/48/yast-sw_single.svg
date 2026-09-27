@@ -52,11 +52,11 @@
      id="a">
     <stop
        offset="0"
-       stop-color="#f49150"
+       stop-color="#f28138"
        id="stop2" />
     <stop
        offset="1"
-       stop-color="#ebc47a"
+       stop-color="#e7b961"
        id="stop4" />
   </linearGradient>
   <linearGradient
@@ -102,11 +102,11 @@
      y2="503.801">
     <stop
        offset="0"
-       stop-color="#efd196"
+       stop-color="#ebc57b"
        id="stop11" />
     <stop
        offset="1"
-       stop-color="#f6e6c6"
+       stop-color="#f1d8a7"
        stop-opacity="0"
        id="stop13" />
   </linearGradient>
@@ -143,11 +143,11 @@
      y2="512.8">
     <stop
        offset="0"
-       stop-color="#bebd21"
+       stop-color="#b5c020"
        id="stop22" />
     <stop
        offset="1"
-       stop-color="#d7d625"
+       stop-color="#ccd725"
        stop-opacity=".85"
        id="stop24" />
   </linearGradient>
@@ -185,11 +185,11 @@
      y2="504.698">
     <stop
        offset="0"
-       stop-color="#efd196"
+       stop-color="#ebc57b"
        id="stop33" />
     <stop
        offset="1"
-       stop-color="#bebd21"
+       stop-color="#b5c020"
        stop-opacity="0"
        id="stop35" />
   </linearGradient>
@@ -212,7 +212,7 @@
      id="path44" />
   <path
      d="M21 4v14l1-1 1 1 1-1 1 1 1-1 1 1V4z"
-     fill="#f6e6c6"
+     fill="#f1d8a7"
      id="path46" />
   <path
      d="M21 4h6v9h-6z"
@@ -224,7 +224,7 @@
      id="path50" />
   <path
      d="M4 43h40v1H4z"
-     fill="#f06d18"
+     fill="#e4630f"
      id="path52" />
   <path
      d="M36 24l8 8v12H30l-4-4 1-2 1 1h6l-1-1 2-3-5-5v-6z"

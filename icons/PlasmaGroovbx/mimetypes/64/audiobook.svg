@@ -7,7 +7,7 @@
   <path color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" id="b" color-interpolation="sRGB" color="#000000" d="m542 417.36v58h44v-58h-14z"/>
  </defs>
  <g transform="translate(-532-414.36)">
-  <use fill="#e5b546" xlink:href="#b"/>
+  <use fill="#e4ba48" xlink:href="#b"/>
   <g color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000">
    <rect opacity=".25" x="542" y="474.36" width="44" height="1"/>
    <rect opacity=".5" x="542" y="417.36" width="44" fill="#ffffff" height="1"/>

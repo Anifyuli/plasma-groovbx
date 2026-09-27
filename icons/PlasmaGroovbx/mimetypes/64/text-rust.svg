@@ -13,7 +13,7 @@
     </linearGradient>
     <path d="m10 61v-58h30l14 14v44h-14z" fill="url(#a)"/>
     <g transform="scale(1 -1)">
-        <path d="m10-4h30v1h-30z" fill="#fff" fill-opacity=".412"/>
+        <path d="m10-4h30v1h-30z" fill="#ffffff" fill-opacity=".412"/>
         <path d="m10-61h44v1h-44z" fill="#2e3132" fill-opacity=".294"/>
     </g>
     <g fill-rule="evenodd">

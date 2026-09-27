@@ -70,10 +70,10 @@
        y1="537.6"
        id="d">
       <stop
-         stop-color="#ffc35a"
+         stop-color="#eabd6f"
          id="stop3" />
       <stop
-         stop-color="#faae2a"
+         stop-color="#e3a841"
          offset="1"
          id="stop5" />
     </linearGradient>
@@ -86,10 +86,10 @@
        y1="535.36"
        id="f">
       <stop
-         stop-color="#fdbc4b"
+         stop-color="#e7b661"
          id="stop8" />
       <stop
-         stop-color="#dde341"
+         stop-color="#dadf45"
          offset="1"
          id="stop10" />
     </linearGradient>
@@ -103,7 +103,7 @@
        gradientTransform="translate(10.66882,-5.018895)"
        xlink:href="#f">
       <stop
-         stop-color="#383e51"
+         stop-color="#3a4d4f"
          id="stop13" />
       <stop
          offset="1"
@@ -147,17 +147,17 @@
   </defs>
   <path
      d="m 18,32 6,6 -6,6 -6,-6 z"
-     fill="#1b89f3"
+     fill="#5f88af"
      id="path32"
      style="stroke-width:0.857143" />
   <path
      d="m 32,18 6,6 -6,6 -6,-6 z"
-     fill="#63c605"
+     fill="#64ae1d"
      id="path34"
      style="stroke-width:0.857143" />
   <path
      d="m 18,4 6,6 -6,6 -6,-6 z"
-     fill="#fa8865"
+     fill="#ee8f71"
      id="path36"
      style="stroke-width:0.857143" />
   <path

@@ -3,10 +3,10 @@
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-PositiveText {
-        color:#27ae60;
+        color:#548156;
       }
       </style>
   </defs>
@@ -17,5 +17,5 @@
         />
 <path d="M11.5 9A2.5 2.5 0 0 0 9 11.5 2.5 2.5 0 0 0 9.416016 12.876953L10.148 12.145A1.5 1.5 0 0 1 10 11.5 1.5 1.5 0 0 1 11.5 10 1.5 1.5 0 0 1 12.144531 10.148438L12.877 9.416A2.5 2.5 0 0 0 11.5 9M13.584 10.123L12.852 10.855A1.5 1.5 0 0 1 13 11.5 1.5 1.5 0 0 1 11.5 13 1.5 1.5 0 0 1 10.855469 12.851562L10.123 13.584A2.5 2.5 0 0 0 11.5 14 2.5 2.5 0 0 0 14 11.5 2.5 2.5 0 0 0 13.583984 10.123047"   style="fill:currentColor;fill-opacity:1;stroke:none" 
      class="ColorScheme-PositiveText"
-   tyle="fill:#2ecc71;fill-rule:evenodd"/>
+   tyle="fill:#58a35d;fill-rule:evenodd"/>
 </svg>

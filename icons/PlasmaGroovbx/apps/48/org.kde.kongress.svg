@@ -15,11 +15,11 @@
        gradientTransform="matrix(0.26458333,0,0,0.25828372,-3e-6,-64.293749)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#2c3e50"
+         stop-color="#2a5052"
          offset="0"
          id="stop2" />
       <stop
-         stop-color="#34495e"
+         stop-color="#315f61"
          offset="1"
          id="stop4" />
     </linearGradient>
@@ -31,11 +31,11 @@
        gradientTransform="matrix(-5.2976991e-4,0.531144,-0.55567627,-5.5424122e-4,12.427566,-89.894258)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#17222d"
+         stop-color="#142230"
          offset="0"
          id="stop7" />
       <stop
-         stop-color="#17222d"
+         stop-color="#142230"
          stop-opacity="0"
          offset="1"
          id="stop9" />
@@ -49,11 +49,11 @@
        gradientTransform="matrix(0.06614554,0,0,0.06614561,-0.2645458,-6.6145542)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#deeff8"
+         stop-color="#e5edf1"
          offset="0"
          id="stop12" />
       <stop
-         stop-color="#c0e2f4"
+         stop-color="#cfdde5"
          offset="1"
          id="stop14" />
     </linearGradient>
@@ -66,11 +66,11 @@
        gradientTransform="matrix(0.05953106,0,0,0.05953103,0.39688342,-5.4730934)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#eef6fa"
+         stop-color="#f1f5f7"
          offset="0"
          id="stop17" />
       <stop
-         stop-color="#b0dbf2"
+         stop-color="#c3d5df"
          offset="1"
          id="stop19" />
     </linearGradient>
@@ -83,18 +83,18 @@
        gradientTransform="matrix(0.01591008,0,0,0.01555658,0.04536116,0.61733967)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#f39c1f"
+         stop-color="#e09932"
          offset="0"
          id="stop27" />
       <stop
-         stop-color="#fdbc4b"
+         stop-color="#e7b661"
          offset="1"
          id="stop29" />
     </linearGradient>
   </defs>
   <rect
      id="rect36"
-     style="fill:#17222d;stroke-width:0.26458332;paint-order:markers fill stroke"
+     style="fill:#142230;stroke-width:0.26458332;paint-order:markers fill stroke"
      ry="1.8"
      height="10.6"
      width="10.6"

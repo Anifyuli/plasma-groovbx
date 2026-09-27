@@ -4,16 +4,16 @@
     <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="b">
-    <stop offset="0" stop-color="#18222a"/>
+    <stop offset="0" stop-color="#162b2c"/>
     <stop offset="1" stop-color="#566069"/>
   </linearGradient>
   <linearGradient id="c">
-    <stop offset="0" stop-color="#2f3943"/>
-    <stop offset="1" stop-color="#4d5662"/>
+    <stop offset="0" stop-color="#264a4c"/>
+    <stop offset="1" stop-color="#4f5f60"/>
   </linearGradient>
   <linearGradient id="d" gradientTransform="matrix(.37499785 0 0 .37499998 -142.21407 -182.42439)" gradientUnits="userSpaceOnUse" x1="432.57199" x2="432.57199" y1="531.79797" y2="507.798">
     <stop offset="0" stop-color="#c6cdd1"/>
-    <stop offset="1" stop-color="#e0e5e7"/>
+    <stop offset="1" stop-color="#ccd5d6"/>
   </linearGradient>
   <linearGradient id="e" gradientTransform="matrix(.388892 0 0 .71428751 -147.8888 -358.71251)" gradientUnits="userSpaceOnUse" x1="426.57101" x2="426.57101" xlink:href="#b" y1="514.79797" y2="511.298"/>
   <linearGradient id="f" gradientTransform="matrix(.375 0 0 .58333335 -142.214 -294.21512)" gradientUnits="userSpaceOnUse" x1="403.23801" x2="403.23801" y1="519.79797" y2="507.798">
@@ -22,11 +22,11 @@
   </linearGradient>
   <linearGradient id="g" gradientTransform="matrix(.38888818 0 0 .28571508 -147.88855 -135.51404)" gradientUnits="userSpaceOnUse" x1="426.57101" x2="426.57101" xlink:href="#b" y1="533.79797" y2="539.04797"/>
   <linearGradient id="h" gradientTransform="matrix(.40178334 0 0 .25000007 -153.15778 -116.44904)" gradientUnits="userSpaceOnUse" x1="396.12701" x2="421.01599" y1="539.79797" y2="539.79797">
-    <stop offset="0" stop-color="#e74c3c"/>
-    <stop offset=".25" stop-color="#f39c1f"/>
-    <stop offset=".5" stop-color="#11d116"/>
-    <stop offset=".75" stop-color="#3498db"/>
-    <stop offset="1" stop-color="#9b59b6"/>
+    <stop offset="0" stop-color="#e1322a"/>
+    <stop offset=".25" stop-color="#e09932"/>
+    <stop offset=".5" stop-color="#59895b"/>
+    <stop offset=".75" stop-color="#608faf"/>
+    <stop offset="1" stop-color="#a6537a"/>
   </linearGradient>
   <linearGradient id="i" gradientTransform="matrix(.35713295 0 0 .32141709 -135.55623 -154.78662)" gradientUnits="userSpaceOnUse" x1="393.56836" x2="401.9686" xlink:href="#a" y1="534.46637" y2="543.80005"/>
   <linearGradient id="j" gradientTransform="matrix(.59999998 0 0 .88888887 -224.54259 -462.82043)" gradientUnits="userSpaceOnUse" x1="402.57098" x2="382.57101" xlink:href="#c" y1="537.54797" y2="530.79797"/>

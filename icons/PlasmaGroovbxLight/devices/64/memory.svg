@@ -4,8 +4,8 @@
 <svg width="64" version="1.1" xmlns="http://www.w3.org/2000/svg" height="64" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <defs id="defs5455">
   <linearGradient inkscape:collect="always" id="linearGradient4251-0">
-   <stop style="stop-color:#519258" id="stop4253-4"/>
-   <stop offset="1" style="stop-color:#6db475" id="stop4255-2"/>
+   <stop style="stop-color:#4f9457" id="stop4253-4"/>
+   <stop offset="1" style="stop-color:#6fb277" id="stop4255-2"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4159">
    <stop style="stop-color:#2a2c2f" id="stop4161"/>
@@ -42,13 +42,13 @@
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4259);opacity:0.2;fill-rule:evenodd" id="path4257" d="m 422.57144,507.79797 -6,8 5,5 13,0 0,-1 -12,-12 z"/>
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4263);opacity:0.2;fill-rule:evenodd" id="path4261" d="m 430.57144,507.79797 -6,8 5,5 5,0 0,-9 -4,-4 z"/>
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4184);opacity:0.2;fill-rule:evenodd" id="path4181" d="m 408.57144,515.79797 6,-8 13,13 -13,0 -2,0 1,0 z"/>
-  <rect width="52" x="382.57144" y="519.79773" height="1" style="fill:#d1d35d" id="rect4293"/>
+  <rect width="52" x="382.57144" y="519.79773" height="1" style="fill:#dfe14f" id="rect4293"/>
   <rect width="6" x="424.57144" y="507.79803" height="7.999999" style="fill:url(#linearGradient4183)" id="rect4175"/>
-  <path inkscape:connector-curvature="0" style="fill:#d3d565;opacity:0.6" id="rect4193" d="m 431.57144,507.79797 0,1 1,0 0,-1 -1,0 z m 1,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m -1,0 -1,0 0,1 1,0 0,-1 z m -1,1 -1,0 0,1 1,0 0,-1 z m -1,0 0,-1 -1,0 0,1 1,0 z m -1,0 -1,0 0,1 1,0 0,-1 z m -1,0 0,-1 -1,0 0,1 1,0 z"/>
+  <path inkscape:connector-curvature="0" style="fill:#e0e357;opacity:0.6" id="rect4193" d="m 431.57144,507.79797 0,1 1,0 0,-1 -1,0 z m 1,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m -1,0 -1,0 0,1 1,0 0,-1 z m -1,1 -1,0 0,1 1,0 0,-1 z m -1,0 0,-1 -1,0 0,1 1,0 z m -1,0 -1,0 0,1 1,0 0,-1 z m -1,0 0,-1 -1,0 0,1 1,0 z"/>
   <rect width="19" x="385.57144" y="508.79797" height="7" style="fill:url(#linearGradient4455)" id="rect4277"/>
   <rect width="6" x="416.57144" y="507.79803" height="7.999999" style="fill:url(#linearGradient4281)" id="rect4279"/>
   <rect width="6" x="408.57144" y="507.79803" height="7.999999" style="fill:url(#linearGradient4324)" id="rect4322"/>
-  <rect width="8" x="386.57144" y="509.79797" height="1" style="fill:#e65552" id="rect4457"/>
+  <rect width="8" x="386.57144" y="509.79797" height="1" style="fill:#e75451" id="rect4457"/>
   <rect width="2.999998" x="386.57144" y="511.79797" height="0.999996" style="fill:#35383b" id="rect4459"/>
   <rect width="3.999998" x="390.57144" y="511.79797" height="0.999996" style="fill:#35383b" id="rect4461"/>
   <path inkscape:connector-curvature="0" style="fill:#35383b" id="rect4463" d="m 390.57144,513.79797 0,1 -1,0 0,1 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,0 0,-1 -1,0 0,-1 -1,0 0,1 -1,0 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 z"/>
@@ -56,13 +56,13 @@
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4306);opacity:0.2;fill-rule:evenodd" id="path4277" d="m 422.57144,529.79797 -6,8 5,5 13,0 0,-1 -12,-12 z"/>
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4308);opacity:0.2;fill-rule:evenodd" id="path4279" d="m 430.57144,529.79797 -6,8 5,5 5,0 0,-9 -4,-4 z"/>
   <path inkscape:connector-curvature="0" style="fill:url(#linearGradient4310);opacity:0.2;fill-rule:evenodd" id="path4281" d="m 408.57144,537.79797 6,-8 13,13 -13,0 -2,0 1,0 z"/>
-  <rect width="52" x="382.57144" y="541.79773" height="1" style="fill:#d1d35d" id="rect4284"/>
+  <rect width="52" x="382.57144" y="541.79773" height="1" style="fill:#dfe14f" id="rect4284"/>
   <rect width="6" x="424.57144" y="529.79803" height="7.999999" style="fill:url(#linearGradient4312)" id="rect4286"/>
-  <path inkscape:connector-curvature="0" style="fill:#d3d565;opacity:0.6" id="path4288" d="m 431.57144,529.79797 0,1 1,0 0,-1 -1,0 z m 1,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m -1,0 -1,0 0,1 1,0 0,-1 z m -1,1 -1,0 0,1 1,0 0,-1 z m -1,0 0,-1 -1,0 0,1 1,0 z m -1,0 -1,0 0,1 1,0 0,-1 z m -1,0 0,-1 -1,0 0,1 1,0 z"/>
+  <path inkscape:connector-curvature="0" style="fill:#e0e357;opacity:0.6" id="path4288" d="m 431.57144,529.79797 0,1 1,0 0,-1 -1,0 z m 1,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 0,1 -1,0 0,1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m -1,0 -1,0 0,1 1,0 0,-1 z m -1,1 -1,0 0,1 1,0 0,-1 z m -1,0 0,-1 -1,0 0,1 1,0 z m -1,0 -1,0 0,1 1,0 0,-1 z m -1,0 0,-1 -1,0 0,1 1,0 z"/>
   <rect width="19" x="385.57144" y="530.79797" height="7" style="fill:url(#linearGradient4314)" id="rect4290"/>
   <rect width="6" x="416.57144" y="529.79803" height="7.999999" style="fill:url(#linearGradient4316)" id="rect4292"/>
   <rect width="6" x="408.57144" y="529.79803" height="7.999999" style="fill:url(#linearGradient4318)" id="rect4294"/>
-  <rect width="8" x="386.57144" y="531.79797" height="1" style="fill:#e65552" id="rect4296"/>
+  <rect width="8" x="386.57144" y="531.79797" height="1" style="fill:#e75451" id="rect4296"/>
   <rect width="2.999998" x="386.57144" y="533.79797" height="0.999996" style="fill:#35383b" id="rect4298"/>
   <rect width="3.999998" x="390.57144" y="533.79797" height="0.999996" style="fill:#35383b" id="rect4300"/>
   <path inkscape:connector-curvature="0" style="fill:#35383b" id="path4302" d="m 390.57144,535.79797 0,1 -1,0 0,1 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,0 1,0 0,-1 -1,0 0,-1 -1,0 0,1 -1,0 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 z"/>

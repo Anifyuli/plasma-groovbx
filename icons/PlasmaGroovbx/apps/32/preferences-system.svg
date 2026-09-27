@@ -15,7 +15,7 @@
     <style
        id="current-color-scheme"
        type="text/css">      .ColorScheme-Accent {
-        color:#3593e6;
+        color:#2fc7d5;
       }</style>
   </defs>
   <sodipodi:namedview
@@ -44,11 +44,11 @@
      y2="18">
     <stop
        offset="0"
-       stop-color="#fff"
+       stop-color="#ffffff"
        id="stop2" />
     <stop
        offset="1"
-       stop-color="#fff"
+       stop-color="#ffffff"
        stop-opacity="0"
        id="stop4" />
   </linearGradient>
@@ -135,7 +135,7 @@
      id="path34" />
   <path
      d="M2 4V3c0-.554.446-1 1-1h26c.554 0 1 .446 1 1v1c0-.554-.446-1-1-1H3c-.554 0-1 .446-1 1z"
-     fill="#fff"
+     fill="#ffffff"
      opacity=".3"
      id="path36" />
 </svg>

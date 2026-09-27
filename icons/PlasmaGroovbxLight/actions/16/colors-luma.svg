@@ -21,19 +21,19 @@
       <stop
          id="stop4014"
          offset="0"
-         style="stop-color:#1d99f3;stop-opacity:1" />
+         style="stop-color:#54a2a6;stop-opacity:1" />
       <stop
-         style="stop-color:#48acf5;stop-opacity:0.76119405"
+         style="stop-color:#7eb8be;stop-opacity:0.76119405"
          offset="0.41666669"
          id="stop4016" />
       <stop
-         style="stop-color:#73c0f7;stop-opacity:0"
+         style="stop-color:#9fc7cb;stop-opacity:0"
          offset="0.66666329"
          id="stop4018" />
       <stop
          id="stop4020"
          offset="1"
-         style="stop-color:#cae7fc;stop-opacity:0" />
+         style="stop-color:#dbeaeb;stop-opacity:0" />
     </linearGradient>
   </defs>
   <path

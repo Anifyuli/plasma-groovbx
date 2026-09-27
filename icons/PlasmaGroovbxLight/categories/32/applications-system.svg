@@ -16,56 +16,56 @@
   <path fill="url(#l)" fill-rule="evenodd" d="M16 24a8 8 0 1 0 0-16 8 8 0 0 0 0 16m0-4a4 4 0 1 0 0-8 4 4 0 0 0 0 8" clip-rule="evenodd"/>
   <defs>
     <linearGradient id="b" x1="14.786" x2="23.5" y1="4" y2="12.714" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#CED9DC"/>
-      <stop offset="1" stop-color="#CED9DC" stop-opacity="0"/>
+      <stop stop-color="#ced9dc"/>
+      <stop offset="1" stop-color="#ced9dc" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="c" x1="14.786" x2="23.5" y1="4" y2="12.714" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#CED9DC"/>
-      <stop offset="1" stop-color="#CED9DC" stop-opacity="0"/>
+      <stop stop-color="#ced9dc"/>
+      <stop offset="1" stop-color="#ced9dc" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="d" x1="14.786" x2="23.5" y1="4" y2="12.714" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#CED9DC"/>
-      <stop offset="1" stop-color="#CED9DC" stop-opacity="0"/>
+      <stop stop-color="#ced9dc"/>
+      <stop offset="1" stop-color="#ced9dc" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="e" x1="14.786" x2="23.5" y1="4" y2="12.714" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#CED9DC"/>
-      <stop offset="1" stop-color="#CED9DC" stop-opacity="0"/>
+      <stop stop-color="#ced9dc"/>
+      <stop offset="1" stop-color="#ced9dc" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="f" x1="14.786" x2="23.5" y1="4" y2="12.714" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#CED9DC"/>
-      <stop offset="1" stop-color="#CED9DC" stop-opacity="0"/>
+      <stop stop-color="#ced9dc"/>
+      <stop offset="1" stop-color="#ced9dc" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="g" x1="16" x2="28" y1="16" y2="28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4C5B64"/>
-      <stop offset="1" stop-color="#5A6B75"/>
+      <stop stop-color="#4c5b64"/>
+      <stop offset="1" stop-color="#5a6b75"/>
     </linearGradient>
     <linearGradient id="h" x1="16" x2="28" y1="16" y2="28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4C5B64"/>
-      <stop offset="1" stop-color="#5A6B75"/>
+      <stop stop-color="#4c5b64"/>
+      <stop offset="1" stop-color="#5a6b75"/>
     </linearGradient>
     <linearGradient id="i" x1="16" x2="28" y1="16" y2="28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4C5B64"/>
-      <stop offset="1" stop-color="#5A6B75"/>
+      <stop stop-color="#4c5b64"/>
+      <stop offset="1" stop-color="#5a6b75"/>
     </linearGradient>
     <linearGradient id="j" x1="16" x2="28" y1="16" y2="28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4C5B64"/>
-      <stop offset="1" stop-color="#5A6B75"/>
+      <stop stop-color="#4c5b64"/>
+      <stop offset="1" stop-color="#5a6b75"/>
     </linearGradient>
     <linearGradient id="k" x1="16" x2="28" y1="16" y2="28" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#4C5B64"/>
-      <stop offset="1" stop-color="#5A6B75"/>
+      <stop stop-color="#4c5b64"/>
+      <stop offset="1" stop-color="#5a6b75"/>
     </linearGradient>
     <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(-135 22.627 9.373)scale(36.7696 28.3053)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5C6772"/>
-      <stop offset=".584" stop-color="#6A7A84"/>
-      <stop offset=".756" stop-color="#909DA6"/>
-      <stop offset="1" stop-color="#B2BFBF"/>
+      <stop stop-color="#5c6772"/>
+      <stop offset=".584" stop-color="#6a7a84"/>
+      <stop offset=".756" stop-color="#909da6"/>
+      <stop offset="1" stop-color="#b2bfbf"/>
     </radialGradient>
     <radialGradient id="l" cx="0" cy="0" r="1" gradientTransform="matrix(-24.99997 -24.99997 19.2451 -19.2451 31.999 32)" gradientUnits="userSpaceOnUse">
       <stop offset=".44" stop-color="#647681"/>
       <stop offset=".5" stop-color="#687781"/>
-      <stop offset=".606" stop-color="#909DA6"/>
-      <stop offset=".908" stop-color="#D9E7E8"/>
+      <stop offset=".606" stop-color="#909da6"/>
+      <stop offset=".908" stop-color="#d9e7e8"/>
     </radialGradient>
   </defs>
 </svg>

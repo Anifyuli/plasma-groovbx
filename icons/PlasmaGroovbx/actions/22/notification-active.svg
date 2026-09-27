@@ -3,7 +3,7 @@
     <style type="text/css" id="current-color-scheme">
         .ColorScheme-Text { color: #f9f5d7; }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }
     </style>
     <g id="notification-active" transform="translate(-1 39) translate(0,-40)">

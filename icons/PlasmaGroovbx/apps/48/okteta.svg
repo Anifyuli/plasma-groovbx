@@ -1,8 +1,8 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="44" y2="4" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="translate(0 1004.36)">
-   <stop stop-color="#63984b"/>
-   <stop offset="1" stop-color="#8fc278"/>
+   <stop stop-color="#598a5b"/>
+   <stop offset="1" stop-color="#79a87b"/>
   </linearGradient>
   <linearGradient id="b" y1="11" x1="17" y2="41" gradientUnits="userSpaceOnUse" x2="44" gradientTransform="translate(0 1004.36)">
    <stop/>
@@ -20,15 +20,15 @@
  </defs>
  <g transform="translate(0-1004.36)">
   <g fill-rule="evenodd">
-   <path fill="#dce269" d="m4 1008.36v9l3 2-3 2v27h40v-40z"/>
+   <path fill="#e1e04f" d="m4 1008.36v9l3 2-3 2v27h40v-40z"/>
    <path fill="url(#a)" d="m4 1008.36v8l3 2-3 2v27h40v-39z"/>
   </g>
-  <g fill="#dee372" color="#000000">
+  <g fill="#dee66e" color="#000000">
    <path opacity=".6" d="m9 1044.36v1h1v-1zm1 1v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1z"/>
    <path opacity=".6" d="m35 1044.36v1h1v-1zm1 1v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 0h1v-1h-1zm-4 0h-1v1h1z"/>
   </g>
-  <path fill="#e6ea97" fill-rule="evenodd" d="m43 1044.36l-2 2h2z"/>
-  <path opacity=".6" fill="#dee372" color="#000000" d="m42 1013.36v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1z"/>
+  <path fill="#e8e77a" fill-rule="evenodd" d="m43 1044.36l-2 2h2z"/>
+  <path opacity=".6" fill="#dee66e" color="#000000" d="m42 1013.36v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1zm0 1v1h1v-1zm0 1h-1v1h1z"/>
   <g fill-rule="evenodd">
    <path opacity=".2" fill="url(#b)" d="m40 1012.36v31h-32l4.584 5h31.416v-32z"/>
    <rect width="32" x="8" y="1012.36" fill="url(#c)" height="31"/>

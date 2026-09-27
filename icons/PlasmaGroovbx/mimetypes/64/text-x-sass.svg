@@ -94,16 +94,16 @@
      color-interpolation="sRGB"
      color="#000000"
      id="g17"
-     style="fill:#bd5c8a;fill-opacity:1">
+     style="fill:#b2678b;fill-opacity:1">
     <use
-       fill="#e5b546"
+       fill="#e4b447"
        xlink:href="#c"
        id="use19"
-       style="fill:#bd5c8a;fill-opacity:1" />
+       style="fill:#b2678b;fill-opacity:1" />
     <g
        transform="scale(1-1)"
        id="g21"
-       style="fill:#bd5c8a;fill-opacity:1">
+       style="fill:#b2678b;fill-opacity:1">
       <rect
          opacity=".5"
          x="10"
@@ -112,7 +112,7 @@
          fill="#ffffff"
          height="1"
          id="rect23"
-         style="fill:#bd5c8a;fill-opacity:1" />
+         style="fill:#b2678b;fill-opacity:1" />
       <rect
          opacity=".25"
          x="10"
@@ -120,7 +120,7 @@
          width="44"
          height="1"
          id="rect25"
-         style="fill:#bd5c8a;fill-opacity:1" />
+         style="fill:#b2678b;fill-opacity:1" />
     </g>
   </g>
   <path

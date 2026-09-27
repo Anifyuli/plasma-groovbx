@@ -16,7 +16,7 @@
     <g transform="translate(-384.57-515.8)">
         <path d="m389.57 545.8v-28h15l7 7v21h-7z" fill="url(#c)"/>
         <g transform="scale(1-1)">
-            <rect x="389.57" y="-518.8" width="15" height="1" fill="#fff" fill-opacity=".412"/>
+            <rect x="389.57" y="-518.8" width="15" height="1" fill="#ffffff" fill-opacity=".412"/>
             <rect x="389.57" y="-545.8" width="22" height="1" fill="#2e3132" fill-opacity=".294"/>
         </g>
     </g>

@@ -39,7 +39,7 @@
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -152,7 +152,7 @@
        y="994.36212"
        id="rect6564-3-0" />
     <rect
-       style="fill:#3daee9"
+       style="fill:#60abae"
        width="51.999939"
        height="1"
        x="6"

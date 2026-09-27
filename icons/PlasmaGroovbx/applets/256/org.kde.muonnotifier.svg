@@ -54,7 +54,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-ButtonText {
@@ -74,11 +74,11 @@
        inkscape:collect="always"
        id="linearGradient4143">
       <stop
-         style="stop-color:#197cf1;stop-opacity:1"
+         style="stop-color:#529fa3;stop-opacity:1"
          offset="0"
          id="stop4145" />
       <stop
-         style="stop-color:#20bcfa;stop-opacity:1"
+         style="stop-color:#59a7ab;stop-opacity:1"
          offset="1"
          id="stop4147" />
     </linearGradient>
@@ -172,7 +172,7 @@
       <stop
          id="stop4307-6-6"
          offset="1"
-         style="stop-color:#e0e5e7;stop-opacity:1" />
+         style="stop-color:#ccd5d6;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -198,7 +198,7 @@
       <stop
          id="stop4292"
          offset="0"
-         style="stop-color:#7cbaf8;stop-opacity:1" />
+         style="stop-color:#90c4c6;stop-opacity:1" />
       <stop
          id="stop4294"
          offset="1"
@@ -247,11 +247,11 @@
       <stop
          id="stop4437"
          offset="0"
-         style="stop-color:#c61423;stop-opacity:1" />
+         style="stop-color:#bf221b;stop-opacity:1" />
       <stop
          id="stop4439"
          offset="1"
-         style="stop-color:#dc2b41;stop-opacity:1" />
+         style="stop-color:#d4251e;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -290,11 +290,11 @@
       <stop
          id="stop4154-5-0"
          offset="0"
-         style="stop-color:#bd8d48;stop-opacity:1" />
+         style="stop-color:#d09420;stop-opacity:1" />
       <stop
          id="stop4156-1-7"
          offset="1"
-         style="stop-color:#e8b971;stop-opacity:1" />
+         style="stop-color:#e5b559;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -334,11 +334,11 @@
       <stop
          id="stop4275-6-6-5"
          offset="0"
-         style="stop-color:#e3dfd6;stop-opacity:1" />
+         style="stop-color:#f1d7a5;stop-opacity:1" />
       <stop
          id="stop4277-8-5"
          offset="1"
-         style="stop-color:#f4f1e8;stop-opacity:1" />
+         style="stop-color:#f5e3c1;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -356,7 +356,7 @@
       <stop
          id="stop4412-2-2"
          offset="0"
-         style="stop-color:#383e51;stop-opacity:1" />
+         style="stop-color:#3a4d4f;stop-opacity:1" />
       <stop
          id="stop4414-5-4"
          offset="1"
@@ -418,11 +418,11 @@
        inkscape:collect="always"
        id="linearGradient4298-8-0">
       <stop
-         style="stop-color:#42a603;stop-opacity:1"
+         style="stop-color:#4d7633;stop-opacity:1"
          offset="0"
          id="stop4300-4" />
       <stop
-         style="stop-color:#78da06;stop-opacity:1"
+         style="stop-color:#76c020;stop-opacity:1"
          offset="1"
          id="stop4302-9-9" />
     </linearGradient>
@@ -487,7 +487,7 @@
      style="opacity:0.2;fill:#232629;fill-opacity:1;stroke:none" />
   <rect
      class="ColorScheme-Background"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#60abae;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect10242"
      width="19.684334"
      height="19.684334"
@@ -502,7 +502,7 @@
      height="13.894692"
      width="13.894692"
      id="rect10244"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none" />
   <rect
      style="color:#eff0f1;fill:currentColor;fill-opacity:0.00392157;stroke:none"
      id="rect6327-9"
@@ -530,10 +530,10 @@
      height="19.684462"
      width="19.684462"
      id="rect6331-2"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789855;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#60abae;stroke-width:1.15789855;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      class="ColorScheme-Accent"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none"
      id="rect6333-5"
      width="13.894782"
      height="13.894782"
@@ -613,7 +613,7 @@
        height="0.39998949"
        width="14.399999"
        id="rect4171-6-9-1-0"
-       style="fill:#aa7f41;fill-opacity:1;stroke:none" />
+       style="fill:#cc851f;fill-opacity:1;stroke:none" />
     <rect
        y="571.97333"
        x="110.66052"
@@ -990,7 +990,7 @@
      style="opacity:0.2;fill:#232629;fill-opacity:1;stroke:none" />
   <rect
      class="ColorScheme-Background"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#60abae;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect10242-9"
      width="19.684334"
      height="19.684334"
@@ -1005,7 +1005,7 @@
      height="13.894692"
      width="13.894692"
      id="rect10244-5"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none" />
   <rect
      ry="2.8"
      rx="2.8"
@@ -1036,7 +1036,7 @@
      style="opacity:0.2;fill:#232629;fill-opacity:1;stroke:none" />
   <rect
      class="ColorScheme-Background"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#60abae;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect10242-8"
      width="19.684334"
      height="19.684334"
@@ -1051,7 +1051,7 @@
      height="13.894692"
      width="13.894692"
      id="rect10244-0"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none" />
   <rect
      rx="3.4480841"
      y="177.11194"
@@ -1062,7 +1062,7 @@
      style="opacity:0.2;fill:#232629;fill-opacity:1;stroke:none" />
   <rect
      class="ColorScheme-Background"
-     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#60abae;stroke-width:1.15789104;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect10242-3-9"
      width="19.684334"
      height="19.684334"
@@ -1077,7 +1077,7 @@
      height="13.894692"
      width="13.894692"
      id="rect10244-7-1"
-     style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none" />
+     style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none" />
   <g
      transform="matrix(0.55,0,0,0.55,-138.43244,-101.13493)"
      id="layer1-51"
@@ -1161,7 +1161,7 @@
        height="17.000162"
        width="17.000162"
        id="rect10242-3-9-8"
-       style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#3daee9;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:#60abae;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Background" />
   </g>
   <g
@@ -1235,6 +1235,6 @@
        height="0.9999736"
        width="35.999992"
        id="rect4171-39"
-       style="opacity:1;fill:#1c5593;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#3b7274;fill-opacity:1;stroke:none" />
   </g>
 </svg>

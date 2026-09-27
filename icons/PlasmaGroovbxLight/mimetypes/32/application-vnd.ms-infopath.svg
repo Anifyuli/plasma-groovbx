@@ -11,7 +11,7 @@
   <path id="c" d="m389.57 545.8v-28h15l7 7v21h-7z"/>
  </defs>
  <g transform="translate(-384.57-515.8)">
-  <use fill="#ac4474" xlink:href="#c"/>
+  <use fill="#a05073" xlink:href="#c"/>
   <g transform="scale(1-1)">
    <rect width="15" x="389.57" opacity=".5" y="-518.8" fill="#ffffff" height="1"/>
    <rect width="22" x="389.57" opacity=".25" y="-545.8" height="1"/>

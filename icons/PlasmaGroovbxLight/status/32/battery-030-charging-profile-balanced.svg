@@ -4,10 +4,10 @@
             color:#232629;
         }
         .ColorScheme-PositiveText {
-            color:#27ae60;
+            color:#548156;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
     <path class="ColorScheme-Text" d="m3 10v12h12a8 8 0 0 1 0.072266-1h-11.072v-10h23v4.0742a8 8 0 0 1 2 1.6367v-2.7109c0-0.554-0.446-1-1-1v-3h-25zm2 2v8h8l-2-8h-6z" fill="currentColor"/>
     <path class="ColorScheme-PositiveText" d="M16 13a3 3 0 0 0-2.826 2H12v2h1.176A3 3 0 0 0 16 19v-1h2v-1h-2v-2h2v-1h-2z" fill="currentColor"/>

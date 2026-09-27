@@ -3,7 +3,7 @@
             color:#232629;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
   <g transform="translate(1,1)">
     <g class="ColorScheme-NegativeText" transform="matrix(-1,0,0,1,22,0)" fill="currentColor">

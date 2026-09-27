@@ -2,20 +2,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" version="1.1">
  <defs>
   <linearGradient id="linearGradient4317">
-   <stop style="stop-color:#3b85b5;stop-opacity:1" offset="0"/>
-   <stop style="stop-color:#7cbcec;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#519c9f;stop-opacity:1" offset="0"/>
+   <stop style="stop-color:#88c0c3;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4309">
-   <stop style="stop-color:#3bb566;stop-opacity:1;" offset="0"/>
-   <stop style="stop-color:#7ceca4;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#549c6d;stop-opacity:1;" offset="0"/>
+   <stop style="stop-color:#92b994;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4301">
-   <stop style="stop-color:#ffa92d;stop-opacity:1;" offset="0"/>
-   <stop style="stop-color:#ffc169;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#e0a534;stop-opacity:1;" offset="0"/>
+   <stop style="stop-color:#cbb89d;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient id="linearGradient4293">
-   <stop style="stop-color:#bf4231;stop-opacity:1;" offset="0"/>
-   <stop style="stop-color:#f58273;stop-opacity:1" offset="1"/>
+   <stop style="stop-color:#d2251e;stop-opacity:1;" offset="0"/>
+   <stop style="stop-color:#cba39d;stop-opacity:1" offset="1"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4293" id="linearGradient4299" x1="16" y1="20" x2="7" y2="7" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#linearGradient4301" id="linearGradient4307" x1="39" y1="20" x2="30" y2="7" gradientUnits="userSpaceOnUse"/>

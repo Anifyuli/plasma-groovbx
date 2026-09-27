@@ -2,8 +2,8 @@
   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="709" inkscape:window-height="480" id="namedview41" showgrid="false" inkscape:zoom="10.727273" inkscape:cx="11" inkscape:cy="11" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="layer1"/>
   <defs id="defs3871">
     <linearGradient inkscape:collect="always" id="linearGradient4300-8">
-      <stop style="stop-color:#e16d2f" id="stop4302-5"/>
-      <stop offset="1" style="stop-color:#e27a42" id="stop4304-7"/>
+      <stop style="stop-color:#e56c2b" id="stop4302-5"/>
+      <stop offset="1" style="stop-color:#e7783d" id="stop4304-7"/>
     </linearGradient>
     <linearGradient inkscape:collect="always" id="linearGradient4357" xlink:href="#linearGradient4351" y1="61" y2="47" gradientUnits="userSpaceOnUse" x2="0"/>
     <linearGradient inkscape:collect="always" id="linearGradient4410">
@@ -13,8 +13,8 @@
     <linearGradient inkscape:collect="always" id="linearGradient4427" xlink:href="#linearGradient4410" y1="31" y2="17" x1="54" gradientUnits="userSpaceOnUse" x2="40" gradientTransform="matrix(1 0 0 -1 -14 78)"/>
     <linearGradient inkscape:collect="always" id="linearGradient4306" xlink:href="#linearGradient4300-8" y1="61" y2="3" gradientUnits="userSpaceOnUse" x2="0"/>
     <linearGradient inkscape:collect="always" id="linearGradient4351">
-      <stop style="stop-color:#eb9f76" id="stop4353"/>
-      <stop offset="1" style="stop-color:#eeaf8d" id="stop4355"/>
+      <stop style="stop-color:#ee9e73" id="stop4353"/>
+      <stop offset="1" style="stop-color:#d1b8aa" id="stop4355"/>
     </linearGradient>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4410" id="linearGradient3444" y1="31" x1="54" y2="17" gradientUnits="userSpaceOnUse" x2="40" gradientTransform="matrix(1 0 0 -1 503.93261 656.69754)"/>
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4351" id="linearGradient3447" y1="61" y2="47" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1 0 0 1 517.93261 578.69754)"/>
@@ -29,10 +29,10 @@
     </rdf:RDF>
   </metadata>
   <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
-    <g inkscape:label="Capa 1" style="fill:#d26799;fill-opacity:1" id="layer1-1" transform="matrix(1 0 0 1 -225.28572 -73.28571)">
-      <path inkscape:connector-curvature="0" style="color:#000000;fill:#d26799;fill-opacity:1" id="path3454" d="m 563.78571,610.64791 -4,15.75384 1,0.24616 4,-15.75385 -1,-0.24615 z"/>
-      <path inkscape:connector-curvature="0" style="color:#000000;fill:#d26799;fill-opacity:1" id="path4224" d="m 566.03107,613.64791 -0.74534,0.70967 3.66459,4.29032 -3.66459,4.29033 0.74534,0.70968 3.97515,-4.64516 0.27951,-0.35485 -0.27951,-0.35483 -3.97515,-4.64516 z"/>
-      <path inkscape:connector-curvature="0" style="color:#000000;fill:#d26799;fill-opacity:1" id="path4224-7" d="m 558.54037,613.64791 0.74534,0.70967 -3.66459,4.29032 3.66459,4.29033 -0.74534,0.70968 -3.97515,-4.64516 -0.27951,-0.35485 0.27951,-0.35483 3.97515,-4.64516 z"/>
+    <g inkscape:label="Capa 1" style="fill:#bd7c9a;fill-opacity:1" id="layer1-1" transform="matrix(1 0 0 1 -225.28572 -73.28571)">
+      <path inkscape:connector-curvature="0" style="color:#000000;fill:#bd7c9a;fill-opacity:1" id="path3454" d="m 563.78571,610.64791 -4,15.75384 1,0.24616 4,-15.75385 -1,-0.24615 z"/>
+      <path inkscape:connector-curvature="0" style="color:#000000;fill:#bd7c9a;fill-opacity:1" id="path4224" d="m 566.03107,613.64791 -0.74534,0.70967 3.66459,4.29032 -3.66459,4.29033 0.74534,0.70968 3.97515,-4.64516 0.27951,-0.35485 -0.27951,-0.35483 -3.97515,-4.64516 z"/>
+      <path inkscape:connector-curvature="0" style="color:#000000;fill:#bd7c9a;fill-opacity:1" id="path4224-7" d="m 558.54037,613.64791 0.74534,0.70967 -3.66459,4.29032 3.66459,4.29033 -0.74534,0.70968 -3.97515,-4.64516 -0.27951,-0.35485 0.27951,-0.35483 3.97515,-4.64516 z"/>
     </g>
   </g>
 </svg>

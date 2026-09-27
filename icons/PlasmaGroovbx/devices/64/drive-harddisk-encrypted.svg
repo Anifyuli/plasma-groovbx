@@ -22,7 +22,7 @@
     <g stroke-width="1.857">
         <path d="M10 52h7v6h-1zm37 0h7v6h-7z" fill="#292c2f" opacity=".2"/>
         <path d="M16 52h32v6H16z" fill="#292c2e"/>
-        <path d="M20 54h14v2H20zm16 0h8v2h-8z" fill="#f6b44d"/>
+        <path d="M20 54h14v2H20zm16 0h8v2h-8z" fill="#e3ad46"/>
     </g>
     <path d="M390.571 533.798l16 16h24V511.07l-6.636-6.636z" fill="url(#c)" opacity=".2" transform="translate(-376.571 -491.798)"/>
     <path d="M23 10a9 9 0 0 0-9 9v8.535A6 6 0 0 1 16 32a6 6 0 0 1-2 4.463V42l6 6h24l6-6v-5.535A6 6 0 0 1 48 32a6 6 0 0 1 2-4.463V19a9 9 0 0 0-9-9z" fill="url(#d)"/>

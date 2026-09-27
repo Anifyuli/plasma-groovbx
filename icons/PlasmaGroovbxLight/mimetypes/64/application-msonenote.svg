@@ -59,11 +59,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0-1 0 64)">
       <stop
-         stop-color="#8b4365"
+         stop-color="#894565"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#954d6f"
+         stop-color="#964c6f"
          id="stop9" />
     </linearGradient>
     <linearGradient
@@ -74,11 +74,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0-1 0 64)">
       <stop
-         stop-color="#c795ac"
+         stop-color="#c993ac"
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#d9b6c6"
+         stop-color="#d8b7c6"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -106,10 +106,10 @@
        id="a-7">
       <stop
          id="stop7-5"
-         stop-color="#418d94" />
+         stop-color="#47888e" />
       <stop
          id="stop9-3"
-         stop-color="#479aa1"
+         stop-color="#4e949a"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -121,10 +121,10 @@
        id="b-5">
       <stop
          id="stop12-6"
-         stop-color="#88c5ca" />
+         stop-color="#8dc1c5" />
       <stop
          id="stop14-2"
-         stop-color="#add6da"
+         stop-color="#b2d2d5"
          offset="1" />
     </linearGradient>
     <path
@@ -176,7 +176,7 @@
        width="100%"
        y="0"
        x="0"
-       style="fill:#8b4365;fill-opacity:1"
+       style="fill:#894565;fill-opacity:1"
        xlink:href="#c-7"
        id="use4183" />
     <rect

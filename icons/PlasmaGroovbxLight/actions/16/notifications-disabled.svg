@@ -3,7 +3,7 @@
             color:#232629;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
     <circle cx="9.148" cy="2.5" r="0"/>
     <path class="ColorScheme-NegativeText" d="M 2,2.7071118 2.7071065,2 14,13.266998 13.292891,14 Z" fill="currentColor"/>

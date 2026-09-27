@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" viewBox="0 0 24 24" width="24">
   <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="0" x2="0" y1="26" y2="0">
-    <stop offset="0" stop-color="#7cbaf8"/>
+    <stop offset="0" stop-color="#90c4c6"/>
     <stop offset="1" stop-color="#f4fcff"/>
   </linearGradient>
   <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="6" x2="20" y1="5" y2="19">
@@ -8,8 +8,8 @@
     <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="11.072659" x2="10.958864" y1="19.889571" y2="1.993852">
-    <stop offset="0" stop-color="#197cf1"/>
-    <stop offset="1" stop-color="#21c9fb"/>
+    <stop offset="0" stop-color="#529fa3"/>
+    <stop offset="1" stop-color="#5aa8ab"/>
   </linearGradient>
   <g transform="translate(1,1)">
     <circle cx="10.983826" cy="10.983826" fill="url(#c)" r="8.983826" stroke-width=".879901"/>

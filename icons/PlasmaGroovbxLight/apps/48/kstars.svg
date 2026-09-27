@@ -252,11 +252,11 @@
     <linearGradient
        id="linearGradient2257">
       <stop
-         style="stop-color:#b4942a;stop-opacity:1;"
+         style="stop-color:#c19b1d;stop-opacity:1;"
          offset="0"
          id="stop2259" />
       <stop
-         style="stop-color:#e4dcc9;stop-opacity:1"
+         style="stop-color:#e3dbca;stop-opacity:1"
          offset="1"
          id="stop2261" />
     </linearGradient>
@@ -438,19 +438,19 @@
        id="XMLID_17_">
       <stop
          id="stop125"
-         style="stop-color:#DDDDDD"
+         style="stop-color:#dddddd"
          offset="0.0059" />
       <stop
          id="stop127"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          offset="0.1065" />
       <stop
          id="stop129"
-         style="stop-color:#B2B2B2"
+         style="stop-color:#b2b2b2"
          offset="0.2799" />
       <stop
          id="stop131"
-         style="stop-color:#9B9B9B"
+         style="stop-color:#9b9b9b"
          offset="0.5571" />
       <stop
          id="stop133"
@@ -458,7 +458,7 @@
          offset="0.7396" />
       <stop
          id="stop135"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -474,23 +474,23 @@
          offset="0.0059" />
       <stop
          id="stop144"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          offset="0.1775" />
       <stop
          id="stop146"
-         style="stop-color:#C4C4C4"
+         style="stop-color:#c4c4c4"
          offset="0.4387" />
       <stop
          id="stop148"
-         style="stop-color:#DBDBDB"
+         style="stop-color:#dbdbdb"
          offset="0.8565" />
       <stop
          id="stop150"
-         style="stop-color:#DDDDDD"
+         style="stop-color:#dddddd"
          offset="0.8876" />
       <stop
          id="stop152"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -506,23 +506,23 @@
          offset="0.0059" />
       <stop
          id="stop159"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          offset="0.1775" />
       <stop
          id="stop161"
-         style="stop-color:#C4C4C4"
+         style="stop-color:#c4c4c4"
          offset="0.4387" />
       <stop
          id="stop163"
-         style="stop-color:#DBDBDB"
+         style="stop-color:#dbdbdb"
          offset="0.8565" />
       <stop
          id="stop165"
-         style="stop-color:#DDDDDD"
+         style="stop-color:#dddddd"
          offset="0.8876" />
       <stop
          id="stop167"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -555,7 +555,7 @@
          offset="0.2473" />
       <stop
          id="stop182"
-         style="stop-color:#7B7B7B"
+         style="stop-color:#7b7b7b"
          offset="0.7371" />
       <stop
          id="stop184"
@@ -571,15 +571,15 @@
        id="XMLID_21_">
       <stop
          id="stop189"
-         style="stop-color:#FFFFFF"
+         style="stop-color:#ffffff"
          offset="0.2544" />
       <stop
          id="stop191"
-         style="stop-color:#F2F2F2"
+         style="stop-color:#f2f2f2"
          offset="0.2903" />
       <stop
          id="stop193"
-         style="stop-color:#B9B9B9"
+         style="stop-color:#b9b9b9"
          offset="0.4589" />
       <stop
          id="stop195"
@@ -591,11 +591,11 @@
          offset="0.6509" />
       <stop
          id="stop199"
-         style="stop-color:#A9A9A9"
+         style="stop-color:#a9a9a9"
          offset="0.8549" />
       <stop
          id="stop201"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          offset="1" />
     </radialGradient>
     <linearGradient
@@ -607,19 +607,19 @@
        id="XMLID_22_">
       <stop
          id="stop206"
-         style="stop-color:#FFFFFF"
+         style="stop-color:#ffffff"
          offset="0.2899" />
       <stop
          id="stop208"
-         style="stop-color:#ECECEC"
+         style="stop-color:#ececec"
          offset="0.459" />
       <stop
          id="stop210"
-         style="stop-color:#C8C8C8"
+         style="stop-color:#c8c8c8"
          offset="0.811" />
       <stop
          id="stop212"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -631,111 +631,111 @@
        id="XMLID_23_">
       <stop
          id="stop217"
-         style="stop-color:#B3925D"
+         style="stop-color:#e09c30"
          offset="0.0237" />
       <stop
          id="stop219"
-         style="stop-color:#B7975D"
+         style="stop-color:#e1a333"
          offset="0.025" />
       <stop
          id="stop221"
-         style="stop-color:#D1B55A"
+         style="stop-color:#e4bf47"
          offset="0.0348" />
       <stop
          id="stop223"
-         style="stop-color:#E5CD58"
+         style="stop-color:#e6ce57"
          offset="0.0451" />
       <stop
          id="stop225"
-         style="stop-color:#F4DE56"
+         style="stop-color:#e8d562"
          offset="0.056" />
       <stop
          id="stop227"
-         style="stop-color:#FCE855"
+         style="stop-color:#e9d968"
          offset="0.068" />
       <stop
          id="stop229"
-         style="stop-color:#FFEB55"
+         style="stop-color:#e9da6b"
          offset="0.0828" />
       <stop
          id="stop231"
-         style="stop-color:#FCE242"
+         style="stop-color:#e6d258"
          offset="0.0986" />
       <stop
          id="stop233"
-         style="stop-color:#F8D525"
+         style="stop-color:#e2c63b"
          offset="0.1278" />
       <stop
          id="stop235"
-         style="stop-color:#F5CB11"
+         style="stop-color:#dfbd27"
          offset="0.1568" />
       <stop
          id="stop237"
-         style="stop-color:#F4C504"
+         style="stop-color:#d8b420"
          offset="0.1854" />
       <stop
          id="stop239"
-         style="stop-color:#F3C300"
+         style="stop-color:#d3b020"
          offset="0.213" />
       <stop
          id="stop241"
-         style="stop-color:#DFAE00"
+         style="stop-color:#c29e1d"
          offset="0.2931" />
       <stop
          id="stop243"
-         style="stop-color:#D19E00"
+         style="stop-color:#b6901b"
          offset="0.3765" />
       <stop
          id="stop245"
-         style="stop-color:#CC9900"
+         style="stop-color:#b18c1b"
          offset="0.4438" />
       <stop
          id="stop247"
-         style="stop-color:#E3AD00"
+         style="stop-color:#c59e1e"
          offset="0.6982" />
       <stop
          id="stop249"
-         style="stop-color:#FFDD00"
+         style="stop-color:#dec521"
          offset="0.8402" />
       <stop
          id="stop251"
-         style="stop-color:#FFE72F"
+         style="stop-color:#e4d24a"
          offset="0.8602" />
       <stop
          id="stop253"
-         style="stop-color:#FFF468"
+         style="stop-color:#cac79d"
          offset="0.8868" />
       <stop
          id="stop255"
-         style="stop-color:#FFFC8C"
+         style="stop-color:#d7d6b4"
          offset="0.9066" />
       <stop
          id="stop257"
-         style="stop-color:#FFFF99"
+         style="stop-color:#dbdbbd"
          offset="0.9172" />
       <stop
          id="stop259"
-         style="stop-color:#FCFB96"
+         style="stop-color:#d9d9b9"
          offset="0.9304" />
       <stop
          id="stop261"
-         style="stop-color:#F2EE8D"
+         style="stop-color:#d3d1ac"
          offset="0.944" />
       <stop
          id="stop263"
-         style="stop-color:#E3DA7F"
+         style="stop-color:#e8de7a"
          offset="0.958" />
       <stop
          id="stop265"
-         style="stop-color:#CDBD6B"
+         style="stop-color:#e5cd53"
          offset="0.972" />
       <stop
          id="stop267"
-         style="stop-color:#B19851"
+         style="stop-color:#deae24"
          offset="0.986" />
       <stop
          id="stop269"
-         style="stop-color:#8F6B32"
+         style="stop-color:#a87119"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -747,23 +747,23 @@
        id="XMLID_24_">
       <stop
          id="stop274"
-         style="stop-color:#DEBC85"
+         style="stop-color:#ebbf78"
          offset="0" />
       <stop
          id="stop276"
-         style="stop-color:#BD9B63"
+         style="stop-color:#e2a43e"
          offset="0.1763" />
       <stop
          id="stop278"
-         style="stop-color:#9C783F"
+         style="stop-color:#bf801c"
          offset="0.3869" />
       <stop
          id="stop280"
-         style="stop-color:#8F6B32"
+         style="stop-color:#a87119"
          offset="0.5" />
       <stop
          id="stop282"
-         style="stop-color:#DEBC85"
+         style="stop-color:#ebbf78"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -779,23 +779,23 @@
          id="stop2636" />
       <stop
          offset="0.1775"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          id="stop2638" />
       <stop
          offset="0.4387"
-         style="stop-color:#C4C4C4"
+         style="stop-color:#c4c4c4"
          id="stop2640" />
       <stop
          offset="0.8565"
-         style="stop-color:#DBDBDB"
+         style="stop-color:#dbdbdb"
          id="stop2642" />
       <stop
          offset="0.8876"
-         style="stop-color:#DDDDDD"
+         style="stop-color:#dddddd"
          id="stop2644" />
       <stop
          offset="1"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          id="stop2646" />
     </linearGradient>
     <linearGradient
@@ -811,23 +811,23 @@
          id="stop2651" />
       <stop
          offset="0.1775"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          id="stop2653" />
       <stop
          offset="0.4387"
-         style="stop-color:#C4C4C4"
+         style="stop-color:#c4c4c4"
          id="stop2655" />
       <stop
          offset="0.8565"
-         style="stop-color:#DBDBDB"
+         style="stop-color:#dbdbdb"
          id="stop2657" />
       <stop
          offset="0.8876"
-         style="stop-color:#DDDDDD"
+         style="stop-color:#dddddd"
          id="stop2659" />
       <stop
          offset="1"
-         style="stop-color:#BBBBBB"
+         style="stop-color:#bbbbbb"
          id="stop2661" />
     </linearGradient>
     <linearGradient
@@ -977,22 +977,22 @@
       <stop
          id="stop2836"
          offset="0"
-         style="stop-color:#f70000;stop-opacity:1;" />
+         style="stop-color:#d91e1e;stop-opacity:1;" />
       <stop
          id="stop2838"
          offset="1"
-         style="stop-color:#ff0202;stop-opacity:0;" />
+         style="stop-color:#e12020;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        id="linearGradient2844">
       <stop
          id="stop2846"
          offset="0"
-         style="stop-color:#0a8100;stop-opacity:1;" />
+         style="stop-color:#2b5a27;stop-opacity:1;" />
       <stop
          id="stop2848"
          offset="1"
-         style="stop-color:#11d800;stop-opacity:0;" />
+         style="stop-color:#518c4c;stop-opacity:0;" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"

@@ -9,21 +9,21 @@ SPDX-License-Identifier: CC-BY-SA-4.0
     <path d="M13.5 30L24 4L34.5 30H13.5Z" fill="url(#top_fg)"/>
     <defs>
         <linearGradient id="bottom_bg" x1="21" x2="24" y1="24.5" y2="44" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#AC2E4C" offset="0"/>
-            <stop stop-color="#3E0B56" offset="1"/>
+            <stop stop-color="#91495a" offset="0"/>
+            <stop stop-color="#371d44" offset="1"/>
         </linearGradient>
         <linearGradient id="top_bg" x1="24" x2="8" y1="30" y2="4" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#D83F5A" offset="0"/>
-            <stop stop-color="#FF9388" offset="1"/>
+            <stop stop-color="#e33453" offset="0"/>
+            <stop stop-color="#d5b5b2" offset="1"/>
         </linearGradient>
         <linearGradient id="bottom_fg" x1="24" x2="24" y1="30" y2="44" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#C93659" offset="0"/>
-            <stop stop-color="#6D1B60" offset="1"/>
+            <stop stop-color="#aa5569" offset="0"/>
+            <stop stop-color="#5f2957" offset="1"/>
         </linearGradient>
         <linearGradient id="top_fg" x1="24" x2="24" y1="4" y2="30" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FAB6B4" offset=".4"/>
-            <stop stop-color="#FC9E95" offset=".65"/>
-            <stop stop-color="#F86977" offset=".9"/>
+            <stop stop-color="#e3cccb" offset=".4"/>
+            <stop stop-color="#d9bbb8" offset=".65"/>
+            <stop stop-color="#ec7581" offset=".9"/>
         </linearGradient>
     </defs>
 </svg>

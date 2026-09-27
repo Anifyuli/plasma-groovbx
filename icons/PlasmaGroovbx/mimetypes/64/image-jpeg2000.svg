@@ -11,7 +11,7 @@
   <path color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" id="c" color-interpolation="sRGB" color="#000000" d="m49 870.36v-50h42l14 14v36h-14z"/>
  </defs>
  <g transform="translate(-45-809.36)">
-  <use fill="#45b952" xlink:href="#c"/>
+  <use fill="#59a55e" xlink:href="#c"/>
   <g color-rendering="auto" color-interpolation-filters="linearRGB" shape-rendering="auto" image-rendering="auto" text-rendering="auto" color-interpolation="sRGB" color="#000000">
    <rect opacity=".25" x="49" y="869.36" width="56" height="1"/>
    <rect opacity=".5" x="49" y="820.36" width="42" fill="#ffffff" height="1"/>

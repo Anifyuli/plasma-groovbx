@@ -5,13 +5,13 @@
             color:#eff0f1;
         }
         .ColorScheme-PositiveText {
-            color:#27ae60;
+            color:#548156;
         }
         .ColorScheme-NeutralText {
             color:#f67400;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
     <g id="preferences-system-bluetooth" transform="translate(44,94) translate(-39,-116)">
         <rect id="rect4168" x="-5" y="22" width="32" height="32" fill="none"/>

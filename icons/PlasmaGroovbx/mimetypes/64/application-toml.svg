@@ -15,7 +15,7 @@
     </defs>
     <path d="m10 61v-58h30l14 14v44h-14z" fill="url(#a)"/>
     <g transform="scale(1-1)">
-        <rect x="10" y="-4" width="30" height="1" fill="#fff" fill-opacity=".412"/>
+        <rect x="10" y="-4" width="30" height="1" fill="#ffffff" fill-opacity=".412"/>
         <rect x="10" y="-61" width="44" height="1" fill="#2e3132" fill-opacity=".294"/>
     </g>
     <g fill-rule="evenodd">

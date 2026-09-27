@@ -4,13 +4,13 @@
             color:#eff0f1;
         }
         .ColorScheme-PositiveText {
-            color:#27ae60;
+            color:#548156;
         }
         .ColorScheme-NeutralText {
             color:#f67400;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
   <g transform="translate(1,1)">
     <g id="22-22-preferences-system-bluetooth-activated" transform="translate(0,94) translate(-66,-94)">

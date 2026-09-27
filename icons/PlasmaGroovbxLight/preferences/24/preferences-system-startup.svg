@@ -6,7 +6,7 @@
   <linearGradient id="b" gradientTransform="matrix(.66666658 0 0 .50000001 -256.04766 -252.39899)" gradientUnits="userSpaceOnUse" x2="0" xlink:href="#c" y1="542.79797" y2="538.79797"/>
   <linearGradient id="c">
     <stop offset="0" stop-color="#c6cdd1"/>
-    <stop offset="1" stop-color="#e0e5e7"/>
+    <stop offset="1" stop-color="#ccd5d6"/>
   </linearGradient>
   <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="6.78569" x2="17.714262" xlink:href="#e" y1="3.285716" y2="14.214288"/>
   <linearGradient id="e">
@@ -41,6 +41,6 @@
     <path d="m3.000003 7.000005 1 1h2l1 1 1-1-2-2z" fill="url(#i)" opacity=".2"/>
     <path d="m3.000003 9.000005 1 1h2l1 1 1-1-2-2z" fill="url(#j)" opacity=".2"/>
     <path d="m6 10-3 1 3 3h4z" fill="url(#k)" opacity=".2"/>
-    <path d="m3 4h3v1h-3zm0 2h3v1h-3zm0 2h3v1h-3zm0 2h3v1h-3z" fill="#11d116"/>
+    <path d="m3 4h3v1h-3zm0 2h3v1h-3zm0 2h3v1h-3zm0 2h3v1h-3z" fill="#59895b"/>
   </g>
 </svg>

@@ -5,10 +5,10 @@
             color:#232629;
         }
         .ColorScheme-Accent {
-            color:#3daee9;
+            color:#60abae;
         }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }
     </style>
     <g id="notification-progress-active" transform="translate(39 -1) translate(-40,0)">

@@ -10,7 +10,7 @@
   </linearGradient>
   <path id="c" d="m10 61v-58h30l14 14v44h-14z"/>
  </defs>
- <use fill="#20cddc" xlink:href="#c"/>
+ <use fill="#549fa8" xlink:href="#c"/>
  <g transform="scale(1-1)">
   <rect width="30" x="10" opacity=".5" y="-4" fill="#ffffff" height="1"/>
   <rect width="44" x="10" opacity=".25" y="-61" height="1" fill-opacity=".294"/>

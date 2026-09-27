@@ -5,12 +5,12 @@
    <stop offset="1" stop-color="#eff1f1"/>
   </linearGradient>
   <linearGradient id="b" y1="12.997" y2="32.13" x1="17.428" x2="36.551" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#abf9c7"/>
-   <stop offset="1" stop-color="#54d883"/>
+   <stop stop-color="#c5e0c6"/>
+   <stop offset="1" stop-color="#71a373"/>
   </linearGradient>
   <linearGradient id="c" y1="32.721" y2="12.32" x1="33.405" gradientUnits="userSpaceOnUse" x2="17.759">
-   <stop stop-color="#197cf1"/>
-   <stop offset="1" stop-color="#20bcfa"/>
+   <stop stop-color="#529fa3"/>
+   <stop offset="1" stop-color="#59a7ab"/>
   </linearGradient>
   <linearGradient xlink:href="#a" id="d" y1="15.778" x1="3.242" y2="37" x2="40" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-.96593-.25882.25882-.96593 40.971 53.39)"/>
   <linearGradient id="e" y1="23" x1="24" y2="39" x2="40" gradientUnits="userSpaceOnUse">

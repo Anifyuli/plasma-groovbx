@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" width="24" viewBox="0 0 24 24">
   <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="11" x2="11" y1="7" y2="3">
-    <stop offset="0" stop-color="#da4453"/>
-    <stop offset="1" stop-color="#e4848f"/>
+    <stop offset="0" stop-color="#e02e27"/>
+    <stop offset="1" stop-color="#cb9da3"/>
   </linearGradient>
   <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="8" x2="8" y1="13" y2="9">
-    <stop offset="0" stop-color="#8e44ad"/>
+    <stop offset="0" stop-color="#a54c76"/>
     <stop offset="1" stop-color="#b08bc4"/>
   </linearGradient>
   <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="5" x2="5" y1="18" y2="14">
-    <stop offset="0" stop-color="#208c4e"/>
-    <stop offset="1" stop-color="#6dbd7f"/>
+    <stop offset="0" stop-color="#347851"/>
+    <stop offset="1" stop-color="#75b584"/>
   </linearGradient>
   <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="11.428572" x2="16.571429" xlink:href="#j" y1="12.5" y2="17.642857"/>
   <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="5.428259" x2="10.571116" xlink:href="#j" y1="12.500328" y2="17.643185"/>

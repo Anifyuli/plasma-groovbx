@@ -66,11 +66,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0-1 0 64)">
       <stop
-         stop-color="#32b641"
+         stop-color="#519759"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#42ac4e"
+         stop-color="#539b5b"
          id="stop9" />
     </linearGradient>
     <linearGradient
@@ -81,11 +81,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1 0 0-1 0 64)">
       <stop
-         stop-color="#0e5960"
+         stop-color="#21494d"
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#0e5960"
+         stop-color="#21494d"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -241,13 +241,13 @@
        id="path33"
        d="m 21,31.51334 c 7.042954,0 8.346401,8.961469 11.453204,8.989262 C 35.560008,40.527442 36.959752,31.491767 44,31.491767"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#1fcbdb;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#549fa6;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="csc"
        id="path35-3"
        d="m 21,30.54459 c 7.042954,0 8.475301,-6.100795 11.484869,-6.094309 2.990432,0.0064 4.474883,7.041486 11.515131,7.041486"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#ca403d;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#e12a26;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccc"
        style="fill:none;stroke:#d6d6d6;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"

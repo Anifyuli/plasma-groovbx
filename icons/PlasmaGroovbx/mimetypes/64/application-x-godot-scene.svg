@@ -72,12 +72,12 @@
        y2="336.36">
       <stop
          offset="0"
-         stop-color="#fff"
+         stop-color="#ffffff"
          stop-opacity="0"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#fff"
+         stop-color="#ffffff"
          stop-opacity=".2"
          id="stop9" />
     </linearGradient>
@@ -127,13 +127,13 @@
      width="100%"
      xlink:href="#c"
      id="use15"
-     style="fill:#ac4474;fill-opacity:1" />
+     style="fill:#a05073;fill-opacity:1" />
   <g
      transform="matrix(1 0 0 -1 -238 -78.36)"
      id="g21">
     <path
        d="m248-82.360001h30v1h-30z"
-       fill="#fff"
+       fill="#ffffff"
        opacity=".5"
        id="path17" />
     <path

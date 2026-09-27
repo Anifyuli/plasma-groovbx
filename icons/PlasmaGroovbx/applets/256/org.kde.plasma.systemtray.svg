@@ -8,7 +8,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-ButtonText {
@@ -36,7 +36,7 @@
      cy="161.54266"
      cx="83.972939"
      id="path4147"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f67400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#db761b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
   <path
      style="fill:currentColor;fill-opacity:1;stroke:none" 
      d="m 178.49115,75.45685 c -8.83656,0 -16,7.163444 -16,16 0,8.83655 7.16344,16 16,16 8.83656,0 16,-7.16345 16,-16 0,-8.836556 -7.16344,-16 -16,-16 z m 0,2 c 7.73198,0 14,6.268014 14,14 0,7.731986 -6.26802,14 -14,14 -7.73198,0 -14,-6.268014 -14,-14 0,-7.731986 6.26802,-14 14,-14 z m 4,14 c -3.3137,0 -6,2.686292 -6,6 0,3.31371 2.6863,6 6,6 3.3137,0 6,-2.68629 6,-6 0,-3.313708 -2.6863,-6 -6,-6 z"
@@ -44,7 +44,7 @@
      class="ColorScheme-Accent"/>
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#43be80;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#5ba680;fill-opacity:1;stroke:none"
      d="m 39.855469,75.457034 a 7.9997852,7.999864 0 0 0 -8,8 7.9997852,7.999864 0 0 0 8,8 7.9997852,7.999864 0 0 0 8,-8 7.9997852,7.999864 0 0 0 -8,-8 z m 0,2 a 5.9998536,5.9999128 0 0 1 6,6 5.9998536,5.9999128 0 0 1 -6,6 5.9998536,5.9999128 0 0 1 -6,-6 5.9998536,5.9999128 0 0 1 6,-6 z m 0,16 A 15.99951,15.999669 0 0 0 24,107.45703 l 2.015625,0 a 13.999579,13.999718 0 0 1 13.839844,-11.999996 13.999579,13.999718 0 0 1 2,0.160157 l 0,-2.019532 a 15.99951,15.999669 0 0 0 -2,-0.140625 z m 9,0 a 6.9998293,6.9998293 0 0 0 -7,6.999996 6.9998293,6.9998293 0 0 0 7,7 6.9998293,6.9998293 0 0 0 7,-7 6.9998293,6.9998293 0 0 0 -7,-6.999996 z M 222,164.54297 c -4.432,0 -8,3.568 -8,8 0,4.432 3.568,8 8,8 4.432,0 8,-3.568 8,-8 0,-4.432 -3.568,-8 -8,-8 z"
      id="path4149" />
   <path

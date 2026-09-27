@@ -2,7 +2,7 @@
     <style id="current-color-scheme" type="text/css">
         .ColorScheme-Text { color: #f9f5d7; }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }</style>
     <g stroke-linecap="square">
         <g id="g10" class="ColorScheme-Text" fill="currentColor">
@@ -14,12 +14,12 @@
         <path id="path12" class="ColorScheme-NegativeText" d="m15.5 3a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm0 1a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z" fill="currentColor"/>
         <g id="g18" shape-rendering="auto">
             <g id="path14">
-                <path id="path871" d="m11.500107 12.500107 6 6" color="#da4453" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stop-color="#da4453"/>
-                <path id="path873" class="ColorScheme-NegativeText" d="m11.5 11.792969-0.707031 0.707031 0.353515 0.353516 6 6 0.353516 0.353515 0.707031-0.707031-0.353515-0.353516-6-6-0.353516-0.353515z" color="#da4453" color-rendering="auto" dominant-baseline="auto" fill="currentColor" image-rendering="auto" solid-color="#000000" stop-color="#000000"/>
+                <path id="path871" d="m11.500107 12.500107 6 6" color="#e02e27" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stop-color="#e02e27"/>
+                <path id="path873" class="ColorScheme-NegativeText" d="m11.5 11.792969-0.707031 0.707031 0.353515 0.353516 6 6 0.353516 0.353515 0.707031-0.707031-0.353515-0.353516-6-6-0.353516-0.353515z" color="#e02e27" color-rendering="auto" dominant-baseline="auto" fill="currentColor" image-rendering="auto" solid-color="#000000" stop-color="#000000"/>
             </g>
             <g id="path16">
-                <path id="path877" d="m17.500107 12.500107-6 6" color="#da4453" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stop-color="#da4453"/>
-                <path id="path879" class="ColorScheme-NegativeText" d="m17.5 11.792969-0.353516 0.353515-6 6-0.353515 0.353516 0.707031 0.707031 0.353516-0.353515 6-6 0.353515-0.353516-0.707031-0.707031z" color="#da4453" color-rendering="auto" dominant-baseline="auto" fill="currentColor" image-rendering="auto" solid-color="#da4453" stop-color="#000000"/>
+                <path id="path877" d="m17.500107 12.500107-6 6" color="#e02e27" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" solid-color="#000000" stop-color="#e02e27"/>
+                <path id="path879" class="ColorScheme-NegativeText" d="m17.5 11.792969-0.353516 0.353515-6 6-0.353515 0.353516 0.707031 0.707031 0.353516-0.353515 6-6 0.353515-0.353516-0.707031-0.707031z" color="#e02e27" color-rendering="auto" dominant-baseline="auto" fill="currentColor" image-rendering="auto" solid-color="#e02e27" stop-color="#000000"/>
             </g>
         </g>
     </g>

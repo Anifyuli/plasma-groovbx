@@ -4,22 +4,22 @@
         <stop stop-opacity="0" offset="1"/>
     </linearGradient>
     <linearGradient id="t" x1="189.344" x2="-27.88" y1="-34.773" y2="126.119" gradientTransform="matrix(.31711 0 0 .3129 4.272 4.257)" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#d446ff" offset="0"/>
-        <stop stop-color="#a0d8ff" offset="1"/>
+        <stop stop-color="#b384c1" offset="0"/>
+        <stop stop-color="#c1d2de" offset="1"/>
     </linearGradient>
     <linearGradient id="l">
-        <stop stop-color="#fff" offset="0"/>
+        <stop stop-color="#ffffff" offset="0"/>
         <stop stop-color="#dadada" offset="1"/>
     </linearGradient>
     <linearGradient id="r" x1="49.298" x2="95.398" y1="81.098" y2="56.09" gradientTransform="matrix(.37868 0 0 .26203 4.272 4.257)" gradientUnits="userSpaceOnUse" xlink:href="#l"/>
     <linearGradient id="q" x1="61.021" x2="27.009" y1="119.444" y2="77.338" gradientTransform="matrix(.35013 0 0 .2834 4.272 4.257)" gradientUnits="userSpaceOnUse" xlink:href="#l"/>
     <linearGradient id="p" x1="87.486" x2="39.143" y1="37.283" y2="58.524" gradientTransform="matrix(.42584 0 0 .23301 4.272 4.257)" gradientUnits="userSpaceOnUse">
         <stop stop-color="#d0d0d0" offset="0"/>
-        <stop stop-color="#fff" offset="1"/>
+        <stop stop-color="#ffffff" offset="1"/>
     </linearGradient>
     <linearGradient id="k">
-        <stop stop-color="#ffdc68" offset="0"/>
-        <stop stop-color="#ce4300" offset="1"/>
+        <stop stop-color="#cac09d" offset="0"/>
+        <stop stop-color="#b74b17" offset="1"/>
     </linearGradient>
     <linearGradient id="o" x1="39.132" x2="-14.568" y1="94.824" y2="160.96" gradientTransform="matrix(.36573 0 0 .2713 4.272 4.257)" gradientUnits="userSpaceOnUse" xlink:href="#k"/>
     <linearGradient id="n" x1="24.439" x2="12.066" y1="54.424" y2="58.197" gradientTransform="matrix(.67462 0 0 .14709 4.272 4.257)" gradientUnits="userSpaceOnUse" xlink:href="#k"/>

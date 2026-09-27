@@ -1,16 +1,16 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="44" x1="27" y2="33" x2="19" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1.25-5-6)">
-   <stop stop-color="#18222a"/>
+   <stop stop-color="#162b2c"/>
    <stop offset="1" stop-color="#566069"/>
   </linearGradient>
   <linearGradient id="b" y1="36" y2="32" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="translate(-4.5 4)">
-   <stop stop-color="#f39c12"/>
-   <stop offset="1" stop-color="#f5ab35"/>
+   <stop stop-color="#d09420"/>
+   <stop offset="1" stop-color="#e0a533"/>
   </linearGradient>
   <linearGradient id="c" y1="543.8" y2="503.8" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="matrix(1.125 0 0 1-435.64-499.8)">
-   <stop stop-color="#bd8d48"/>
-   <stop offset="1" stop-color="#e8b971"/>
+   <stop stop-color="#d09420"/>
+   <stop offset="1" stop-color="#e5b559"/>
   </linearGradient>
   <linearGradient id="d" y1="541.8" y2="505.8" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="translate(-384.57-499.8)">
    <stop stop-color="#d8dcde"/>
@@ -33,7 +33,7 @@
  </defs>
  <rect width="36" x="6" y="4" fill="url(#c)" rx="0" height="40"/>
  <rect width="34" x="7" opacity=".5" y="5" fill="url(#e)" height="38"/>
- <rect width="36" x="6" y="43" fill="#aa7f41" height="1"/>
+ <rect width="36" x="6" y="43" fill="#cc9d1e" height="1"/>
  <rect width="32" x="8" y="6" fill="url(#d)" height="36"/>
  <g fill="#1f1f1f" fill-opacity=".314">
   <rect width="32" x="8" y="40" height="2"/>

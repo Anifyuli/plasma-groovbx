@@ -3,12 +3,12 @@
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       </style>
   </defs>
  <path 
-     style="fill:#8e44ad" 
+     style="fill:#a54c76" 
      d="M 4 6 L 4 11 L 4 20 L 3 20 L 3 21 L 3 21 C 3 21 3 21 3 21 L 3 57 L 3 58 L 4 58 L 60 58 L 61 58 L 61 57 L 61 21 L 61 21 L 61 16 L 60 16 L 60 11 C 60 11 60 11 60 11 L 60 11 L 60 10 L 32 10 L 28 6 L 4 6 z "
      />
  <path 

@@ -91,7 +91,7 @@
        id="stop3" />
     <stop
        offset="1"
-       stop-color="#e0e5e7"
+       stop-color="#ccd5d6"
        id="stop5" />
   </linearGradient>
   <linearGradient
@@ -128,12 +128,12 @@
      id="path17" />
   <path
      d="m1.000027 5h19.999973v1h-19.999973z"
-     fill="#3daee9"
+     fill="#60abae"
      stroke-width=".790569"
      id="path19" />
   <path
      d="m2 7h18v10.999999h-18z"
-     fill="#fff"
+     fill="#ffffff"
      stroke-width=".574456"
      id="path21" />
   <rect

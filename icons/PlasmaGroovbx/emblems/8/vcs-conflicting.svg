@@ -7,5 +7,5 @@
         }
     </style>
     <circle style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-NeutralText" cx="4" cy="4" r="4"/>
-    <path d="M3 1v4h2V1zm0 5v1.867A4 4 0 0 0 4 8a4 4 0 0 0 1-.13V6z" fill="#fff"/>
+    <path d="M3 1v4h2V1zm0 5v1.867A4 4 0 0 0 4 8a4 4 0 0 0 1-.13V6z" fill="#ffffff"/>
 </svg>

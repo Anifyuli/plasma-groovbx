@@ -52,7 +52,7 @@
         color:#bebebe;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       </style>
   </defs>
@@ -66,7 +66,7 @@
        id="path8"
        inkscape:connector-curvature="0" />
     <path
-       style="color:#3daee9;fill:currentColor;fill-opacity:1;stroke:none"
+       style="color:#60abae;fill:currentColor;fill-opacity:1;stroke:none"
        d="m 426.71,535.79 6,0 0,2 -6,0 z"
        class="ColorScheme-Accent"
        id="path10"

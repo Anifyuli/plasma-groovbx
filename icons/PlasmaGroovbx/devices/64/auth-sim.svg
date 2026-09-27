@@ -1,16 +1,16 @@
 <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <linearGradient id="a" gradientTransform="matrix(.94736842 0 0 .97777778 1.684211 .244444)" gradientUnits="userSpaceOnUse" x1="13" x2="51" y1="14.5" y2="52.5">
-        <stop offset="0" stop-color="#fdd898"/>
-        <stop offset=".16666649" stop-color="#fdd58f"/>
-        <stop offset=".33333299" stop-color="#fdd898"/>
-        <stop offset=".49999976" stop-color="#fdce7d"/>
-        <stop offset=".66666651" stop-color="#fdd286"/>
-        <stop offset=".83333325" stop-color="#fdc86d"/>
-        <stop offset="1" stop-color="#fdc665"/>
+        <stop offset="0" stop-color="#dad1ba"/>
+        <stop offset=".16666649" stop-color="#d7ceb5"/>
+        <stop offset=".33333299" stop-color="#dad1ba"/>
+        <stop offset=".49999976" stop-color="#d1c6a9"/>
+        <stop offset=".66666651" stop-color="#d4caae"/>
+        <stop offset=".83333325" stop-color="#cbbf9f"/>
+        <stop offset="1" stop-color="#ebcc77"/>
     </linearGradient>
     <linearGradient id="b" gradientTransform="matrix(.95 0 0 .9787234 -62.4 -65.787234)" gradientUnits="userSpaceOnUse" x1="12" x2="52" y1="13.5" y2="53.5">
-        <stop offset="0" stop-color="#63984b"/>
-        <stop offset="1" stop-color="#8fc278"/>
+        <stop offset="0" stop-color="#598a5b"/>
+        <stop offset="1" stop-color="#79a87b"/>
     </linearGradient>
     <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="34" x2="11" y1="58" y2="6">
         <stop offset="0" stop-color="#a1a9b1"/>

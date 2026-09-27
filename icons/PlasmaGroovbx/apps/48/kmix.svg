@@ -1,20 +1,20 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 0 48 48" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <linearGradient id="a" y1="44" y2="4" x2="0" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#18222a"/>
+   <stop stop-color="#162b2c"/>
    <stop offset="1" stop-color="#566069"/>
   </linearGradient>
   <linearGradient id="b" y1="540.8" y2="536.8" gradientUnits="userSpaceOnUse" x2="0">
-   <stop stop-color="#2f3943"/>
-   <stop offset="1" stop-color="#4d5662"/>
+   <stop stop-color="#264a4c"/>
+   <stop offset="1" stop-color="#4f5f60"/>
   </linearGradient>
   <linearGradient id="c" y1="537.8" y2="538.8" x2="0" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#197cf1"/>
-   <stop offset="1" stop-color="#21c9fb"/>
+   <stop stop-color="#529fa3"/>
+   <stop offset="1" stop-color="#5aa8ab"/>
   </linearGradient>
   <linearGradient xlink:href="#c" id="d" y1="539.8" y2="538.8" gradientUnits="userSpaceOnUse" x2="0" gradientTransform="translate(0-1078.6)"/>
   <linearGradient id="e" y1="543.8" y2="503.8" x2="0" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#2f3943"/>
+   <stop stop-color="#264a4c"/>
    <stop offset="1" stop-color="#808c9b"/>
   </linearGradient>
   <linearGradient xlink:href="#e" id="f" y1="499.8" y2="547.8" gradientUnits="userSpaceOnUse" x2="0"/>

@@ -1,12 +1,12 @@
 <svg width="64" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" height="64">
  <defs>
   <linearGradient id="a" y1="61" y2="3" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0-1 0 64)">
-   <stop stop-color="#32b641"/>
-   <stop offset="1" stop-color="#42ac4e"/>
+   <stop stop-color="#519759"/>
+   <stop offset="1" stop-color="#539b5b"/>
   </linearGradient>
   <linearGradient id="b" y1="61" y2="47" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0-1 0 64)">
-   <stop stop-color="#0e5960"/>
-   <stop offset="1" stop-color="#0e5960"/>
+   <stop stop-color="#21494d"/>
+   <stop offset="1" stop-color="#21494d"/>
   </linearGradient>
   <linearGradient id="c" y1="17" x1="40" y2="31" x2="54" gradientUnits="userSpaceOnUse">
    <stop stop-color="#3a4d4f"/>
@@ -22,5 +22,5 @@
   <path fill="url(#b)" d="m54 17l-14-14v14z"/>
   <path opacity=".2" fill="url(#c)" d="m40 17l14 14v-14z"/>
  </g>
- <path fill="#0e5960" d="m21 22v22h22v-22zm1 5h20v16h-20zm8 3v4.301h1v-3.301h2v3.301h1v-4.301zm-2.293 4.293l-.707.707 5 5 5-5-.707-.707-4.293 4.293-1-1z"/>
+ <path fill="#21494d" d="m21 22v22h22v-22zm1 5h20v16h-20zm8 3v4.301h1v-3.301h2v3.301h1v-4.301zm-2.293 4.293l-.707.707 5 5 5-5-.707-.707-4.293 4.293-1-1z"/>
 </svg>

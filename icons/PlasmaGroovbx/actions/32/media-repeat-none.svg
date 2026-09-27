@@ -2,7 +2,7 @@
     <style type="text/css" id="current-color-scheme">
         .ColorScheme-Text { color: #f9f5d7; }
         .ColorScheme-NegativeText {
-            color:#da4453;
+            color:#e02e27;
         }
     </style>
     <path d="m9 17.5-5.33398437 4 5.33398437 4v-3.5h12v-1.04882813l-12 .046875z" class="ColorScheme-Text" fill="currentColor"/>

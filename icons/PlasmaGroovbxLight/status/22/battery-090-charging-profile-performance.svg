@@ -6,10 +6,10 @@
             }
         
             .ColorScheme-NegativeText {
-                color:#da4453;
+                color:#e02e27;
             }
             .ColorScheme-PositiveText {
-                color:#27ae60;
+                color:#548156;
             }</style>
     </defs>
     <path class="ColorScheme-Text" d="m1 5v12h7v-1h-6v-10h17v2.0156c0.31583-0.010037 0.6458-0.015625 1-0.015625v-3h-17-2zm2 2v8h5v-2l4-2c1.3732-1.3732 2.2756-2.2747 4.3242-2.7051l-0.32422-1.2949h-13z" fill="currentColor"/>

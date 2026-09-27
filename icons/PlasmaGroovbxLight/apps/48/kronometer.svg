@@ -6,16 +6,16 @@
    <stop offset="1" style="stop-opacity:0"/>
   </linearGradient>
   <linearGradient id="linearGradient4918">
-   <stop style="stop-color:#3daefd"/>
-   <stop offset="1" style="stop-color:#24a058"/>
+   <stop style="stop-color:#6cb1b5"/>
+   <stop offset="1" style="stop-color:#457f49"/>
   </linearGradient>
   <linearGradient id="linearGradient4909">
-   <stop style="stop-color:#2c3e50"/>
-   <stop offset="1" style="stop-color:#0d352d"/>
+   <stop style="stop-color:#2a5052"/>
+   <stop offset="1" style="stop-color:#142c2e"/>
   </linearGradient>
   <linearGradient id="linearGradient4303">
    <stop style="stop-color:#c6cdd1"/>
-   <stop offset="1" style="stop-color:#e0e5e7"/>
+   <stop offset="1" style="stop-color:#ccd5d6"/>
   </linearGradient>
   <linearGradient xlink:href="#linearGradient4303" id="linearGradient4174-5" y1="543.798" y2="503.798" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -817.14285 0)"/>
   <linearGradient xlink:href="#linearGradient4909" id="linearGradient4915" y1="509.548" x1="-398.634" y2="539.173" x2="-416.571" gradientUnits="userSpaceOnUse"/>

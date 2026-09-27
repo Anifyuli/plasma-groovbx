@@ -34,7 +34,9 @@
   <style
      type="text/css"
      id="current-color-scheme">
-      .ColorScheme-Text { color: #f9f5d7; }
+      .ColorScheme-Text {
+        color:#31363b;
+      }
       </style>
   <g
      id="vlc"

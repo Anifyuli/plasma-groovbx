@@ -36,7 +36,7 @@
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#e0e5e7"
+         stop-color="#ccd5d6"
          id="stop14" />
     </linearGradient>
     <linearGradient
@@ -168,7 +168,7 @@
            y="180.93361"
            id="rect34-0-53-3-6-9-6-7" />
         <rect
-           style="fill:#3daee9;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#60abae;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            width="19.999998"
            height="0.99999952"
            x="780.85718"
@@ -215,7 +215,7 @@
            y="180.93361"
            id="rect34-0-53-3-6-90-0" />
         <rect
-           style="fill:#3daee9;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#60abae;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            width="19.999998"
            height="0.99999952"
            x="780.85718"
@@ -263,7 +263,7 @@
            y="176.11377"
            id="rect34-0-53-3-8-5-2-4" />
         <rect
-           style="fill:#3daee9;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#60abae;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
            width="32"
            height="1.0000005"
            x="667.61707"

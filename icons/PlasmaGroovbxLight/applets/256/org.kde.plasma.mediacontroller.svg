@@ -54,7 +54,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-Text {
         color:#4d4d4d;
@@ -108,7 +108,7 @@
          offset="0"
          id="stop4305" />
       <stop
-         style="stop-color:#e0e5e7;stop-opacity:1"
+         style="stop-color:#ccd5d6;stop-opacity:1"
          offset="1"
          id="stop4307" />
     </linearGradient>
@@ -148,11 +148,11 @@
        inkscape:collect="always"
        id="linearGradient4143">
       <stop
-         style="stop-color:#197cf1;stop-opacity:1"
+         style="stop-color:#529fa3;stop-opacity:1"
          offset="0"
          id="stop4145" />
       <stop
-         style="stop-color:#20bcfa;stop-opacity:1"
+         style="stop-color:#59a7ab;stop-opacity:1"
          offset="1"
          id="stop4147" />
     </linearGradient>
@@ -214,7 +214,7 @@
        inkscape:collect="always"
        id="linearGradient4290-2">
       <stop
-         style="stop-color:#7cbaf8;stop-opacity:1"
+         style="stop-color:#90c4c6;stop-opacity:1"
          offset="0"
          id="stop4292" />
       <stop

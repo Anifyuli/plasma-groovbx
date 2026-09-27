@@ -13,7 +13,7 @@
     <linearGradient inkscape:collect="always" xlink:href="#linearGradient4303" id="linearGradient4381" y1="543.79797" y2="518.79797" x2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(7.9567793,0,0,8.8311078,-2954.89,-4734.6937)"/>
     <linearGradient inkscape:collect="always" id="linearGradient4303">
       <stop style="stop-color:#c6cdd1" id="stop4305"/>
-      <stop offset="1" style="stop-color:#e0e5e7" id="stop4307"/>
+      <stop offset="1" style="stop-color:#ccd5d6" id="stop4307"/>
     </linearGradient>
   </defs>
   <sodipodi:namedview id="namedview11" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="14.584077" inkscape:cx="7.6796082" inkscape:cy="27.392888" inkscape:window-width="3840" inkscape:window-height="2054" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:current-layer="svg11"/>
@@ -24,7 +24,7 @@
   </linearGradient>
   <linearGradient id="c" gradientTransform="matrix(.52173855 0 0 .60869489 -197.81967 -312.39833)" gradientUnits="userSpaceOnUse" x2="0" y1="543.79797" y2="518.79797">
     <stop offset="0" stop-color="#c6cdd1" id="stop3"/>
-    <stop offset="1" stop-color="#e0e5e7" id="stop4"/>
+    <stop offset="1" stop-color="#ccd5d6" id="stop4"/>
   </linearGradient>
   <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="6.642848" x2="15.642859" y1="6.499992" y2="15.499984">
     <stop offset="0" stop-color="#292c2f" id="stop5"/>

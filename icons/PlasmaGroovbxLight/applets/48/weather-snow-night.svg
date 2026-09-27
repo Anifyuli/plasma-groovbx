@@ -8,7 +8,7 @@
   <linearGradient xlink:href="#0" id="1" y1="511.798" x2="0" y2="535.79797" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1,-4)"/>
   <linearGradient id="2">
    <stop stop-color="#6f8181"/>
-   <stop offset="1" stop-color="#334545"/>
+   <stop offset="1" stop-color="#344244"/>
   </linearGradient>
   <linearGradient id="3">
    <stop stop-color="#b0b8b8"/>
@@ -17,8 +17,8 @@
   <linearGradient gradientTransform="matrix(0.50000078,0,0,0.50000078,194.28541,255.89861)" gradientUnits="userSpaceOnUse" y2="542.79797" x2="0" y1="503.798" id="4" xlink:href="#3"/>
   <linearGradient gradientTransform="matrix(0.50000078,0,0,0.50000078,386.57142,505.798)" gradientUnits="userSpaceOnUse" y2="44" x2="0" y1="4" id="5" xlink:href="#2"/>
   <linearGradient id="6">
-   <stop stop-color="#abdaf9"/>
-   <stop offset="1" stop-color="#e1f2ff"/>
+   <stop stop-color="#c5dde0"/>
+   <stop offset="1" stop-color="#ebf4f5"/>
   </linearGradient>
   <linearGradient xlink:href="#6" id="7" y1="539" x2="0" y2="533" gradientUnits="userSpaceOnUse"/>
   <linearGradient gradientTransform="translate(4,6)" xlink:href="#6" id="8" y1="539" x2="0" y2="533" gradientUnits="userSpaceOnUse"/>

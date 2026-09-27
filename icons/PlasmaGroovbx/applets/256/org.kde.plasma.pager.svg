@@ -53,7 +53,7 @@
         color:#eff0f1;
       }
       .ColorScheme-Accent {
-        color:#3daee9;
+        color:#60abae;
       }
       .ColorScheme-Text { color: #f9f5d7; }
       .ColorScheme-ButtonText {
@@ -72,7 +72,7 @@
      class="ColorScheme-Background"
      id="rect4238" />
   <rect
-     style="opacity:0.4;fill:#1d99f3;fill-opacity:1;stroke:none"
+     style="opacity:0.4;fill:#54a2a6;fill-opacity:1;stroke:none"
      id="rect5492"
      width="92"
      height="57.999969"

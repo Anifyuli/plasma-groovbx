@@ -18,12 +18,12 @@
   </linearGradient>
   <linearGradient xlink:href="#d" id="e" y1="10.227" x1="25" y2="26.733" x2="41.05" gradientUnits="userSpaceOnUse"/>
   <linearGradient id="f" y1="42" x1="41" y2="10" x2="5" gradientUnits="userSpaceOnUse" gradientTransform="translate(384.57 499.8)">
-   <stop stop-color="#2e5d89"/>
-   <stop offset="1" stop-color="#1b92f4"/>
+   <stop stop-color="#3e7779"/>
+   <stop offset="1" stop-color="#54a2a5"/>
   </linearGradient>
   <linearGradient id="g" y1="42" x1="41" y2="10" x2="5" gradientUnits="userSpaceOnUse" gradientTransform="translate(384.57 499.8)">
-   <stop stop-color="#06a370"/>
-   <stop offset="1" stop-color="#22d1b0"/>
+   <stop stop-color="#396e70"/>
+   <stop offset="1" stop-color="#529ea1"/>
   </linearGradient>
  </defs>
  <g transform="translate(-384.57-499.8)">

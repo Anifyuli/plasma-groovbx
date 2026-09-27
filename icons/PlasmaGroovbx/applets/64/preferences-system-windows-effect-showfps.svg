@@ -153,11 +153,11 @@
        inkscape:collect="always"
        id="linearGradient4221">
       <stop
-         stop-color="#158994"
+         stop-color="#337076"
          id="stop15" />
       <stop
          offset="1"
-         stop-color="#2fb7c4"
+         stop-color="#519ba2"
          id="stop17" />
     </linearGradient>
     <linearGradient
@@ -180,11 +180,11 @@
        id="linearGradient4435"
        inkscape:collect="always">
       <stop
-         stop-color="#b92421"
+         stop-color="#c01d1a"
          id="stop24" />
       <stop
          offset="1"
-         stop-color="#c3322f"
+         stop-color="#d5211d"
          id="stop26" />
     </linearGradient>
     <linearGradient
@@ -258,11 +258,11 @@
        inkscape:collect="always"
        id="linearGradient4300-7">
       <stop
-         stop-color="#d29c1e"
+         stop-color="#d19c1f"
          id="stop32" />
       <stop
          offset="1"
-         stop-color="#e2ac31"
+         stop-color="#e0ab33"
          id="stop34" />
     </linearGradient>
   </defs>
@@ -304,13 +304,13 @@
            id="path6573-0-2"
            transform="matrix(0.4999997,0,0,0.53846115,736.85718,184.70277)"
            d="M 0,29 0,58 64,58 64,29 0,29 Z"
-           style="fill:#e5e764;fill-opacity:1"
+           style="fill:#e3e566;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <path
            id="path6575-1-9"
            transform="matrix(0.4999997,0,0,0.53846115,736.85718,184.70277)"
            d="M 30.570312,29 19.955078,36.302734 51.492188,58 64,58 64,29 30.570312,29 Z"
-           style="fill:#de6da2;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+           style="fill:#c388a4;fill-opacity:1;stroke-width:2;stroke-linecap:round"
            inkscape:connector-curvature="0" />
         <path
            id="path6577-7-1"
@@ -549,7 +549,7 @@
            x="9"
            y="32"
            id="rect102"
-           style="fill:#b53836;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#cf1f1c;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="1"
            height="1"
@@ -563,7 +563,7 @@
            x="9"
            y="40"
            id="rect106"
-           style="fill:#2d8637;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#3f7445;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="1"
            height="1"
@@ -577,14 +577,14 @@
            x="15"
            y="36"
            id="rect110"
-           style="fill:#2d8637;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#3f7445;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="1"
            height="1"
            x="15"
            y="32"
            id="rect112"
-           style="fill:#b53836;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#cf1f1c;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="1"
            height="1"
@@ -605,42 +605,42 @@
            x="21"
            y="32"
            id="rect118"
-           style="fill:#2d8637;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#3f7445;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="2"
            height="1"
            x="24"
            y="32"
            id="rect120"
-           style="fill:#2d8637;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#3f7445;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="3"
            height="1"
            x="21"
            y="36"
            id="rect122"
-           style="fill:#2d8637;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#3f7445;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="7"
            height="1"
            x="21"
            y="40"
            id="rect124"
-           style="fill:#b53836;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#cf1f1c;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="1"
            height="1"
            x="29"
            y="40"
            id="rect126"
-           style="fill:#b53836;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#cf1f1c;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="3"
            height="1"
            x="35"
            y="28"
            id="rect128"
-           style="fill:#2d8637;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#3f7445;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="1"
            height="1"
@@ -654,7 +654,7 @@
            x="35"
            y="36"
            id="rect132"
-           style="fill:#b53836;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
+           style="fill:#cf1f1c;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" />
         <rect
            width="3"
            height="1"

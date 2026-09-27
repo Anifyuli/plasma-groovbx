@@ -76,11 +76,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0454421,0,0,1.0298842,46.076843,3.856842)">
       <stop
-         stop-color="#21c9fb"
+         stop-color="#5aa8ab"
          id="stop13" />
       <stop
          offset="1"
-         stop-color="#1a86f2"
+         stop-color="#5ea6ae"
          id="stop15" />
     </linearGradient>
     <linearGradient

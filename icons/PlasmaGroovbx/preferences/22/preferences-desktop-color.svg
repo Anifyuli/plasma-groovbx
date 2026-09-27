@@ -6,44 +6,44 @@
         </linearGradient>
         <linearGradient id="linearGradient4274" x1="8" x2="24.00001" y1="23.999973" y2="8" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4288"/>
         <linearGradient id="linearGradient4288">
-            <stop stop-color="#c82470" offset="0"/>
-            <stop stop-color="#cf2b78" offset=".312499"/>
-            <stop stop-color="#54999f" offset=".562499"/>
-            <stop stop-color="#35abb6" offset=".75"/>
-            <stop stop-color="#19a6b2" offset="1"/>
+            <stop stop-color="#9d4f73" offset="0"/>
+            <stop stop-color="#a6547a" offset=".312499"/>
+            <stop stop-color="#519ba2" offset=".562499"/>
+            <stop stop-color="#4f969c" offset=".75"/>
+            <stop stop-color="#448287" offset="1"/>
         </linearGradient>
         <clipPath id="clipPath4534">
             <rect x="8.0000095" y="8" width="31.999989" height="31.999971" rx="15.999986"/>
         </clipPath>
         <linearGradient id="linearGradient4278" x1="8" x2="24.00001" y1="24.000031" y2="8" gradientTransform="matrix(1,0,0,-1,384.57143,547.798)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4300"/>
         <linearGradient id="linearGradient4300">
-            <stop stop-color="#d52577" offset="0"/>
-            <stop stop-color="#d42577" offset=".312499"/>
-            <stop stop-color="#ca2826" offset=".562499"/>
-            <stop stop-color="#cc2825" offset=".75"/>
-            <stop stop-color="#d6221f" offset="1"/>
+            <stop stop-color="#a6547a" offset="0"/>
+            <stop stop-color="#a6537a" offset=".312499"/>
+            <stop stop-color="#d31f1d" offset=".562499"/>
+            <stop stop-color="#d4201d" offset=".75"/>
+            <stop stop-color="#d8201d" offset="1"/>
         </linearGradient>
         <clipPath id="clipPath4584">
             <rect x="392.57144" y="507.798" width="31.999989" height="31.999971" rx="15.999986"/>
         </clipPath>
         <linearGradient id="linearGradient4284" x1="8" x2="24.00001" y1="23.999973" y2="8" gradientTransform="matrix(-1,0,0,1,432.57143,499.798)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4328"/>
         <linearGradient id="linearGradient4328">
-            <stop stop-color="#adb019" offset="0"/>
-            <stop stop-color="#b5b81a" offset=".312499"/>
-            <stop stop-color="#46b053" offset=".562499"/>
-            <stop stop-color="#3d949c" offset=".75"/>
-            <stop stop-color="#19a5b2" offset="1"/>
+            <stop stop-color="#a9ac1d" offset="0"/>
+            <stop stop-color="#b1b41e" offset=".312499"/>
+            <stop stop-color="#56a05f" offset=".562499"/>
+            <stop stop-color="#498a90" offset=".75"/>
+            <stop stop-color="#448187" offset="1"/>
         </linearGradient>
         <clipPath id="clipPath4550">
             <rect x="392.57144" y="507.798" width="31.999989" height="31.999971" rx="15.999986"/>
         </clipPath>
         <linearGradient id="linearGradient4286" x1="8" x2="24.00001" y1="24" y2="8" gradientTransform="rotate(180 216.28571 273.899)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4316"/>
         <linearGradient id="linearGradient4316">
-            <stop stop-color="#b0b319" offset="0"/>
-            <stop stop-color="#c0c31c" offset=".312499"/>
-            <stop stop-color="#d29c1e" offset=".562499"/>
-            <stop stop-color="#d29c1e" offset=".75"/>
-            <stop stop-color="#d25d1e" offset="1"/>
+            <stop stop-color="#acae1e" offset="0"/>
+            <stop stop-color="#bcbf20" offset=".312499"/>
+            <stop stop-color="#d19c1f" offset=".562499"/>
+            <stop stop-color="#d19c1f" offset=".75"/>
+            <stop stop-color="#d65c1a" offset="1"/>
         </linearGradient>
         <clipPath id="clipPath4568">
             <rect x="392.57144" y="507.798" width="31.999989" height="31.999971" rx="15.999986"/>

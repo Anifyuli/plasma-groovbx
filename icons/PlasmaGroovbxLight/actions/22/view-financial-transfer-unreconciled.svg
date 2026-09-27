@@ -5,7 +5,7 @@
         color:#232629;
       }
       .ColorScheme-NegativeText {
-        color:#da4453;
+        color:#e02e27;
       }
       </style>
   </defs>
@@ -15,7 +15,7 @@
     class="ColorScheme-Text"
     />
 <path
-    d="m16 6v1h1v-1zm-2 2v1h1v-1zm2 0v1h1v-1zm0 2v1h1v-1z" fill="#da4453" stroke-width=".632457"
+    d="m16 6v1h1v-1zm-2 2v1h1v-1zm2 0v1h1v-1zm0 2v1h1v-1z" fill="#e02e27" stroke-width=".632457"
     style="fill:currentColor;fill-opacity:1;stroke:none"
     class="ColorScheme-NegativeText"
     />

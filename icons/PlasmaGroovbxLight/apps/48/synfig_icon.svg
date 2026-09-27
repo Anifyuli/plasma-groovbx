@@ -9,8 +9,8 @@
    <stop offset="1" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="c" y1="537.8" y2="508.8" gradientUnits="userSpaceOnUse" x2="0">
-   <stop stop-color="#4b9093"/>
-   <stop offset="1" stop-color="#6fb3b6"/>
+   <stop stop-color="#4a8c94"/>
+   <stop offset="1" stop-color="#6eafb6"/>
   </linearGradient>
   <linearGradient id="d" y1="525.28" x1="408.65" y2="533.28" x2="416.65" gradientUnits="userSpaceOnUse" gradientTransform="translate(-.081-.48)">
    <stop stop-opacity=".065"/>

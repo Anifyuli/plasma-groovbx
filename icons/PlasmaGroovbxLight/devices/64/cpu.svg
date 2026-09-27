@@ -4,8 +4,8 @@
 <svg width="64" version="1.1" xmlns="http://www.w3.org/2000/svg" height="64" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <defs id="defs5455">
   <linearGradient inkscape:collect="always" id="linearGradient4251-0">
-   <stop style="stop-color:#519258" id="stop4253-4"/>
-   <stop offset="1" style="stop-color:#6db475" id="stop4255-2"/>
+   <stop style="stop-color:#4f9457" id="stop4253-4"/>
+   <stop offset="1" style="stop-color:#6fb277" id="stop4255-2"/>
   </linearGradient>
   <linearGradient inkscape:collect="always" id="linearGradient4159">
    <stop style="stop-color:#2a2c2f" id="stop4161"/>
@@ -27,12 +27,12 @@
  </defs>
  <metadata id="metadata5458"/>
  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -376.57144 -491.79797)">
-  <path style="fill:#d1d35d;fill-rule:evenodd" id="path4346" d="M 6 15 L 6 16 L 9.1992188 18.400391 L 10 18 L 6 15 z " transform="matrix(1 0 0 1 376.57144 491.79797)"/>
+  <path style="fill:#dfe14f;fill-rule:evenodd" id="path4346" d="M 6 15 L 6 16 L 9.1992188 18.400391 L 10 18 L 6 15 z " transform="matrix(1 0 0 1 376.57144 491.79797)"/>
   <path style="fill:url(#linearGradient4291)" id="rect4283" d="M 6 6 L 6 15 L 10 18 L 6 20 L 6 58 L 58 58 L 58 6 L 6 6 z " transform="matrix(1 0 0 1 376.57144 491.79797)"/>
   <path style="fill:url(#linearGradient4383);opacity:0.2;fill-rule:evenodd" id="path4378" d="M 49 15 L 15 49 L 24 58 L 58 58 L 58 24 L 49 15 z " transform="matrix(1 0 0 1 376.57144 491.79797)"/>
-  <rect width="52" x="382.57144" y="548.79773" height="1" style="fill:#d1d35d" id="rect4293"/>
+  <rect width="52" x="382.57144" y="548.79773" height="1" style="fill:#dfe14f" id="rect4293"/>
   <path inkscape:connector-curvature="0" style="color:#000000" id="path4303-6" d="m 427.57143,543.79797 0,1 -1,0 0,-1 1,0 z m -1,1 0,1 -1,0 0,-1 1,0 z m -1,0 -1,0 0,-1 1,0 0,1 z m -1,0 0,1 -1,0 0,-1 1,0 z m -1,0 -1,0 0,-1 1,0 0,1 z m -1,0 0,1 -1,0 0,-1 1,0 z m -1,0 -1,0 0,-1 1,0 0,1 z m -1,0 0,1 -1,0 0,-1 1,0 z m -1,0 -1,0 0,-1 1,0 0,1 z m -1,0 0,1 -1,0 0,-1 1,0 z m -1,0 -1,0 0,-1 1,0 0,1 z m -1,0 0,1 -1,0 0,-1 1,0 z m -1,0 -1,0 0,-1 1,0 0,1 z m -1,0 0,1 -1,0 0,-1 1,0 z m -1,0 -1,0 0,-1 1,0 0,1 z m -1,0 0,1 -1,0 0,-1 1,0 z"/>
-  <path inkscape:connector-curvature="0" style="fill:#dcdd85;fill-rule:evenodd" id="path4317" d="m 431.57143,543.79797 -2,2 2,0 0,-2 z"/>
+  <path inkscape:connector-curvature="0" style="fill:#e7e87a;fill-rule:evenodd" id="path4317" d="m 431.57143,543.79797 -2,2 2,0 0,-2 z"/>
   <path inkscape:connector-curvature="0" style="color:#000000" id="path4331" d="m 387.57143,543.79797 0,1 1,0 0,-1 -1,0 z m 1,1 0,1 1,0 0,-1 -1,0 z m 1,0 1,0 0,-1 -1,0 0,1 z m 1,0 0,1 1,0 0,-1 -1,0 z m 1,0 1,0 0,-1 -1,0 0,1 z m 1,0 0,1 1,0 0,-1 -1,0 z m 1,0 1,0 0,-1 -1,0 0,1 z m 1,0 0,1 1,0 0,-1 -1,0 z m 1,0 1,0 0,-1 -1,0 0,1 z m 1,0 0,1 1,0 0,-1 -1,0 z m 1,0 1,0 0,-1 -1,0 0,1 z m 1,0 0,1 1,0 0,-1 -1,0 z m 1,0 1,0 0,-1 -1,0 0,1 z m 1,0 0,1 1,0 0,-1 -1,0 z m 1,0 1,0 0,-1 -1,0 0,1 z m 1,0 0,1 1,0 0,-1 -1,0 z"/>
   <path inkscape:connector-curvature="0" style="color:#000000" id="path4333" d="m 432.57143,521.79797 -1,0 0,-1 1,0 0,1 z m -1,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z m 0,-1 0,-1 1,0 0,1 -1,0 z m 0,-1 -1,0 0,-1 1,0 0,1 z"/>
   <rect width="34" x="391.57144" y="506.79797" height="34" style="fill:url(#linearGradient4337)" id="rect4335"/>

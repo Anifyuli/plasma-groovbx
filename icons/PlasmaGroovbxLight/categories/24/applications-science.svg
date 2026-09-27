@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" width="24" height="24">
   <defs>
     <linearGradient id="a" x1="4" x2="4" y1="19" y2="3" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#AEBAC1"/>
-      <stop offset=".383" stop-color="#B2BCC3"/>
-      <stop offset="1" stop-color="#BDC3C7"/>
+      <stop stop-color="#aebac1"/>
+      <stop offset=".383" stop-color="#b2bcc3"/>
+      <stop offset="1" stop-color="#bdc3c7"/>
     </linearGradient>
     <linearGradient id="b" x1="5" x2="4" y1="19" y2="13" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#27AE60"/>
-      <stop offset="1" stop-color="#78DA06"/>
+      <stop stop-color="#548156"/>
+      <stop offset="1" stop-color="#76c020"/>
     </linearGradient>
     <linearGradient id="c" x1="4.5" x2="18" y1="18" y2="19" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0EA712"/>
-      <stop offset="1" stop-color="#1F8B4D"/>
+      <stop stop-color="#3f7641"/>
+      <stop offset="1" stop-color="#337750"/>
     </linearGradient>
     <linearGradient id="d" x1="11" x2="11" y1="13" y2="18" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#78E22E"/>
-      <stop offset="1" stop-color="#78E22E" stop-opacity="0"/>
+      <stop stop-color="#82ac64"/>
+      <stop offset="1" stop-color="#82ac64" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="e" x1="4" x2="4" y1="4" y2="19" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="f" x1="4" x2="4" y1="4" y2="19" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <g transform="translate(1,1)">

@@ -4,16 +4,16 @@
         <stop offset="1" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="10.01" x2="54.01" y1="10.02" y2="54.02">
-        <stop offset="0" stop-color="#e8be5d"/>
-        <stop offset="1" stop-color="#d3a53c"/>
+        <stop offset="0" stop-color="#e7c25d"/>
+        <stop offset="1" stop-color="#e0b130"/>
     </linearGradient>
     <path d="m10.01 61.02v-58h30l14 14v44h-14z" fill="url(#b)"/>
     <g transform="scale(1 -1)">
-        <path d="m10.01-4.02h30v1h-30z" fill="#fff" opacity=".5"/>
+        <path d="m10.01-4.02h30v1h-30z" fill="#ffffff" opacity=".5"/>
         <path d="m10.01-61.02h44v1h-44z" opacity=".25"/>
     </g>
     <g fill-rule="evenodd">
-        <path d="m54.01 17.02-14-14v14z" fill="#fff" opacity=".5"/>
+        <path d="m54.01 17.02-14-14v14z" fill="#ffffff" opacity=".5"/>
         <path d="m40.01 17.02 14 14v-14z" fill="url(#a)" opacity=".2"/>
         <g fill="#fcfcfc">
             <path d="m29 20.75v9.12890625l7.93945313-7.93945312-1.93945313-.93945313zm-3 1.5-3 2.25-2.25 5.5v4l2.25 5.5 3 2.25v-7.75h-4.5v-1h4.5v-2h-4.5v-1h4.5zm13.43554688 1.43554688-6.31445313 6.31445312h9.37890625v1h-10.37890625l-1 1 1 1h10.37890625v1h-9.37890625l6.31445313 6.31445313 3.56445312-3.81445313v-9zm-10.43554688 19.56445312 6-.25 2-.87890625-8-8z"/>
