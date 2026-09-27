@@ -87,20 +87,27 @@ a future Breeze icon this repo doesn't have yet — still resolves), plus:
 - Folder and generic UI icons follow the accent color automatically (Breeze's
   own `ColorScheme-Accent` mechanism), no separate icon work needed there.
 
-## Known issue: AccentColor after switching Dark ↔ Light
+## Accent color
 
-Neither `plasma-apply-colorscheme` nor `plasma-apply-lookandfeel` reliably
-apply the AccentColor declared in a color scheme or Global Theme's
-`defaults` — it's a single global value, and switching between Plasma
-Groovbx Dark and Light from System Settings can leave the *other*
-variant's AccentColor in place. Since Plasma derives the Selection text
-color (and a few other things, like the Pager's active-desktop indicator)
-from AccentColor at apply time, this can leave selected text unreadable.
+Each variant's `color-schemes/PlasmaGroovbx{Dark,Light}.colors` carries its
+own `[General] AccentColor`, and each Global Theme's `contents/defaults`
+selects that scheme via `ColorScheme=`. Nothing writes `AccentColor` into
+`kdeglobals`.
 
-If that happens, run:
+That is deliberate. An `AccentColor` in `kdeglobals` is a *user-level
+override*, and System Settings labels it "Custom accent color" the moment it
+exists — "Accent color from color scheme" is only shown when the active scheme
+declares the accent and no user override is present. The accent therefore has
+to come from the scheme rather than from a forced write.
+
+Each Global Theme's `contents/defaults` also embeds every `[Colors:*]`,
+`[ColorEffects:*]`, `[KDE]` and `[WM]` group, so the Gruvbox palette is applied
+by the theme itself even when its color scheme is not the active one.
+
+After an icon update, re-apply so Plasma drops its cached SVGs:
 
 ```sh
-./fix-accent-color.sh
+./install.sh --reapply
 ```
 
 ## GTK apps

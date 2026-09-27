@@ -27,18 +27,24 @@ Usage: $(basename "$0") [options]
                    stock Breeze/Breeze Dark first.
   -g, --gtk        Also apply the optional GTK window-button-icon workaround
                    and close-hover snippet, to ~/.config/gtk-3.0 and gtk-4.0
+  -a, --reapply    After installing, re-apply the active Plasma Groovbx global
+                   theme and restart plasmashell. Needed after an icon update:
+                   Plasma caches rendered SVGs in ~/.cache, so new files are
+                   not picked up until the theme is applied again.
   -h, --help       Show this help
 USAGE
 }
 
 ACTION=install
 WITH_GTK=false
+REAPPLY=false
 
 while [ $# -gt 0 ]; do
   case "$1" in
     -d|--dest) DEST="$2"; shift 2 ;;
     -r|--remove) ACTION=remove; shift ;;
     -g|--gtk) WITH_GTK=true; shift ;;
+    -a|--reapply) REAPPLY=true; shift ;;
     -h|--help) usage; exit 0 ;;
     *) err "Unknown option: $1"; usage; exit 1 ;;
   esac
@@ -76,7 +82,12 @@ do_install() {
     sed -i "s|__PLASMA_GROOVBX_WALLPAPER_PATH__|$wallpaper_path|" "$layout"
   done
 
-  log "Done. Apply from System Settings > Appearance > Global Themes > Plasma Groovbx Dark/Light."
+  if [ "$REAPPLY" = true ]; then
+    do_reapply
+  else
+    log "Done. Apply from System Settings > Appearance > Global Themes > Plasma Groovbx Dark/Light."
+    log "After an icon update, re-apply that theme so Plasma drops its cached SVGs."
+  fi
 
   if [ "$WITH_GTK" = true ]; then
     log "Applying optional GTK extras..."
@@ -90,6 +101,41 @@ do_install() {
     done
     warn "kde-gtk-config regenerates its own files on color scheme changes and may undo this; re-run with -g if it does."
   fi
+}
+
+do_reapply() {
+  local current
+  current="$(kreadconfig6 --file kdeglobals --group KDE --key LookAndFeelPackage 2>/dev/null)"
+  case "$current" in
+    com.anifyuli.plasmagroovbx*.desktop) ;;
+    *)
+      err "Active global theme is '$current', not a Plasma Groovbx variant."
+      err "Pick Plasma Groovbx Dark/Light in System Settings > Appearance > Global Themes first."
+      return 1
+      ;;
+  esac
+
+  log "Re-applying $current"
+  if ! plasma-apply-lookandfeel -a "$current"; then
+    err "plasma-apply-lookandfeel failed; re-apply from System Settings > Appearance > Global Themes."
+    return 1
+  fi
+
+  # Plasma caches rendered SVGs (~/.cache/plasma_theme_*, ksvg-elements), so a
+  # re-apply alone is not enough after an icon update. plasmashell here runs
+  # with --no-respawn (not under systemd), so relaunch it by hand.
+  #
+  # AccentColor is deliberately NOT written here: it lives in each variant's
+  # color-schemes/*.colors [General], so System Settings reports it as
+  # "Accent color from color scheme". Overriding it in kdeglobals is what makes
+  # the KCM label it a custom accent instead.
+  log "Purging SVG cache and restarting plasmashell"
+  rm -rf "$HOME"/.cache/plasma_theme_* "$HOME"/.cache/plasma-svgelements* \
+         "$HOME"/.cache/ksvg* 2>/dev/null || true
+  kquitapp6 plasmashell >/dev/null 2>&1 || true
+  sleep 1
+  setsid plasmashell >/dev/null 2>&1 &
+  disown
 }
 
 reset_to_breeze() {
