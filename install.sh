@@ -90,6 +90,16 @@ do_install() {
     sed -i "s|__PLASMA_GROOVBX_WALLPAPER_PATH__|$wallpaper_path|" "$layout"
   done
 
+  # The tree only carries a tinted Fedora logo. On other distros, tint the
+  # host's own os-release LOGO into the installed copy (not the repo), so
+  # Kickoff and About This System get it in Gruvbox too.
+  logo="$( . /etc/os-release 2>/dev/null; echo "${LOGO:-}")"
+  if [ -n "$logo" ] && [ -z "$(find "$DEST/icons/PlasmaGroovbx" -name "$logo.*" -print -quit)" ]; then
+    log "Tinting this distro's logo ($logo)"
+    python3 "$REPO_DIR/tools/tint.py" --icons "$DEST/icons" app "$logo" >/dev/null \
+      || warn "Could not tint '$logo'; the untinted distro logo will be used."
+  fi
+
   # Some distros (Fedora) point About This System at a fixed PNG via
   # /etc/xdg/kcm-about-distrorc LogoPath. Drop that key for this user so the
   # os-release LOGO name resolves through the icon theme and gets the tint.

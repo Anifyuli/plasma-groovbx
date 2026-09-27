@@ -84,11 +84,17 @@ a future Breeze icon this repo doesn't have yet — still resolves), plus:
   spins, whose default already resolves to that name — nothing in this repo
   forces it) alongside the existing tinted `start-here-kde`/
   `start-here-kde-plasma` for KDE's own generic menu mark on other distros.
+  On any other distro, `install.sh` tints that distro's own logo into the
+  installed theme (never into the repo) when the tree has no icon under its
+  os-release `LOGO=` name. The logo is taken from hicolor or
+  `/usr/share/pixmaps` with `tools/tint.py`, so Arch, openSUSE, Ubuntu and the
+  rest get a Gruvbox logo without the repo shipping their trademarks.
   The large logo in About This System (Info Center and System Settings)
-  shows it too. Fedora pins that logo to a fixed PNG through `LogoPath` in
-  `/etc/xdg/kcm-about-distrorc`, so `install.sh` adds `LogoPath[$d]` to
-  `~/.config/kcm-about-distrorc`. That leaves the `LOGO=` name from
-  os-release to resolve through the icon theme. `--remove` takes the line out.
+  uses the same icon. Some distros, Fedora among them, pin that logo to a
+  fixed PNG through `LogoPath` in `/etc/xdg/kcm-about-distrorc`, so
+  `install.sh` adds `LogoPath[$d]` to `~/.config/kcm-about-distrorc`. That
+  leaves the `LOGO=` name to resolve through the icon theme. `--remove`
+  takes the line out.
 - Folder and generic UI icons follow the accent color automatically (Breeze's
   own `ColorScheme-Accent` mechanism), no separate icon work needed there.
 

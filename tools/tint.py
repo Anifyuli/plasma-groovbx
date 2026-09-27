@@ -2,7 +2,7 @@
 """Recolour icons into both Plasma Groovbx variants with the Gruvbox tint.
 
   tint.py table              rebuild tools/colour-table.json from the tree vs stock Breeze
-  tint.py app NAME...        tint an installed app's icon (hicolor/Flatpak) into apps/48
+  tint.py app NAME...        tint an installed app's icon (hicolor/Flatpak/pixmaps) into apps/48
   tint.py file SRC REL       tint SRC into icons/<variant>/REL, e.g. a breeze-third-party
                              icon: tint.py file ~/btp/icons/actions/22/im-foo.svg actions/22/im-foo.svg
 
@@ -123,13 +123,13 @@ def tint_png(src, dst, key, table):
     img.save(dst)
 
 
-def tint_file(src, rel):
+def tint_file(src, rel, icons='icons'):
     tables = json.load(open(TABLE))
     src = os.path.realpath(src)  # Flatpak exports are symlinks
     for variant in VARIANTS:
         cat = rel.split('/')[0] if rel.split('/')[0] in tables[variant] else 'apps'
         table, key = tables[variant][cat], (variant, cat)
-        dst = f'icons/{variant}/{rel}'
+        dst = f'{icons}/{variant}/{rel}'
         os.makedirs(os.path.dirname(dst), exist_ok=True)
         if os.path.lexists(dst):
             os.remove(dst)
@@ -141,17 +141,25 @@ def tint_file(src, rel):
 
 
 def app_source(name):
-    """Scalable SVG if the app ships one, else its largest PNG up to 512px."""
+    """Scalable SVG if the app ships one, else its largest PNG up to 512px,
+    else /usr/share/pixmaps (where many distros keep their os-release LOGO)."""
     for root in ICON_ROOTS:
         if os.path.exists(f'{root}/scalable/apps/{name}.svg'):
             return f'{root}/scalable/apps/{name}.svg'
     size = lambda p: int(p.split('/')[-3].split('x')[0])
     pngs = [p for r in ICON_ROOTS for p in glob.glob(f'{r}/*x*/apps/{name}.png') if size(p) <= 512]
-    return max(pngs, key=size) if pngs else None
+    if pngs:
+        return max(pngs, key=size)
+    for ext in ('svg', 'png'):
+        if os.path.exists(f'/usr/share/pixmaps/{name}.{ext}'):
+            return f'/usr/share/pixmaps/{name}.{ext}'
+    return None
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument('--icons', default='icons',
+                    help='directory holding the two variants (default: the repo copy; install.sh passes the installed one)')
     sub = ap.add_subparsers(dest='cmd', required=True)
     sub.add_parser('table')
     a = sub.add_parser('app')
@@ -160,19 +168,26 @@ def main():
     f.add_argument('src')
     f.add_argument('rel')
     args = ap.parse_args()
-    if not os.path.isdir('icons/PlasmaGroovbx'):
-        sys.exit('run from the repo root')
+    if not os.path.isdir(f'{args.icons}/PlasmaGroovbx'):
+        sys.exit(f'{args.icons}/PlasmaGroovbx not found; run from the repo root or pass --icons')
     if args.cmd == 'table':
         build_table()
     elif args.cmd == 'file':
-        tint_file(args.src, args.rel)
+        tint_file(args.src, args.rel, args.icons)
     else:
+        status = 0
         for name in args.names:
             src = app_source(name)
             if not src:
-                print(f'{name}: no icon in hicolor or Flatpak exports', file=sys.stderr)
+                print(f'{name}: no icon in hicolor, Flatpak exports or pixmaps', file=sys.stderr)
+                status = 1
                 continue
-            tint_file(src, f'apps/48/{name}.{src.rsplit(".", 1)[1]}')
+            try:
+                tint_file(src, f'apps/48/{name}.{src.rsplit(".", 1)[1]}', args.icons)
+            except ImportError:
+                print(f'{name}: {src} is a PNG, which needs PySide6', file=sys.stderr)
+                status = 1
+        sys.exit(status)
 
 
 if __name__ == '__main__':
