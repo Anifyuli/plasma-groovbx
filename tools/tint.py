@@ -18,11 +18,29 @@ VARIANTS = {'PlasmaGroovbx': 'breeze-dark', 'PlasmaGroovbxLight': 'breeze'}
 ICON_ROOTS = ['/usr/share/icons/hicolor', '/var/lib/flatpak/exports/share/icons/hicolor',
               os.path.expanduser('~/.local/share/flatpak/exports/share/icons/hicolor')]
 HEX = re.compile(r'#([0-9a-fA-F]{8}|[0-9a-fA-F]{6}|[0-9a-fA-F]{3})\b')
+# Some sources (Flutter's SVGs, older Inkscape exports) write rgb()/rgba() instead of
+# hex; normalise both to hex so the table lookup and the curve see the same colours.
+COLOUR = re.compile(r'#(?P<hex>[0-9a-fA-F]{8}|[0-9a-fA-F]{6}|[0-9a-fA-F]{3})\b'
+                    r'|rgba?\(\s*(?P<rgb>[^)]*)\)', re.I)
 
 
 def canon(h):
     h = h.lower()
     return ''.join(c * 2 for c in h) if len(h) == 3 else h
+
+
+def tohex(m):
+    """Canonical hex for one COLOUR match, alpha kept as a trailing pair."""
+    if m.group('hex'):
+        return canon(m.group('hex'))
+    parts = [p for p in re.split(r'[,\s]+', m.group('rgb')) if p]
+    out = ''
+    for i, p in enumerate(parts[:4]):
+        v = float(p[:-1]) * 255 / 100 if p.endswith('%') else float(p)
+        if i == 3 and not p.endswith('%') and v <= 1:  # alpha is a 0..1 fraction
+            v *= 255
+        out += '%02x' % max(0, min(255, round(v)))
+    return out
 
 
 def hls(c):
@@ -44,8 +62,8 @@ def build_table():
                 ours = f'icons/{variant}/{rel}'
                 if os.path.islink(ours) or not os.path.exists(ours):
                     continue
-                a = [canon(m)[:6] for m in HEX.findall(open(src, errors='ignore').read())]
-                b = [canon(m)[:6] for m in HEX.findall(open(ours, errors='ignore').read())]
+                a = [tohex(m)[:6] for m in COLOUR.finditer(open(src, errors='ignore').read())]
+                b = [tohex(m)[:6] for m in COLOUR.finditer(open(ours, errors='ignore').read())]
                 if len(a) == len(b):
                     for x, y in zip(a, b):
                         pairs[rel.split('/')[0]][x][y] += 1
@@ -104,9 +122,9 @@ def tint_svg(text, key, table, dark):
                       lambda m: re.sub('#232629', '#fcfcfc', m.group(0), flags=re.I), text, flags=re.S)
 
     def sub(m):
-        c = canon(m.group(1))
+        c = tohex(m)
         return '#' + (table.get(c[:6]) or shift(c[:6], key, table)) + c[6:]
-    return HEX.sub(sub, text)
+    return COLOUR.sub(sub, text)
 
 
 def tint_png(src, dst, key, table):
